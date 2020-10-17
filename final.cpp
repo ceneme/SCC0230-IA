@@ -81,6 +81,7 @@ int A_estrela(int root,int dest, bool flag_idaestrela)
 	precalcula_heuristica(dest);
 	priority_queue<pair<int,int> > fila_prioridade;
 	distancias[root] = 0;
+	cout << cidades_id[root] << " "; // imprime cidade inicial
 	resposta_final[root] = 0;
 	fila_prioridade.push(make_pair(0,root));	
 	while(fila_prioridade.size())
@@ -101,6 +102,7 @@ int A_estrela(int root,int dest, bool flag_idaestrela)
 			{
 				distancias[next.second] = soma;	
 				resposta_final[next.second] = resposta_final[current_no] + next.first;
+				cout << cidades_id[next.second] << " "; // imprime as demais cidades
 				/* 
 					A diferença entre A estrela e IDA estrela é o uso do fator limitante na heurística
 					para não reescrever o código, adicionei uma flag para saber qual estou usando no momento
@@ -110,12 +112,14 @@ int A_estrela(int root,int dest, bool flag_idaestrela)
 			}
 		}
 	}
+	cout << endl; // termina a impressão pulando linha
 	return resposta_final[dest];
 }
 int djikstra(int root,int dest)
 {
 	priority_queue<pair<int,int> > fila_prioridade;
 	distancias[root] = 0;
+	cout << cidades_id[root] << " ";
 	fila_prioridade.push(make_pair(0,root));	
 	while(fila_prioridade.size())
 	{
@@ -128,11 +132,13 @@ int djikstra(int root,int dest)
 			int soma = distancias[current_no] + next.first;
 			if(distancias[next.second] > soma)
 			{
-				distancias[next.second] = soma;	
+				distancias[next.second] = soma;
+				cout << cidades_id[next.second] << " ";
 				fila_prioridade.push(mp(-soma,next.second));
 			}
 		}
 	}
+	cout << endl; // imprime final pulando linha
 	return distancias[dest];
 }
 int bfs(int root,int dest)
@@ -140,6 +146,7 @@ int bfs(int root,int dest)
 	queue<int> fila;
 	fila.push(root);
 	visitados[root] = true;
+	cout << cidades_id[root] << " "; // imprime nó de início
 	distancias[root] = 0;
 	while(fila.size()) 
 	{
@@ -152,17 +159,22 @@ int bfs(int root,int dest)
 			{
 				fila.push(next);
 				visitados[next] = true;
+				cout << cidades_id[next] << " "; // imprime próximo
 				distancias[next] = distancias[current] + 1;
 			}
 		}
 	}
+	cout << endl; // fim da impressão
 	return distancias[dest];
 }
 void dfs(int current,int dest)
 {
 	visitados[current] = true;
-	if(visitados[dest] == true) // se já chegamos no destino podemos encerrar o código
-		return ;
+	cout << cidades_id[current] << " ";
+	if(visitados[dest] == true){ // se já chegamos no destino podemos encerrar o código
+	  cout << endl; // pula a linha, encerrando a impressão
+	  return ;
+	}
 	for(int i=0;i<(int)grafo[current].size();i++)
 	{
 		int next = grafo[current][i].second;
