@@ -96,6 +96,9 @@ int A_estrela(int root,int dest, bool flag_idaestrela)
 		for(int i=0;i<(int)grafo[current_no].size();i++)
 		{	
 			pair<int,int> next = grafo[current_no][i]; 
+			/*
+				soma importante, principal diferença em relação ao djikstra acréscimo da heurística no peso de comparação da priority queue
+			*/
 			int soma = distancias[current_no] + next.first + heuristica(next.second);
 			if(distancias[next.second] > soma)
 			{
@@ -205,7 +208,7 @@ int main()
 		{
 			int a,b,distancia;
 			string aa,bb;
-			cin >> aa >> bb;
+			cin >> aa >> bb >> distancia;
 			a = id_cidades[aa];
 			b = id_cidades[bb];
 			grafo[a].push_back(make_pair(distancia,b));
