@@ -29,6 +29,8 @@ using namespace std;
 
 
  */
+vector<int> caminho;
+int pai_arvore[MAXIMO];
 int numero_cidades,numero_ruas;
 string cidades_id[MAXIMO];
 map<string,int> id_cidades;
@@ -36,8 +38,10 @@ vector<pair<int,int> > grafo[MAXIMO];
 bool visitados[MAXIMO];
 int distancias[MAXIMO],distancias_sem_peso[MAXIMO];
 int resposta_final[MAXIMO];
-void inicializa_variaveis()
+void inicializa_variaveis(int root)
 {
+	pai_arvore[root] = -1;
+	caminho.clear();
 	for(int i=0;i<numero_cidades;i++)
 	{
 		resposta_final[i] = INF;
@@ -89,7 +93,6 @@ int A_estrela(int root,int dest, bool flag_idaestrela)
 		pair<int,int> current = fila_prioridade.top();	
 		fila_prioridade.pop();
 		int current_no = current.second;
-
 		if(current_no == dest) 
 			break;
 
@@ -104,11 +107,12 @@ int A_estrela(int root,int dest, bool flag_idaestrela)
 			{
 				distancias[next.second] = soma;	
 				resposta_final[next.second] = resposta_final[current_no] + next.first;
+				pai_arvore[next.second] = current_no;
 				/* 
 					A diferença entre A estrela e IDA estrela é o uso do fator limitante na heurística
 					para não reescrever o código, adicionei uma flag para saber qual estou usando no momento
 				*/
-				if (flag_idaestrela and heuristica(next.second) <= fator_limitante)
+				if (flag_idaestrela == false or (flag_idaestrela == true and  heuristica(next.second) <= fator_limitante))
 					fila_prioridade.push(mp(-soma,next.second));
 			}
 		}
@@ -133,6 +137,7 @@ int djikstra(int root,int dest)
 			{
 				distancias[next.second] = soma;	
 				fila_prioridade.push(mp(-soma,next.second));
+				pai_arvore[next.second] = current_no;
 			}
 		}
 	}
@@ -153,6 +158,7 @@ int bfs(int root,int dest)
 			int next = grafo[current][i].second;
 			if(visitados[next] == false)
 			{
+				pai_arvore[next] = current;
 				fila.push(next);
 				visitados[next] = true;
 				distancias[next] = distancias[current] + 1;
@@ -170,12 +176,37 @@ void dfs(int current,int dest)
 	{
 		int next = grafo[current][i].second;
 		if(visitados[next] == false)
+		{
+			pai_arvore[next] = current;
 			dfs(next,dest);
+		}
 	}
+}
+void printa_caminho(int root,int dest)
+{
+	int curr = dest;
+	int cont = 0;
+	while(curr!=-1)
+	{
+		caminho.pb(curr);
+		curr = pai_arvore[curr];
+		cont++;
+	}
+	
+	reverse(caminho.begin(),caminho.end());
+	cout << "Caminho de cidades é: ";
+	for(int i=0;i<caminho.size();i++)
+	{
+		cout << cidades_id[caminho[i]]; 
+		if(i!=caminho.size()-1)
+			cout << " -> ";
+		else
+			cout << endl;
+	}
+	
 }
 int main()
 {	
-	inicializa_variaveis();
 	cout << "insira quantidade de cidades e quantidade de arestas ( ruas) " << endl;
 	cin >> numero_cidades >> numero_ruas;
 	for(int i=0;i<numero_cidades;i++)
@@ -222,6 +253,7 @@ int main()
 	int id_inicio,id_destino;
 	id_inicio = id_cidades[inicio];
 	id_destino = id_cidades[destino];
+	inicializa_variaveis(id_inicio);
 	if(id_operacao == 0)
 		bfs(id_inicio,id_destino);
 	else if(id_operacao == 1)
@@ -232,5 +264,6 @@ int main()
 		A_estrela(id_inicio,id_destino,false);
 	else
 		A_estrela(id_inicio,id_destino,true);
+	printa_caminho(id_inicio,id_destino);
 
 }
