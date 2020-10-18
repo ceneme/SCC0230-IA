@@ -111,7 +111,10 @@ int main (int argc, char*argv[]){
 
             if(flag == 0){
                 estradas.push_back(make_tuple(cidades[random_origem], cidades[random_destino], random_distancia));
-                cout << get<0>(estradas[i]) << " " << get<1>(estradas[i]) << " " << get<2>(estradas[i]) << endl;
+                if (id_operacao < 2){
+                    cout << get<0>(estradas[i]) << " " << get<1>(estradas[i]) << endl;
+                }
+                else cout << get<0>(estradas[i]) << " " << get<1>(estradas[i]) << " " << get<2>(estradas[i]) << endl;
             }
             
             else i--;
