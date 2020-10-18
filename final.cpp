@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include <chrono>
 using namespace std;
 #define For(i,a,b) for(int (i)=(a);(i) < (b); ++(i))
 #define pb push_back
@@ -255,6 +256,11 @@ int main()
 	id_inicio = id_cidades[inicio];
 	id_destino = id_cidades[destino];
 	inicializa_variaveis(id_inicio);
+	
+	cout << "Início da execução" << endl;
+	//contamos o tempo de execução a partir de agora
+	auto t1 = std::chrono::high_resolution_clock::now();
+    
 	if(id_operacao == 0)
 		bfs(id_inicio,id_destino);
 	else if(id_operacao == 1)
@@ -265,6 +271,15 @@ int main()
 		A_estrela(id_inicio,id_destino,false);
 	else
 		A_estrela(id_inicio,id_destino,true);
+
+	//terminamos de contar o tempo e calculamos a duração
+	auto t2 = std::chrono::high_resolution_clock::now();
+    auto duracao = std::chrono::duration_cast<std::chrono::microseconds>(t2 - t1).count();
+    cout << "Fim da execução" << endl;
+
 	printa_caminho(id_inicio,id_destino);
+	
+	//imprime o tempo de execução ao final
+	cout << duracao << endl;
 
 }
