@@ -211,7 +211,7 @@ int main()
 	int id_operacao = 0;
 	cin >> id_operacao;
 
-	cout << "insira quantidade de cidades e quantidade de arestas ( ruas) " << endl;
+	cout << "insira quantidade de cidades e quantidade de arestas (ruas) " << endl;
 	cin >> numero_cidades >> numero_ruas;
 	for(int i=0;i<numero_cidades;i++)
 	{

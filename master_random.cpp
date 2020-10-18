@@ -44,11 +44,14 @@ int main (int argc, char*argv[]){
     //fica definido como 5
 
     cin >> id_operacao >> numero_cidades >> numero_estradas >> num_testes;
+    if (numero_estradas < numero_cidades){
+        cout << "O numero de estradas precisa ser maior que o numero de cidades, tente novamente na proxima" << endl;
+        return 0;
+    }
     string nome_teste; //nome do arquivo .in
     string in = ".in";
 
     for (int k = 0; k < num_testes; k++){ //iterações de criação de testes
-
         nome_teste = to_string(k) + in;
         const char *c = nome_teste.c_str(); //converte string para char*
         freopen (c, "w+", stdout); //inicializa arquivo para guardar o teste
@@ -58,13 +61,9 @@ int main (int argc, char*argv[]){
         vector<string> cidades; //vetor para armazenar cidades na ram
 
         for (int i = 0; i < numero_cidades; i++){
-
             vector< string >::iterator it = cidades.begin() + i;
-
             cidades.insert(it, random_string(tam_nome));
-
             cout << cidades[i] << endl;
-
         }
 
         vector<tuple<string, string, int>> estradas; // vetor de estradas, sendo
@@ -76,7 +75,20 @@ int main (int argc, char*argv[]){
         tuple<string, string, int> pmet; //vetor reverso para
         //checagem de tuplas iguais para evitar A,B sendo distinto de B,A
 
-        for (int i = 0; i < numero_estradas; i++){
+        //Para garantirmos que o grafo seja conexo, fazemos as primeiras arestas ligarem todos os nós
+        for(int k = 0; k < numero_cidades - 1; k++){
+            if (id_operacao < 2){
+                estradas.push_back(make_tuple(cidades[k], cidades[k+1], 1));
+                cout << get<0>(estradas[k]) << " " << get<1>(estradas[k]) << endl;
+            }
+            else{
+                random_distancia = (rand()%2000) + 1;
+                estradas.push_back(make_tuple(cidades[k], cidades[k+1], random_distancia));
+                cout << get<0>(estradas[k]) << " " << get<1>(estradas[k]) << " " << get<2>(estradas[k]) << endl;
+            }
+        }
+
+        for (int i = numero_cidades - 1; i < numero_estradas; i++){
             random_origem = rand()%numero_cidades;
             random_destino = rand()%numero_cidades;
 
@@ -84,8 +96,6 @@ int main (int argc, char*argv[]){
 
             while(random_origem == random_destino) 
                 random_destino = rand()%numero_cidades;
-
-            random_distancia = (rand()%2000) + 1;
 
             //cout << "DEPOIS DO WHILE: " << cidades[random_origem] << " " << cidades[random_destino] << endl;
             //tuple <string, string, int> temp = make_tuple(random_origem, random_destino, random_distancia);
@@ -110,11 +120,15 @@ int main (int argc, char*argv[]){
             }
 
             if(flag == 0){
-                estradas.push_back(make_tuple(cidades[random_origem], cidades[random_destino], random_distancia));
                 if (id_operacao < 2){
+                    estradas.push_back(make_tuple(cidades[random_origem], cidades[random_destino], 1));
                     cout << get<0>(estradas[i]) << " " << get<1>(estradas[i]) << endl;
                 }
-                else cout << get<0>(estradas[i]) << " " << get<1>(estradas[i]) << " " << get<2>(estradas[i]) << endl;
+                else{
+                    random_distancia = (rand()%2000) + 1;
+                    estradas.push_back(make_tuple(cidades[random_origem], cidades[random_destino], random_distancia));
+                    cout << get<0>(estradas[i]) << " " << get<1>(estradas[i]) << " " << get<2>(estradas[i]) << endl;
+                }
             }
             
             else i--;
