@@ -1,0 +1,8 @@
+Qual operação vai ser realizada?
+insira quantidade de cidades e quantidade de arestas (ruas) 
+insira as arestas
+Qual o nome da cidade de origem e de destino?
+Início da execução
+Fim da execução
+Caminho de cidades é: NAEOV -> IBEGV -> PPNNN -> ATOSI -> AGAOR -> GOBAC -> RGBVE -> OSVUE -> UCUTT -> DUROA -> GUOIA -> PTRNU -> LSEVE -> UBGNS -> NUVRP -> NRICD -> IRBBP -> TLUBP -> ENNLG -> IPPPC -> SSDSV -> PSOLC -> OLRVL -> VOEDL -> UIDTG -> UPELP -> EAADD -> TCTIC -> EEGAU -> SVDUG -> VOVUS -> LBOVO -> PUVCT -> BVOAL -> GASPL -> ALCIA -> PGVCT -> VSNNG -> TNNVN -> ECVNA -> OSGLG -> GGIOD -> TPNLB -> SAOOB -> ANCAI -> PPDUU -> DCUOV -> UGETD -> ALPLS -> ACTBE -> ODAUP -> BEEES -> EPITS -> ULVUV -> IGIGE -> ECACD -> VDGLA -> ILDNG -> SLOCR -> CRALG -> DDVUL -> RAUBG -> RVNTV -> RTLLE -> OGDBB -> PITLC -> SPUDG -> TEODP -> ITAAA -> SISIS -> UBLRL -> CLTSS -> IELRS -> EOIGD -> IDPDT -> REPIP -> ERTIG -> SAPGB -> UEGNR -> IOBPA -> TASOP -> UGRGS -> ISCPT -> NVOAP -> PGPIL -> AIEIT -> PASPO -> RTLLC -> SLEBS -> NCNRT -> USSCU -> SPILI -> NOAOE -> SRSGD -> SLGEL -> APDRD -> GGDBS -> BCRSN -> ETBPS -> LGNLS -> SBNAL -> OIROO -> ORSLS -> NVRGP -> GGIVA -> GBAIS -> NVEIU -> VUACB -> IBTBT -> ARTRU -> UPORC -> RCBRG -> TDTVB -> TDDCN -> IVRRC -> ARRDN -> VESNI -> DVADT -> AGCUT -> LBGGP -> RCGDC -> DGDTP -> BVOCD -> BCAUV -> VNUNB -> UCUOR -> GRLAC -> DAOGN -> BPAEP -> PVTSB -> VCOOD -> CSROB -> GVPLI -> RVCNS -> TVDAC -> IPCCE -> OLPAB -> GEIGE -> LUBLN -> UASTD -> SVDDN -> OBSPR -> CILOS -> TUAVD -> BUVOD -> SEUDR -> GNLNR -> NAAOA -> IELIC
+35

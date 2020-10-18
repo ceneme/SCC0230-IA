@@ -1,0 +1,8 @@
+Qual operação vai ser realizada?
+insira quantidade de cidades e quantidade de arestas (ruas) 
+insira as arestas
+Qual o nome da cidade de origem e de destino?
+Início da execução
+Fim da execução
+Caminho de cidades é: TABCL -> CVPIR -> UOPID -> RRROC -> BDOLO -> LNCGV -> OIGLG -> OLESD -> ANNPN -> ECULD -> UPIIC -> BTULV -> PBTVC -> TSDSG -> AGPAB -> SSDBC -> DLNNU -> USICA -> GNGAD -> SCVOL -> ENVSD -> EGGIT -> GNGLE -> RCEET -> UURRO -> ISTGG -> CCNRS -> UBCLV -> ENCSV -> LRNPB -> OITRA -> BBVOB -> ROOPU -> GDOUA -> TBNLS -> ANDIR -> TSCPP -> LBLAP -> ROVGN -> SSOTC -> RSORT -> UOIDP -> SNTUU -> SVOOG -> STPVN -> BSBGC -> OVAAC -> RNEAG -> VLCIB -> VBTID -> LNDRC -> RUEIR -> VRLDA -> CDGTG -> BVLPO -> IRLCC -> CNDPS -> REPSD -> UCEGE -> ORRCP -> TGOPR -> BRSLP -> SANDC -> VIBVL -> APICL -> BAOUD -> UVTIA -> LOIVB -> BALCO -> DOABR -> RDCTN -> POTDL -> ASNBD -> LTLLN -> VSANA -> SLUBB -> VRCGB -> NPOUU -> GABLC -> ELARN -> RVODL -> CTGPB -> TEIGP -> DLIEI -> GNCCL -> EOIBG -> GNNNR -> LRNEG -> AANIS -> GVBUL -> LTTUB -> BRTSU -> EDDCR -> GSSPT -> BAISV -> AAONV -> BULEN -> OBRDP -> OIUNU -> ATEBN -> NLPVV -> SANVN -> RSDPO -> OTPOI -> GIVNR -> UGBRE -> NCLNG -> IUDNA -> DTUTO -> GVAOB -> RRDGO -> SRTVE -> PLADL -> BPBBG -> ETOSN -> PIECD -> RVPUC -> NIDNU -> GROAS -> UOARN -> PINRN -> NCNTA -> ISDDA -> ILANN -> ABPAU -> UNTVG -> ONACI -> VNGUC -> EPSEG -> ICCBI -> CGATR -> ILATD -> PUOUU -> EAVOE -> OIAPC -> PBLGP -> GERUI -> GGOUC -> LSNGG -> DABEL -> ARENN -> DBRNI -> GNNCV -> VEOTS -> NAUNT -> NOBLG -> DUNSU -> VSGGG -> RSSIR -> SSULS -> OOASB -> TCVSL -> ODOAV -> GPIOU -> GARUC -> ATRVT -> TNDNS -> CVVGP -> PRISD -> RDDED -> BUOCP -> GVVAO -> DNRDT -> DRCRU -> LDBNS -> BONAL -> UABRC
+28

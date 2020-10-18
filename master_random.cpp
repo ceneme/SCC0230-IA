@@ -17,10 +17,8 @@ string random_string(const int len) { // função que gera strings aleatórias
     
     for (int i = 0; i < len; ++i)
         random_string += char_pool[rand() % (sizeof(char_pool) - 1)];
-    
 
     return random_string;
-
 }
 
 
@@ -28,7 +26,7 @@ int main (int argc, char*argv[]){
 
     srand((unsigned) time(NULL) * getpid()); //gera seed para números aleatórios
 
-    int id_operacao, numero_cidades, numero_estradas, tam_nome, num_testes;
+    int id_ncidades, id_operacao, numero_cidades, numero_estradas, tam_nome, num_testes;
     //respectivamente: número de cidades (nós), número de estradas (arestas),
     //tamanho do nome aleatório da cidade, modo de operação para
     //interpretação de pesos, escolha de algoritmo, número de arquivos a serem gerados
@@ -43,16 +41,15 @@ int main (int argc, char*argv[]){
     tam_nome = 5; // pode ser adicionado ao input caso seja interessante, aqui o tamanho da string
     //fica definido como 5
 
-    cin >> id_operacao >> numero_cidades >> numero_estradas >> num_testes;
+    cin >> id_ncidades >> id_operacao >> numero_cidades >> numero_estradas >> num_testes;
     if (numero_estradas < numero_cidades){
         cout << "O numero de estradas precisa ser maior que o numero de cidades, tente novamente na proxima" << endl;
         return 0;
     }
     string nome_teste; //nome do arquivo .in
-    string in = ".in";
 
     for (int k = 0; k < num_testes; k++){ //iterações de criação de testes
-        nome_teste = to_string(k) + in;
+        nome_teste = to_string(id_ncidades) + "-" + to_string(k) + ".in";
         const char *c = nome_teste.c_str(); //converte string para char*
         freopen (c, "w+", stdout); //inicializa arquivo para guardar o teste
         
