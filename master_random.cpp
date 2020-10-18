@@ -28,7 +28,7 @@ int main (int argc, char*argv[]){
 
     srand((unsigned) time(NULL) * getpid()); //gera seed para números aleatórios
 
-    int numero_cidades, numero_estradas, tam_nome, id_operacao, num_testes;
+    int id_operacao, numero_cidades, numero_estradas, tam_nome, num_testes;
     //respectivamente: número de cidades (nós), número de estradas (arestas),
     //tamanho do nome aleatório da cidade, modo de operação para
     //interpretação de pesos, escolha de algoritmo, número de arquivos a serem gerados
@@ -43,7 +43,7 @@ int main (int argc, char*argv[]){
     tam_nome = 5; // pode ser adicionado ao input caso seja interessante, aqui o tamanho da string
     //fica definido como 5
 
-    cin >> numero_cidades >> numero_estradas >> id_operacao >> num_testes;
+    cin >> id_operacao >> numero_cidades >> numero_estradas >> num_testes;
     string nome_teste; //nome do arquivo .in
     string in = ".in";
 
@@ -53,7 +53,7 @@ int main (int argc, char*argv[]){
         const char *c = nome_teste.c_str(); //converte string para char*
         freopen (c, "w+", stdout); //inicializa arquivo para guardar o teste
         
-        cout << numero_cidades << " " << numero_estradas << endl;
+        cout << id_operacao << " " << numero_cidades << " " << numero_estradas << endl;
 
         vector<string> cidades; //vetor para armazenar cidades na ram
 
@@ -66,7 +66,6 @@ int main (int argc, char*argv[]){
             cout << cidades[i] << endl;
 
         }
-        cout << id_operacao << endl;
 
         vector<tuple<string, string, int>> estradas; // vetor de estradas, sendo
         //uma estrada uma tupla de 2 cidades e a distância entre elas
@@ -108,7 +107,6 @@ int main (int argc, char*argv[]){
                     flag = 1;
                     break;
                 }
-
             }
 
             if(flag == 0){
@@ -120,6 +118,14 @@ int main (int argc, char*argv[]){
 
             flag = 0;
         }
+        //escolhe duas cidades para o algoritmo encontrar uma rota
+        int no_partida = rand()%numero_cidades;
+        int no_chegada = rand()%numero_cidades;
+
+        while(no_partida == no_chegada) 
+            no_chegada = rand()%numero_cidades;
+
+        cout << cidades[no_partida]<< " " << cidades[no_chegada] << endl;
     }
 
     return 0;

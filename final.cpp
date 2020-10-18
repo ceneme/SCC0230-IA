@@ -207,6 +207,10 @@ void printa_caminho(int root,int dest)
 }
 int main()
 {	
+	cout << "Qual operação vai ser realizada?" << endl; // determina se vai rodar BFS,DFS,Djikstra,Aestrela,IDAestrela respectivamente
+	int id_operacao = 0;
+	cin >> id_operacao;
+
 	cout << "insira quantidade de cidades e quantidade de arestas ( ruas) " << endl;
 	cin >> numero_cidades >> numero_ruas;
 	for(int i=0;i<numero_cidades;i++)
@@ -216,9 +220,6 @@ int main()
 		cidades_id[i] = nome_atual; // nome da cidade atribuida a um ID
 		id_cidades[nome_atual] = i; // ID atribuido ao nome de uma cidade
 	}
-	cout << "Qual operação vai ser realizada?" << endl; // determina se vai rodar BFS,DFS,Djikstra,Aestrela,IDAestrela respectivamente
-	int id_operacao;
-	cin >> id_operacao;
 	cout << "insira as arestas" << endl;
 	if(id_operacao < 2) // grafo sem peso
 	{
