@@ -208,6 +208,11 @@ void printa_caminho(int root,int dest)
 }
 int main()
 {	
+	string nome_saida;
+	cin >> nome_saida;
+    const char *c = nome_saida.c_str(); //converte string para char*
+    freopen (c, "w+", stdout); //inicializa arquivo para guardar o resultado
+
 	cout << "Qual operação vai ser realizada?" << endl; // determina se vai rodar BFS,DFS,Djikstra,Aestrela,IDAestrela respectivamente
 	int id_operacao = 0;
 	cin >> id_operacao;
@@ -278,7 +283,7 @@ int main()
     cout << "Fim da execução" << endl;
 
 	printa_caminho(id_inicio,id_destino);
-	
+
 	//imprime o tempo de execução ao final
 	cout << duracao << endl;
 

@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TOANL -> DEBTA -> TLLUB -> LERDT -> OODAU -> BSBUI -> RSDBT -> DDPBO -> ADIDC
-374
+Caminho de cidades é: NINNO -> GASDI -> EGCLT
+2

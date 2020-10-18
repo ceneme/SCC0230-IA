@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NVBOP -> NVSNC -> LSDEC -> SEBUL -> TOSLS -> BGCEP -> CDERL -> SCNSS
-404
+Caminho de cidades é: IVVSE -> ARSRC
+2

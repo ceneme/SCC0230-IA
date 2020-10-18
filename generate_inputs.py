@@ -3,13 +3,13 @@ import numpy as np
 
 files = []
 
-ncidades = np.linspace(10, 3000, 20, endpoint=True, dtype=int)
+ncidades = np.linspace(10, 3000, 50, endpoint=True, dtype=int)
 #ntempos = np.zeros(20)
 #plt.plot(ntempos, ncidades, 'o')
 #plt.show()
 
 for i in range(5):
-	for j in range(20):
+	for j in range(50):
 		fname = str(i) + "rand" + str(j) + ".in"
 		f = open(fname, "w+")
 		f.write(str(j) + "\n")

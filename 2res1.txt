@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EDDTC -> CTBGU -> VCAUS -> SRLBP -> BEIAR -> TTTET -> ESGTG -> OGUNL -> SGDTO -> GBLAD -> CITCU
-1810
+Caminho de cidades é: ARVDR -> EOROS -> NCGVL -> LPRNN
+8

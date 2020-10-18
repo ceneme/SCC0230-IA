@@ -50,8 +50,11 @@ int main (int argc, char*argv[]){
 
     for (int k = 0; k < num_testes; k++){ //iterações de criação de testes
         nome_teste = to_string(id_ncidades) + "-" + to_string(k) + ".in";
+        string nome_saida = to_string(id_ncidades) + "res" + to_string(k) + ".txt";
         const char *c = nome_teste.c_str(); //converte string para char*
         freopen (c, "w+", stdout); //inicializa arquivo para guardar o teste
+
+        cout << nome_saida << endl;
         
         cout << id_operacao << " " << numero_cidades << " " << numero_estradas << endl;
 

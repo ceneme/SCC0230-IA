@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BDSUD -> DACEN -> CLOGA -> IIESG -> EBPRA -> OSONA -> RUNAL -> UABUL
-1280
+Caminho de cidades é: VILOD -> SOTAC -> VULNV -> RSNUE
+9
