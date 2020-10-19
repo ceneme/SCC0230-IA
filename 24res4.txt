@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SEULE -> RSGTI -> USIAP -> TVEGP -> UUEBO -> SNNBE -> VLPDP -> NCTVA -> NLENI -> APCVB -> SIGCS -> GNDIL
-177
+BSVSD -> OCGPN -> NUVGR -> EDINT -> SEPPP -> BAPAP -> ACCGG
+126

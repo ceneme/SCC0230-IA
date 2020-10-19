@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SSASS -> BLBPA -> LEPBI -> NVAUI -> BNDBD -> OPVAO -> PGRLS -> IDASC
-668
+STCRD -> IRETU -> DUEUD -> GGSBT -> UOBIV -> GPELR -> UCPVG -> UPDUD -> APSDA -> SPVEC
+911

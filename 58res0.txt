@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RSTIP -> POSIN -> ITARS -> LPANL -> VNDPB -> ESAVR -> PIDAL -> ECBRN -> ROBAU -> UTBEC -> EBELG -> TLSIN
-457
+VBROI -> OBPVC -> LDCSU -> EGCTS -> CECDO -> DAGCI -> PSSBP -> ROTVE -> DDNOG -> CNLTT -> IANCT
+382

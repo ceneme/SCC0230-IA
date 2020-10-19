@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ASGSE -> ETIPA -> RISOP -> IPPCA -> DROTN -> UDRRR -> GNVCO -> BPNIP -> SNGEL -> DDIRO -> DLCPR -> BDIGS -> NDIGT
-820
+UBNRA -> ETGRD -> LVEBI -> OVEUR -> LUSDS -> ILCAU -> ITPPT -> CDRNO -> AISIO
+430

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NSUES -> BUTSO -> UDDSN -> ENLEN -> NVBAT -> RTCCN -> CODDI
-747
+VPVDS -> REUDT -> SLLDA -> RTINT -> PLBCD -> UCROP -> BNSAD -> NLDUN -> RPGVN -> BUVGN
+221

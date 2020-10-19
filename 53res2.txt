@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UTSIG -> TINBP -> CNBBU -> SUCUT -> DNCTC -> EPTPT -> RCOPB -> DPCSD
-441
+URVPI -> UGBUP -> SRBDS -> PNVTP -> REGOS -> INSPP -> BGELR
+237

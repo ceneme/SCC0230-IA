@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PUPLB -> TINRP -> OEICA -> DSARR -> VDCSL -> OSBGC -> TBVVB -> VEOCT -> DBENO -> DDEOU -> SIOUS -> VSDRR
-616
+CPOGL -> SUSSO -> SDTNC -> NSRLB -> BGPGB -> EAEVN
+163

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UTUOB -> UIUDG -> GLNIO -> PBNBN -> SABIU -> PDGOG -> ECORV
-635
+INRCU -> GRTRN -> SRBGI -> TAARL -> NDLRC -> OOPPI -> TVNAR -> GVLOL -> VGLAN -> SCPVD
+198

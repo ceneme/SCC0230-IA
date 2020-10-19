@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-OLOLU -> PDCAS -> CULBO -> IRLIN -> SEARL -> CTBGN -> TASGD -> LNBOE
-256
+NPSIS -> VOREO -> EGLUA -> UPVDI -> ANUCP
+107

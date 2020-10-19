@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ROUUU -> BDVBE -> ROGNT -> SGPBU -> AGVBL -> TOVSU -> PCLRO -> SVTBD -> VGLED
-377
+CRITT -> BSRSA -> GSVIO -> PNEAE -> EGDRV -> CVAUR -> NNOSP
+132

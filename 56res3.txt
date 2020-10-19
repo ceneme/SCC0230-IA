@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DRIDN -> NRPDC -> RGADS -> GSUCR -> GAGGG -> BEIRB -> TIEIT -> VORTN -> NNTLV -> OPSAC -> GNERG
-454
+CGBAV -> VRDPD -> PNVUN -> ESUEL -> NBDTP -> ENTDU -> OVGTS -> CONUG -> ONLLT
+348

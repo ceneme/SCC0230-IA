@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-EGIVC -> ALCOV -> IDNRP -> LPRVT -> IESTO -> OOEIE -> USCUB -> SBTAD -> GURBV -> GIRIT -> NVARG
-684
+PEDEC -> SURUA -> AORAA -> TNAUS -> UVBPI -> IEIGT -> SRTUC -> SNRIT -> AVDSA -> TOVEN -> VCDSO -> DPTOS
+280

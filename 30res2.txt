@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-OVTAO -> DVABU -> CIRGU -> EVABL -> TPEBI -> OURPB -> GADET -> RTCIO -> SOSTB -> ROPRS -> PEVGD
-238
+LPSDP -> UTOBS -> PVDUI -> GPNOU -> UUTEO -> NEBDI -> CRUIV -> NECED -> ISGRO -> DEIPI -> OVIRN -> OVGEO
+164

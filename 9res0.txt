@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CUPCP -> PBDEB -> GNVGL -> ORACR -> ILGVE -> VANTE -> RASOP -> AECDA -> PGNSA
-59
+SNGSU -> NAONI -> LBGLS -> TVDAA -> IABTS -> ARSVU -> LRIVU -> GTGSE -> BRLEN
+29

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RCVSS -> BLUCB -> CSOED -> GCPUD -> LRDVS -> COTBU -> NNAGV -> SROET
-259
+ELABB -> EDOAA -> ROLSI -> OBRVS -> PUDII -> VGRGN -> GEEVD -> ULTUS -> VTOBD -> OANEL -> SUGIG -> PUNIP
+254

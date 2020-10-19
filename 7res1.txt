@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LNAAG -> CVGCB -> CIIUP
-45
+CLEIG -> ALPPI -> ALPET -> DTUGI -> BLDNL -> PDVDP -> ALNAB
+32

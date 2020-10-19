@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SGGBU -> ENDSE -> RREET -> ORBGD -> OOAOT
-84
+LVLDO -> DAGRS -> ARLIS -> VIBCI -> NTRVP -> BAETR -> ORPLP -> EAIPV
+66

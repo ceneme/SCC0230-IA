@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VARGD -> GBRDO -> CLAON -> NBLRR -> LCRNS -> BIDTU -> TASCT -> ARGGI
-34
+VNPGR -> OLEGB -> GPNNS -> IGSCV -> TBCDB -> SALBV
+23

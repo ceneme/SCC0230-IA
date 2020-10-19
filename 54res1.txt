@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PARSL -> BGGUL -> DBSTD -> UREPR -> EUUEP -> RLRSO -> EONOE -> ECROV -> LEAPG -> PSGAL -> CPSNR
-461
+USTON -> TTDUT -> ENPRR -> ITGTL -> SPRAB -> OOPTU -> PNBAL
+283

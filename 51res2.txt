@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GBEVL -> IIRVT -> ANEGB -> IAIUA -> SAUAU -> STRCP -> DCUOL -> COGUI
-399
+DAOAP -> LECVU -> BOINL -> PGEOG -> VSERD -> EICRG -> GCAIR -> AGEIE
+286

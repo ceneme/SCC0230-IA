@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DOIPT -> SGGLC -> AEVLU -> GULTV -> STTSV -> AEOOS -> CNSTL -> TCEPU -> BDCUD -> NAILE
-844
+ERLCV -> OPOEI -> DDARC -> STAIV -> NITDA -> SPGGP -> VCRUD -> LRSBR -> ASCPR -> TABAD
+1049

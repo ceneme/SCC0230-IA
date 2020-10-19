@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VDERT -> AABUS -> IPCUC -> LNGVG -> CIVVO -> TRTNB -> LRBDL -> NDTPP -> IABDO
-314
+RRNCB -> GGUNE -> NNLRG -> GDPLS -> NDNSU -> OONLO -> GSLCP -> BASGT -> COIDS -> RAEGR
+365

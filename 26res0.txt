@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ONRBD -> UETSP -> UBSPU -> UBPTS -> PETLG -> CDCNP -> GARVN
-177
+PGDDN -> SIVGB -> NPGDA -> EBLEE -> VPLUT -> TSTCC -> BIBCV
+213

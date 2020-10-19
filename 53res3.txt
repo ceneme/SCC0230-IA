@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RCNCP -> DNERE -> NCUAA -> DGSBR -> CGRCU -> OOPPO -> ATEEL -> LPLII -> BSBSO -> RIRUP
-451
+NOVRT -> BRLEN -> SEUBI -> IEVBR -> POUVE -> GTUSI -> VIEEP -> RNLLL
+495

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-EIUPS -> OTIVB -> NLSPS -> OSUEV -> RAGTL -> TNOUA -> SRIIU -> LOSAE -> PLIVL
-916
+CNVNS -> BBRPA -> LAAUC -> NRGCL -> TORAP -> IDVGB -> IRCLC -> GENIL
+720

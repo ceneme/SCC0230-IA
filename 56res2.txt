@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RBAOS -> UNLRP -> GSOBE -> TNDSN -> ABORT -> EBRLI -> BVAGR -> EEODI -> PNSLU -> VEBVU -> LLITD -> LTARS -> NTOCO
-465
+CNDRI -> AOVDV -> GNLDS -> RORID -> LCPLE -> UIOSC -> GORDD -> AEBSS -> DULRG -> TGGSE
+369

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VOLBD -> GBUIS -> IECVL -> NPLOP -> VAPEP -> DENNN -> SNUCB -> GIURR -> GTCOA -> IUAPT
-523
+EVSAP -> ALOPL -> AOVTD -> IPUSL -> BIRCN -> CARTO -> DNLRI
+227

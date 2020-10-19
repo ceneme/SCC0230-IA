@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RSUTB -> GVPBV -> SEIED -> VUAOT -> DROTR -> VBGGE -> GTEEE -> RISPB -> PLNDL -> ECDTE
-776
+PIPAL -> ONAPA -> RRLUN -> ATNCS -> AUEOG
+168

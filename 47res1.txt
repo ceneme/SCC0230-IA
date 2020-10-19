@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-TAOOB -> GDDRN -> GTOUT -> BRDCO -> GOLER -> AVEOI -> UDNBL -> GOBIC
+TLNTO -> CVVOU -> SIGUG -> AOTPS -> LUNVB -> VCPUT -> RUBUN -> DTINS -> LVRIT -> RRLDV
 358

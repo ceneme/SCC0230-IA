@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ECNEC -> TIGNG -> LPGPV -> DONIU -> IDVUN
-779
+ISRIU -> RCTVP -> AIVRL -> TPNGN -> OULDO -> VUSVE -> VIEID -> GSPAG -> ILSUN -> UDUGT
+430

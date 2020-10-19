@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-COIRL -> GDPLB -> SDDRE -> DIAIE -> SOPIR -> LERBL -> CGEBS
-92
+GLTPN -> UVBOU -> DTGTN -> RAROB -> RABBV -> CTIUB -> BRDOE
+110

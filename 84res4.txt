@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GULVU -> NSCGN -> PDOAU -> NDTCI -> ULGCC -> UPECA -> GENPR -> VCNGI -> VSOUD -> CEOPR -> CNVEI -> DNLSU
-727
+ITTOB -> TOBNS -> IPALR -> VNSEO -> NRTDV -> SVTBU -> DCDOP -> TTBPS -> GPNLD -> IDVEI -> OGCOV
+633

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VVOUB -> ICOCA -> VVVTL -> SUECU -> CENBN -> TETRS -> BRGTL -> CEITV
-720
+NUTSG -> UBBRO -> GNOAB -> ETLUG -> PDCTB -> CEELG -> GTBTI -> AOVRB -> LCLUS
+425

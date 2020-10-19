@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SLRNN -> CREPL -> NDVEL -> AIPGG -> OREBN -> TULTD -> RNBAR
-600
+CBPNT -> EIRSS -> BPTOG -> CGNTL -> VGOOP -> BLSAE -> AUACC -> CTIPR
+294

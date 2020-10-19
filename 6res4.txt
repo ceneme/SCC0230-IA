@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GNCOL -> UVBBG -> AERLT -> IPGUO -> OICUE -> LPGIA -> NBNED
-48
+NPIRO -> RVTOL -> LCLGA -> RAPLL -> DNSVO -> DEACO
+33

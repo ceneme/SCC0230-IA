@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CEEGN -> AVGTD -> ULVNE -> CBGOR
-581
+EUUCR -> CDRTT -> RLRLI -> TAOSU -> PTRTD -> OCSTL -> VSSTL -> IBRBG -> ONIST -> SPVVG -> AALDS
+582

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SVOEA -> ISOUU -> ODCPC -> ACSTT -> BIIEP -> NEBOI -> UGOCL -> RIRII -> DUAOD
-57
+NAACL -> PNNNT -> NNTEC -> OCDGN -> PAIEU -> IGCNO -> AUCOI
+69

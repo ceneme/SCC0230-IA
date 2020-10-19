@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RCIOG -> ANVPR -> EPCUS -> ECBAT -> NSDIP -> REGEI -> NLOEG -> UDRUN -> UNUAA -> VSCOB -> ONIPL -> LLRND -> GOLTC
-714
+NAVVA -> RLOTR -> LLGUT -> LLVOA -> OUIVA -> SIDSA -> TVCDP -> NOVOC -> IRUCC -> VALST -> RUULD
+560

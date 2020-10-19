@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PLGUI -> INOLC -> ALESR -> ATSSN -> DLLOT -> CPBPC -> OBLIU -> GETAB -> ESTBL -> BLGOG -> TDCAA -> GEIDG -> DDVTB
-692
+ARSSV -> LULLS -> PIRLU -> SCTTA -> OSOUG -> PSNAC -> CBCDI -> VNRNG
+248

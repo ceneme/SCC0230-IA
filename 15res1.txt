@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VEULC -> LNSGC -> EIPBT -> DSVEB -> AUVCU
-111
+GVAOE -> EGRTS -> BPSUE -> AUPCD -> PTINC -> PPGBS -> SNNTR
+72

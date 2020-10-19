@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LVOSB -> ECORO -> RETVB -> VCEAP -> OILLU -> ACNNV -> LAEER -> IVCIA -> BDALL
-869
+SPCNS -> LGELB -> RNDPU -> SPCOV -> CIRBA -> GBSNU -> IDART -> DTSCR
+816

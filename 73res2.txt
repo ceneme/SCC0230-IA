@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-BLGVT -> VUTDD -> OTPOG -> TRTIV -> ORIIB -> UIANP -> TNGDL -> BLNGT -> UESUA -> VADIA -> CAGSS -> IVTEE -> CNPVR
-671
+BVRTU -> PCVRS -> GUSLR -> NCILT -> UUSIB -> DVVUS -> BDAUV -> AUPRV -> SAVAL -> BVCEB
+608

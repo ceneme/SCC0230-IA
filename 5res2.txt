@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RACAL -> RLSAR -> PUCLG -> LRCUG -> RRPEL -> OOADB -> VSBCG -> DPTIP -> GETVL
-34
+AEPAO -> BDTON -> CPCEB -> IRBGU
+22

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UNVPR -> DPUPT -> CATIL -> TPBPA -> PRPAS -> PLPIE -> PINIE -> LOICN -> ABESV -> ABGRI -> NDOER -> UGGTB
-172
+TNICS -> LEBRV -> GSNOD -> PNIAD -> UUSSE -> DTCLU -> COPDN -> NUPSP
+118

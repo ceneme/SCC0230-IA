@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CARVO -> DPRLC -> GBPAT -> RRUTL -> NSGGN -> NBNPC -> CRIPV
-663
+DBSPB -> DPGRP -> RGPGN -> ICBUN -> OBITE -> TBULA
+190

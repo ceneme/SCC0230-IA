@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VNUSI -> GOBAG -> IUGGT -> NCNRD -> NSAEP -> ASRLA -> BALGP -> GTTDO -> IRCTI -> CTETL -> PNCOA -> RCNGV
-672
+UVNBC -> TAVAU -> LCOSL -> NBANC -> ICLDL -> EPCVI -> NUOCB
+350

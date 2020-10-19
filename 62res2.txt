@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GBNIE -> NCIVD -> AOBUO -> GREBT -> PRDPO -> TNAEU -> RTSSG -> UPNUA
-504
+EVIUP -> SAECO -> RGPAP -> PPCLN -> OPNIO -> EBRVN -> RDABI -> ICBTB -> LLENG -> BCLUU -> DCCEU -> LVNTS
+379

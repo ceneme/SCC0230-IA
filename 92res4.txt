@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SDDPA -> DBDLP -> GVTAG -> TGUAT -> ONOBD -> CAULI -> NPAOB -> GBBPT -> VEUNE -> GCUGD -> DVRCI
-804
+BBSTS -> POTGE -> LGGCG -> BPBTV -> SDSRE -> VIOVE -> VGOID -> BIGNT -> PUIDE -> ELGLV -> BBGUT
+409

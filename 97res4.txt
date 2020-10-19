@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LVVCS -> EBURA -> ELEPC -> DSDCE -> TIAGP -> UCBDI -> STTDT -> NVOTA -> ISDVR -> GPASG -> SLTPA
-820
+VPDBS -> CASBN -> UOBET -> DECEG -> PRDED -> AUEDC -> ULDNR -> POVTB -> OBSUV
+630

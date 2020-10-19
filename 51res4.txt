@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PRLBI -> ICNEA -> UUABS -> VNIII -> GBGTA -> TIVAE -> IESBP -> OOSVV -> GLUIB -> GSVAU
-409
+GVNPD -> AUPRV -> CECVN -> ERVUP -> BOTAD -> TSGAB -> PEVDV -> EOOGS -> BSELA -> VDUUU
+403

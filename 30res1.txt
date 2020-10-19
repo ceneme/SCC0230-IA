@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DSDAN -> ETDBN -> GSVRA -> PNNSU -> NCTVI -> UIUPO
-219
+UNGVV -> LUGTD -> UTUPA -> PNLPE -> CDPRA -> RGTUL -> AGDDR -> GVNEE
+218

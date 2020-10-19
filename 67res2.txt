@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SRPES -> VSNUC -> GSNBG -> IGVRU -> SEUST -> OCLSP -> RCNUU
-562
+NETSC -> PUEAD -> NLECS -> LSILR -> PICAN -> EGLNB -> NOORI -> DSRPP -> VEVBT -> GEBUP
+374

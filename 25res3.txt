@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CVTCU -> LEITG -> RGUTU -> BEOCP -> DLNBL -> TDLGT
-185
+BNOTT -> USNDD -> TVUNA -> VGIOP -> IDLCI -> BLNPL -> PONLN -> DROSP -> CVSVA
+48

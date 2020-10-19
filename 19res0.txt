@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LSGDE -> EUBSO -> EECAU -> SPCLR -> AUULL -> PGPSR -> OANAD -> SUVBD
-178
+CLPCE -> SERCB -> GRCDL -> ISBVO -> SCTAV -> GPEIL -> SPBRU -> PLIEN
+52

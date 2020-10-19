@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DIOTD -> SVGBS -> EBDCV -> EIUNL -> RTLCU -> PSLDS -> TNUNE -> CAPRO
-456
+LVEAE -> GOVOD -> CBOIO -> VETRE -> EGTLT -> GCBTB -> TIIGC -> UIBOP -> NBUSS
+275

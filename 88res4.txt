@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UEUID -> SACIO -> LNULO -> PEUIT -> IBBCV -> GBDVB
-776
+SIOSL -> DCIRD -> GILTT -> TTRLB -> DSBLI -> VPRAU -> ROCBP -> IUROI -> SNVPP -> ODGOB -> EAADG
+1191

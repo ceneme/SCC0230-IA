@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DOCCO -> VTVVC -> BPPRD -> LITAT -> DCVRC -> CLNOG -> EILNA -> GAOSG -> SBNBD -> LULTT -> BPSUV
-227
+IGGDI -> DCSED -> STBRN -> SOANV
+79

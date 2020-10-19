@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SUTIR -> IILIS -> DUGPI -> TUGRN -> RRGBP -> GDNEB -> BPENL -> DILTG -> OATGN -> PLESA -> ITGVC
-166
+IOCST -> SIDTO -> BOTAC -> VUTEE -> VSUBL -> BGVPB -> BELBD -> GDPEA -> CGETC -> ELRAB
+120

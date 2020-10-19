@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-IRADO -> GSPAO -> GSUCP -> CIUUT -> OCEAN -> PDOLN -> BPSUI -> PLRUG -> EBBTO -> BUBBO -> TBBST -> NSCBT
-613
+UGPCC -> ESDAG -> BCIGS -> TGBBL -> POIIB -> DCNEN -> SUVEV -> RALES -> ICLVO -> CLSCT -> ICORS -> BTISU -> AAINC
+389

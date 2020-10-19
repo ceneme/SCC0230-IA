@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VSTOR -> BRALU -> PUPRS -> RDEBS -> NDEOS -> ESDPI -> ANSAR -> UIDNV -> VBLVA -> SPRBT
-579
+VUCTN -> GUTPS -> LVAAT -> ISADS -> GVURP -> ANITT -> IVNCB -> PNVVL -> GVCNR -> ERATO -> BURTA -> UVULI
+521

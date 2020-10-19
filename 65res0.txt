@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SDOEI -> SABUE -> RGRIS -> VEEEE -> GUECO -> IUEON -> ADDRN -> SRLTI
-535
+EDBBN -> IOGVP -> TTRET -> AIDLI -> GBAON -> OLNUD -> VVIOR
+346

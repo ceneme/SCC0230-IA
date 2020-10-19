@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CDADE -> ILESG -> LNCOC -> SNRDG -> BSRSL -> ONNCS -> LGDIA -> AOENT -> OTVNI -> GBGRN
-612
+VAGTT -> CSRIE -> ULSTA -> SETRT -> ICGTB -> AAVPR -> TBPGL -> RATCS -> VCDRP -> LSTSR -> BCDTE -> TBISS
+257

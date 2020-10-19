@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DDPDV -> BCISG -> BGDGO -> BPCLT -> LRIEC -> LBDDI -> SVBBP -> CBRPS -> RVRUE
-773
+UVLSO -> IGLEA -> GBRUP -> ADPII -> BIGIG -> SNOGR -> DSITG -> IATRS -> ITTTP
+660

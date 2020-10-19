@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LVCIN -> PTORE -> SNICP -> GGBSB -> BTVOD -> VEIBG -> CSUCG -> RBRSA -> USAIC -> POACI -> LCNDT -> DUPCE -> REDSD -> VIBOE -> SUINV -> OSPPI
-569
+TRAOG -> ODUVA -> NTTLE -> RIULC -> VDAVG -> GGICU -> UPRNR -> NOSTV -> IAERC -> APPBA -> TGSAA
+446

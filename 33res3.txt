@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ARAAB -> GCEBO -> OBAEG -> BDCSO -> SNVUA -> VOVND -> STIRC -> VLEAA
-248
+DDVAI -> NGNPB -> BSAIL -> GPGPP -> ROUCS -> OIGCP -> IEPUI
+296

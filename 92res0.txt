@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-BCIBR -> VITGG -> CCCSS -> OLRSR -> SBPPL -> AIREA -> ITIRP -> OOGVU -> ILLUN -> BOBCG -> DLRSC -> IDTUT
-738
+NGIEI -> VBLOC -> LRAIN -> LIGRV -> EGABA -> NIBLO -> CGERB
+508

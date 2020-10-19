@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PDUEN -> OVDDC -> UUBSL -> ERGDG -> GUDGP -> IVUBI -> UBRDA -> VPNIE
-173
+AVCDA -> GCGVI -> ITIAN -> RLRRV -> VBIBU -> LCLTL -> SAASL -> BCTIS -> RPVDD -> OTINO -> BGING -> NCETT -> NGBEA -> EPOBB
+151

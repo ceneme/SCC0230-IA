@@ -3,7 +3,7 @@ import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
  
-f = open('mapa_sp.in', 'r') 
+f = open('1-2.in', 'r') 
 Lines = f.readlines() 
 
 s = Lines[1].split()
@@ -27,7 +27,7 @@ for line in Lines:
 			G.add_edge(n1, n2, color='black', weight=int(w)/200)
 	count = count + 1
 
-f = open('mapa_sp.txt', 'r') 
+f = open('1res2.txt', 'r') 
 Lines = f.readlines()
 caminho = Lines[7]
 print(caminho)

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NTLPI -> VRIVB -> DELRR -> ABPVD -> GRNNL -> LIGBG -> GDNLE -> LRRIV -> ITARL -> EUANI -> NASBA
-117
+VVISS -> RURAT -> NDICR -> BSBCA -> DLUBN -> OVITB -> NTSOP -> LUSBL -> UAPGC -> BORAC -> OUNPD -> DGCRG -> NTCGL
+118

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DGDAI -> TIOSI -> LARSL -> DVSCU -> EUBLT -> TDNET -> RODSL -> SOILO
-957
+PUDUC -> IVPNL -> RIANO -> GEVBL -> BDGDC -> UITCB -> TEDSG -> BVPSB -> IPGSB -> DOCCE
+195

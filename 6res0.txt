@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LIVIS -> NRNOS -> BACOL -> LBEGE -> IROPC -> ABIOU -> DVIEN
-44
+DAOOA -> SILUG -> ANPBP -> PPGCL -> ECOER -> GAGGB -> GCPAI -> GGPUN -> CEAVC
+46

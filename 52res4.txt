@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-OTPDP -> NULIT -> GDCDE -> VSABE -> DBNCA -> NOCSP
-702
+LLALA -> GBVNU -> BUECI -> GBLTB -> ITGPU -> LARIL -> VCUUR -> CTEAS
+191

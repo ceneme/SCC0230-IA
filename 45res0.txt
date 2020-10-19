@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-IULIP -> LIVES -> ALNVU -> TABRA -> ULVAR -> PLCSN -> CPDID -> ODIBA -> TOBOS
-327
+UVPSB -> VLRET -> NRNSN -> PPREA -> AOCGS -> PPENS -> BDEBS -> OTVDI -> OGTUL -> NSNPR -> ITGCT
+403

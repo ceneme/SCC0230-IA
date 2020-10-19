@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CVRLS -> VOIIO -> ITVGO -> RALBU -> LNDDR
-779
+OOGUD -> RIILE -> ICGNE -> GVALD -> BGOPA -> BDIPB -> TIUEB -> GLTAP -> ITURL -> LNETO -> BUONV -> GDDCP -> UDVNN
+350

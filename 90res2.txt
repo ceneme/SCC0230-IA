@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VETEA -> LOSBP -> PCADE -> NUAIB -> BEVLN -> PSAPD -> TNRIA -> PRLNN -> NNNSU
-880
+ABAAL -> LSUOG -> RSANI -> RVPEO -> IARRA -> ESOLE -> AVGTU -> LEEVG -> UBGDI -> DDBOE -> BACNP -> TACEP -> GDVVP
+1024

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DRPUE -> TPNNR -> NDUTD -> TTRIB -> POUVI -> GAIDO
-235
+UEBII -> SOVBP -> USOTG -> VBRTO -> VULAE -> CPLLV -> BLCPN -> NBELO
+213

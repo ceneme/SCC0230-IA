@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-OUTLV -> ICSGB -> SSGCN -> IIUGT -> NINAD -> PEESO -> VILBS -> ENRAN -> VLROD
-168
+PCOTL -> OVTEV -> ACRVB -> APRLU -> UVTOD -> DODCO -> OGRTI
+84

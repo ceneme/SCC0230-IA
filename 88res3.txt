@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ETNTC -> LEIRR -> UAPEB -> OUTIA -> SNBBE -> RAOGO -> DLADP -> PTODV -> SPURV -> IIASB
-825
+BGOVO -> VBDPO -> LRITI -> DNGVC -> IOUIB -> DGOTP -> LBGSV
+241

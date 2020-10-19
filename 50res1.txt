@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-TOAAO -> VBRSN -> LLCNE -> ICCSU -> OLEGB -> DGVPN -> GCSNN -> UULSC
-382
+ODSDO -> DOOUC -> IEPDU -> CEELA -> LSEVV -> DLRNA -> TGEAG -> OOILB
+347

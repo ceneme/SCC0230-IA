@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GOCBT -> VAACL -> DUGRL -> NCUSO -> ALGGP -> IPTNA
-324
+GBROI -> AACER -> GABIE -> LGTAR -> DOILN -> IAPOC -> RBLVE -> VCABB -> BSGUP -> NDNOO -> AAEDP -> BODDN -> LTULI -> RTRPR -> BCERC -> NCOIU
+258

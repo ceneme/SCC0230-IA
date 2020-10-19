@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CRPSO -> TNULC -> VOTPP
-288
+OOLUN -> IIPIV -> OLLBV -> RIOSN -> RSGAO -> SBDDC
+101

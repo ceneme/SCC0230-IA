@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UGOBB -> PDSVS -> LVGIU -> NPCBI -> EGVRL -> GLAVI
-359
+TETAB -> ILRGU -> LCACT -> GETUA -> DOVIB -> PINEA -> SDRGV -> PVTSB -> PEPPS -> RPLTG
+405

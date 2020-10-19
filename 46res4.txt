@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NGPSP -> RUCER -> OAAIP -> ADRUS -> GRPTR -> DPCCP -> IUCUB -> GRSCO -> UBODC
-353
+OLDVS -> AUNPP -> SLNED -> TVAPC -> DAIEI -> TOVGN -> PSUVE -> PLSPC -> CBSTG -> CETOA -> SGTVT
+162

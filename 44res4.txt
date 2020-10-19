@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VBTUD -> CNBVE -> DVBCT -> TAOPD -> OBPDP -> AVOBR -> UEUPT -> CSNEO -> NBUBP -> OACEA -> RPSCT -> PTOEL
-386
+AOBOC -> SPVII -> IVLOC -> TLLRI -> DTEUB -> NGABP -> OBGAU -> UGBGT -> VVDSS
+166

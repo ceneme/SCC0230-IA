@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-IOGNO -> OEGES -> OCCSD -> CNRSA -> ITLGG -> DPRLN -> RCCNR -> DRNVN -> DTGON
-334
+NNEUD -> VOVPG -> SLESL -> EAVDO -> BIPIT -> SRRLP -> LIONT
+144

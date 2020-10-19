@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-TTLBI -> IDTOB -> ADRDO -> IIOAB -> NUACA -> CAISD -> VUOPU -> NGRLA -> ONRVU -> IRLDD -> NARSS -> NPNDI
-321
+DDORT -> DBGVV -> AADDR -> OUSAB -> ENDOO -> IOBGB -> RTNTV
+154

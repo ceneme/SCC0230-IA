@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GTDNR -> BBBPA -> NGGON -> TSGLN -> OSULT -> BEUGN -> GAIPD -> VPCLS -> ROBOG -> VLAPC -> UNAOV -> AITTC
-813
+OGLII -> TVUIA -> TUGAD -> RNCAD -> ICARN -> IGDTA -> TVPOG -> OOSCT -> DNSVS -> AINRP
+678

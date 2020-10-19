@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PERRL -> SVTGC -> NEINT -> BNTTI -> GNPPC -> TGDPD -> NSOBP -> RGCUV -> ASABP
-639
+UTACI -> CLLSA -> LEPOT -> EGLPT -> USILS -> OVGSB -> PPEOT -> OUIGC -> GRDDR -> GPACA -> UAIAA -> USVOI
+625

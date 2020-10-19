@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PGONL -> DIGDR -> ETOIS -> ILEDG -> EERUR
-126
+LAGIP -> DBICI -> BPARL -> RNLDL -> TLRCA -> NUADA -> UVVOI -> IVVEB
+95

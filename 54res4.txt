@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NPGGP -> NGTPE -> EASIE -> DVGPG -> GRUOP -> OULTL -> TBIGO -> EOPUT
-464
+EGIRE -> DPIDP -> IBVRE -> CNTRL -> GAAAD -> DTVLG -> VOVDN
+415

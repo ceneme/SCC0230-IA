@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-AAUNL -> TSTSD -> RPOLR -> TCUDB -> ENNTS
-24
+ODUSI -> BRGSV -> IVPRB -> SCRDI -> CVBAC -> TCEGG -> GDCDP
+14

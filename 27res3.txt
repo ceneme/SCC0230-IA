@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NLLNN -> ELSDD -> NRAPT -> UCSRR -> LNUUD -> VNTIT -> NTGIP -> TBTNU -> APRTG -> IITVO -> BEUOI
-192
+AGGAN -> BASLG -> TTBVG -> NNROL -> VIVNS -> POIPU -> LICOC
+109

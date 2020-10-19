@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-EPEAE -> PRDNE -> EAIDO -> LAAVR -> VEAIG
-502
+NBVBO -> PNOGA -> ASCGB -> ISRDA -> GORCB -> UOIIB -> RAVOA -> ISDSU -> UGOEI
+323

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CCUTA -> IPTSR -> CDGIG -> CUTCP -> NPUNN
-320
+CISIA -> ISAVL -> TBGPT -> PNBVO -> EOOCO -> TNBDI -> SLLTL -> APTAN
+374

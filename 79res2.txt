@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NULEE -> NLOCA -> RVBSO -> ANVDI -> ESVAB -> GUGRA -> TGTDV
-755
+CVULN -> VLEDE -> LPVLS -> EETSL -> UITCU -> LTRDT -> NADED -> VBGSB -> TLPVD -> RPROG -> GCBVT -> GACPP -> ULOSD -> CCGUB -> IGBLU -> AINRB -> LVSSR -> APDCN
+758

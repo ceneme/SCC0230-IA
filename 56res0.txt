@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-TNBDV -> ITRBS -> NPCSL -> OPBAT -> ULNIP -> UIBRS -> LCDIP
-427
+OUPBV -> TBTCR -> EUAVE -> ELSPD -> ACNGR -> BSAUN -> ELTBD -> EURLO -> UALBT
+329

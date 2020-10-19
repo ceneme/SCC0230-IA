@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-OVBPI -> ODIUL -> GGBRD -> DUEGG -> SVDOS -> UNCVA -> BEPLA -> CDVER -> NIBLT
-596
+GERTC -> LLVUE -> OTANP -> GUCAB -> EGTIG -> RRNEO -> NVTER -> PEDIT -> VASGP
+653

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SCUDB -> RCSEG -> PADSP -> EBRCE -> SVPSG -> BSBOL -> IRNOG -> VUVPU -> EOGDV -> VRUBC
-168
+IPBGL -> NULOE -> CLEBA -> IUNSR -> UTODO -> NSPDO -> OVDCC
+134

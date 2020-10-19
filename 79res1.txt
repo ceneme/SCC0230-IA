@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PILCL -> CRLRP -> BTRGN -> ERPTG -> BICCA -> CNTTR -> DGOGN -> LSUVC -> PDGTC -> RSTLV -> TPRPE -> PPVII -> GBCPC -> CICSS
-664
+GRRPI -> STSIO -> TASBN -> LVBRL -> TVAVD -> DIAAL -> EOUEE -> ALDBE
+421

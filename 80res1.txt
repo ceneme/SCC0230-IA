@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LPCOR -> VLLBU -> IOGPB -> GAINS -> SBDUN -> ACNDL
-679
+PAEIP -> NDASP -> IVVBC -> NPBVV -> OGRAL -> ACUTS -> ONPRN -> CRACO -> TGPIB
+511

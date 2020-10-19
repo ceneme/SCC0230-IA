@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ETTOT -> NTPBR -> CVOGN -> ACPPT -> DCAOC -> PDTOG -> NOUGO -> NAVSB -> RRICE -> DVEOR
-517
+PVBCA -> LVOOB -> CEGUA -> RALTA -> AOCVG -> CEEOP -> RGAEU -> CSCPC -> CIIRP -> AEBER -> LIBUG
+500

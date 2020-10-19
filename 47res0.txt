@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-AVRTA -> UIOLD -> DEASR -> DVDOD -> PTDVD -> CDOON -> PPEUE -> GCNSV -> NVNDA -> ITANA -> DLLVG -> SGCUU -> SPBED
-357
+GPODR -> TIUGI -> OCAVN -> VLEBA -> GGPOR -> BOVLT -> NVNAI -> NTSTT -> DEDOR
+226

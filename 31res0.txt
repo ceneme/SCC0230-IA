@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-OGVEE -> CGCCN -> ANNGA -> IOTCO
-226
+TNATI -> RRVGN -> GBRDR -> VPDTD -> EDOTL -> EACPU -> LPNNI -> NUUBT
+80

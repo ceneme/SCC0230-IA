@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UEGSD -> TCSSG -> OPLDA -> GTGGO -> BEGLU -> RUBLV -> NSIBR
-301
+SGUGV -> TESNL -> UPAUG -> BRGRN -> EVNVG -> RLRTR
+101

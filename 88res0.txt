@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UGCCO -> IDNPL -> TLLPI -> VUNEL -> ILIRV -> AVUOD -> ECGBT -> BSCAD -> RLAAE
-751
+GPSIN -> CUTIG -> SSRDA -> LVLBE -> OVSNR -> RTRTN -> UGGCI -> RBDIT
+479

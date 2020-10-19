@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CPOTC -> DRBNL -> RRGCR -> VICEG -> INGNN -> OEURV
-61
+TRSBI -> ECRSA -> DCSTR -> RPGBS -> ECULO
+33

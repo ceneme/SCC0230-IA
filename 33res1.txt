@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-AGLNE -> ATBUP -> CSGPS -> LDCNP -> OCENT -> EOCPG -> PPISC -> IABUA -> ENVNL -> GAVUT -> DLIPG
-244
+PDASS -> IUVPI -> AARAA -> SOVAR -> DVSBA -> DTSCG -> CNCBP -> VNEBD -> UEPOS -> LESAN
+227

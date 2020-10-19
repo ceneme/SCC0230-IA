@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-TADUA -> ESAGI -> CPGRI -> CVPPV -> SACLT -> TBGOS -> CVINE -> RERSP -> DDDOS
-195
+SPCSV -> ETTBC -> UDIGP -> NRECA -> EIEDC -> ESSVV -> OSCVR -> DBSRS -> SDLDP -> PURBS -> SUBLO -> UVUCR
+192
