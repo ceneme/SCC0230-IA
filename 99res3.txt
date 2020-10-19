@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: UPLPT -> RVNGU -> GPTEL -> EIDGD -> BBTAN -> OCAUC -> BLLLD -> NTPDC -> ELBSU
-225
+Caminho de cidades é: 
+DOIPT -> SGGLC -> AEVLU -> GULTV -> STTSV -> AEOOS -> CNSTL -> TCEPU -> BDCUD -> NAILE
+844

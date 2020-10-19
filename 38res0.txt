@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NBUGV -> ICUCI -> BPAEB -> RIGRB -> PIGLB -> SRLTT -> BOATN
-87
+Caminho de cidades é: 
+ETCVS -> VOCIV -> VLAUA -> NBSLA -> ASATC
+294

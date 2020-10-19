@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: AERGP -> SRRTV -> OORNV -> ULTUD -> ETCSG -> AIUNV -> LBTCR -> UCRSB
-198
+Caminho de cidades é: 
+CSPCD -> CVBRB -> VILCD -> DGTGD -> VAPRB -> DINCT -> SOCEI -> VGCIN -> IORSB -> GPSLS -> EUERA -> LTLRT -> RVEUP
+747

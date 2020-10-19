@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EAIIO -> COVUU -> ECLPO -> ADTBU -> RVLCT -> OCLCE -> PITPG
-150
+Caminho de cidades é: 
+CTIGL -> UESCS -> RRISE -> PLRLR -> RBASN -> ORSCU -> ANNUD -> IPEDO -> NAUAT -> ARVLC -> NBLSD -> AVDOC -> TVOTV -> UACSE
+655

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TSPGI -> ESPOU -> TUNST -> ANPIE -> ONADS -> SGTOI -> GCOSL -> PRLTI
-137
+Caminho de cidades é: 
+ANGDP -> DLGDI -> DGIPE -> INAGO -> GTBNO -> LRPGC -> BRCRP -> EVGBU -> BPTOO -> BRACO -> VGPLB -> NGRNS
+657

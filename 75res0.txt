@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EUVCS -> ODCVB -> SUTLR -> BTBBC -> VTPNR -> ECDAR -> CRECC
-143
+Caminho de cidades é: 
+GRRGU -> SBVVR -> TOLOL -> RNOSS -> ENTNB -> GLOUU -> RVUVR -> IPBVS -> NRRLL -> SVOBI -> OPCGS -> EGSOR -> AATIL
+594

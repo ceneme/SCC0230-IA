@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VVPBP -> TTEUE -> OGLNP -> CLOCN -> UNURR -> PASRO -> NSRGL -> UNPAU
-54
+Caminho de cidades é: 
+PINER -> ORCUS -> BAPVS -> STOLB -> UNTGD -> CGSCR -> NBGGI -> SDALS -> AUDVT -> VSEIN
+178

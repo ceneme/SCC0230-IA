@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PUBTP -> GPPON -> ROPBT -> CSIPE -> AUSGI -> ORGUP
-136
+Caminho de cidades é: 
+ANRIR -> PNTGL -> PEESV -> VLDPE -> STACA -> CBESD -> AAVGT -> TLCNN -> ANCPR -> DIBVP -> EENCC -> NLOTI
+580

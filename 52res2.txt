@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: OCCUU -> EDGVD -> CGBEN -> IRRDS -> NEVGO -> TVTTN -> RTOUE -> BATEA
-121
+Caminho de cidades é: 
+BALIR -> NINUU -> OCNLI -> IVCSE -> ELIAO -> VUECR -> BRDBL -> BEROT -> VDGRT
+423

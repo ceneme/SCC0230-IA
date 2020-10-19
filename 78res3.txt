@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CGRRN -> NDLGD -> EGVLB -> DPCDS -> UEOGI -> BIVOR
-186
+Caminho de cidades é: 
+VNUSI -> GOBAG -> IUGGT -> NCNRD -> NSAEP -> ASRLA -> BALGP -> GTTDO -> IRCTI -> CTETL -> PNCOA -> RCNGV
+672

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: APVNG -> LRCPR -> NGEGS -> TTPAI -> IPEGR
-213
+Caminho de cidades é: 
+EUATA -> IOPTL -> IVBGT -> PGDDE -> TLGCR -> TAGAR -> VAOSU -> DIICC -> EEOSD -> NCBTC -> BRGED -> ADBBU
+1035

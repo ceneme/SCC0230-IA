@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SLBUA -> RUUIG -> NODSE -> URAPO -> ANGNP -> BUSUG -> NEOTL
-46
+Caminho de cidades é: 
+GUNCR -> LCCDO -> UCDSP -> PCTBS -> VUCRV -> CEGVC -> RLNNV -> CBBDD -> TLSLS -> VPUND
+168

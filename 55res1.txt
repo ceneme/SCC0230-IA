@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IOVVU -> TROAD -> TAUPV -> TDOSR -> PPGLE -> DTUDU -> VLDTP
-103
+Caminho de cidades é: 
+ARDPG -> CLBIT -> BAIBC -> NRCIO -> TIBLG -> SLATI -> IPASD -> PTBBO
+637

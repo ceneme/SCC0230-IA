@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LAABI -> PLPTG -> VOCOU -> RPNLO -> AIDUC -> SETPR -> DLASO
-19
+Caminho de cidades é: 
+LNAAG -> CVGCB -> CIIUP
+45

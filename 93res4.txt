@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TGPRV -> DPCOD -> EUCIV -> LRNSD -> VDLGI -> SGPBT -> AIGLB
-187
+Caminho de cidades é: 
+NETPP -> ACOUR -> DIGDR -> VOPSB -> DTSAD -> RVBRU -> UVDCS -> UEUAI -> DGBDD
+774

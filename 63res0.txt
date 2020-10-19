@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SOAVD -> NATRI -> CSREU -> CAGTV -> VGABT -> LANBI -> EOTSP
-112
+Caminho de cidades é: 
+LBOBO -> RTEIO -> DINBP -> UCBDU -> GNANV -> DNTOS -> OOALR -> NTPSE -> VRUUL -> LLEVE -> VLVPB -> CPIUU -> CLVDV
+476

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: RPOIS -> VCANO -> IBARO -> UELPC -> LSUAL -> OVDES -> DOPED
-68
+Caminho de cidades é: 
+AONEB -> RIACG -> PPBLU -> EATBR -> SSPIO
+208

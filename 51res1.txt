@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LTUDL -> ACDOD -> BGSDA -> TSUCD -> OREBP -> PNSBD -> UIGEN
-105
+Caminho de cidades é: 
+DLTRT -> DIIIS -> SBPNG -> IPDTG -> USIEN -> ACLRP -> POINU -> IRGGE -> SBNNV -> TTDLD -> RPAUB
+396

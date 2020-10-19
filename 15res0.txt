@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NVBTP -> CONDG -> DVNVG -> TAGPS -> NIUDC -> ESRRE -> LBIEO
-57
+Caminho de cidades é: 
+UDENV -> BPSPC -> UIULE -> AVSEC -> NNEAN -> OIRPS -> SNUBB -> TBNAG -> DGDBI -> VBTNS
+103

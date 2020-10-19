@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GLNUU -> RIBOU -> NLESC -> OAVBG -> SIPIV -> EPTEI -> RTATS -> BCIRG
-66
+Caminho de cidades é: 
+OVTAO -> DVABU -> CIRGU -> EVABL -> TPEBI -> OURPB -> GADET -> RTCIO -> SOSTB -> ROPRS -> PEVGD
+238

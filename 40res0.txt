@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DCIAB -> BAGVV -> IOAIG -> PDPPT -> SUNVD -> CGUSN -> GUORP -> ONICI
-73
+Caminho de cidades é: 
+NSOOG -> LOCBS -> CCCDD -> UTNBO -> VATLI -> LRCOU -> SBSVP -> DLPGO -> DUDUS -> CNCVS -> SNLNT -> SNVEO -> IBIEU
+296

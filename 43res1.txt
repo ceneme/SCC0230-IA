@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TBCBT -> SSPTA -> ESNSB -> ONULR -> NEGSD -> ICUBN -> GGENU
-83
+Caminho de cidades é: 
+VTRPL -> ACILC -> URPIC -> ADCOU -> PCSGN -> DNAIP -> IILCC -> PIABL
+319

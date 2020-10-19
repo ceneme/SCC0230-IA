@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CTBCI -> DNIAV -> OTOBS -> EOIII -> BRBGN -> TUEIC -> IIOGE
-102
+Caminho de cidades é: 
+EECLB -> SEESO -> TSGTV -> BICAP -> ENETL -> SLBDL -> CGVLN -> TCPOP -> UONOD -> DBDBC
+348

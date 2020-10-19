@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ESVDA -> DGING -> ISSSU -> DLCLI -> TVSNG -> PLLDU -> VITRI
-171
+Caminho de cidades é: 
+NTGLN -> TUUOP -> SREUR -> NIDTD -> PALOS -> SRSUU -> TSLLE
+810

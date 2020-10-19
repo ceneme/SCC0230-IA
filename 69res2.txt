@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NRGBA -> LELID -> GRPTT -> RIBRG -> ODNPL -> EIRPR -> RGSBE -> TSEIC -> EBING
-129
+Caminho de cidades é: 
+ALPIE -> LEGIR -> ATLVS -> ICEDB -> RVIVR -> NRPIT -> LLBSV -> NIGID -> AERIG
+628

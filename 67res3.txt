@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SAREC -> VALOB -> GBACP -> SVBUP -> AOTRS -> COGUP -> ELVRT -> SEILB
-129
+Caminho de cidades é: 
+NOIPD -> NECUU -> OVPBP -> POCRR -> COBUD -> AUPIE -> VRVGS -> SSEIB -> RGLNE -> IVSGB
+554

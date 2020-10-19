@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EURGU -> VEGTV -> UBOUP -> ERUDE -> LOIUO -> ETSRC -> UBLUS -> ULANB
-190
+Caminho de cidades é: 
+LVBTP -> BCLCT -> NOOVP -> ALLOG -> IEERI -> VLGBO -> GESUP -> GCEGP -> IERGR -> VPUNN -> ECSOB -> TGDLP -> TEUDC
+820

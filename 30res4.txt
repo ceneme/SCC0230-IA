@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: OTODP -> PPAPB -> PBUPA -> PVEAB -> OODGO -> GGLUE
-56
+Caminho de cidades é: 
+AILDS -> RASDU -> EVGET -> DTDGA -> ONEIC -> BDTPL -> SUOLE
+225

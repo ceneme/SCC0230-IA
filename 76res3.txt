@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BSLEI -> DUUGP -> BTISA -> VETDR -> EEOCS -> BUIEP -> GGTUP -> OSLGU
-172
+Caminho de cidades é: 
+BLBNA -> GEELA -> RNBNP -> PNIIP -> PRONV -> BONOU -> ICRTC -> CUNDI -> AVDGE -> NUCEA -> PSCAG -> PBBSV
+664

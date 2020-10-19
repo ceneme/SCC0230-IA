@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ISTVO -> OLASD -> TEOLG -> ASGBO -> LBGSE
-25
+Caminho de cidades é: 
+CPPCP -> TGUGL -> GBTDL -> EIBUN -> SPDGT -> LOVEI
+52

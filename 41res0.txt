@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IDBOS -> BIANP -> UCRRU -> BRSCG -> PVNEG -> UVROD -> LPBBG
-81
+Caminho de cidades é: 
+GRESN -> ISSLL -> BRNNP -> OABOD -> STVUE -> PROVA -> NDILV -> SNVUB -> IVNAN -> ROONU -> PEDUE -> ERRBD
+313

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VGOST -> PBSTA -> INBAI -> SRCBT -> ILSOB -> BILNS -> NSOUE -> ERNLD -> VTSOE
-129
+Caminho de cidades é: 
+LDTDO -> APAPD -> PBTOA -> BTSTT -> OUPBE -> LAVCP -> DVBCV -> RPCCL -> SLTCP -> AECGE -> DNAVB
+745

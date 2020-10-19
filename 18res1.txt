@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BACNU -> UUOGA -> BVVVE -> VUOLI -> GRBIB -> BIDRS -> STNBN
-35
+Caminho de cidades é: 
+PPLGU -> SCEDB -> DTLDC -> GPNNO -> SGLRC
+130

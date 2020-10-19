@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VILTP -> ACTID -> GDPDN -> SOGTA -> VTTCP -> NVVVG -> SSCIU -> TBDBL
-169
+Caminho de cidades é: 
+OCODP -> ULPTB -> ABNER -> UDCAT -> SGIOL -> EPELE -> BLBBA -> LNLUP -> ENADN -> AUCRV
+650

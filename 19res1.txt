@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VTCVV -> ANCEA -> SGSLA -> TDEOE -> CCBLT -> DDSRT -> UAOSS -> BNSLT
-40
+Caminho de cidades é: 
+IGGGG -> TLRRB -> GVNIB -> LVACD -> OGIEL -> LLNSE -> PGTNE
+137

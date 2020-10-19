@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DVRND -> VVBRT -> IODPU -> SSPOB -> GPGSG -> EEGTG -> NSNIB -> DTOGO -> VOOND
-144
+Caminho de cidades é: 
+OAEDT -> BLLRT -> GGCAR -> GESNG -> UBSVP -> AVBNR -> LTLVI -> RVBVU -> LNGGB -> ODSCR -> UENDB -> EAOBT
+518

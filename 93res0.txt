@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NOAGE -> AOVVV -> ELGDN -> IESPB -> LIPNV -> RLDRO -> IAIOL -> BCLCD
-187
+Caminho de cidades é: 
+GNACU -> INUBO -> PDSAL -> RGOND -> NDTVE -> UEAPD -> ITEUE -> PCUDG -> TNIID -> VBDTB -> IEUPN -> IRAGL -> UCCAD -> ONBUE
+780

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ENDLR -> IVGEG -> IDCUG -> DERTN -> GCRSR -> NBILO -> ADCDV
-38
+Caminho de cidades é: 
+RINBU -> DCVGL -> ISRTR -> PAVPR -> VADAI -> ALPDP -> IELCG -> SISOV
+157

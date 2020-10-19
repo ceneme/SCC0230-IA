@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PDSNG -> EVRNV -> REASO -> UVPEG -> PADAN -> SAVBE
-172
+Caminho de cidades é: 
+PLGUI -> INOLC -> ALESR -> ATSSN -> DLLOT -> CPBPC -> OBLIU -> GETAB -> ESTBL -> BLGOG -> TDCAA -> GEIDG -> DDVTB
+692

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BLSVC -> AEARB -> TSBCE -> AAIAV -> AOPIS -> DTLPI -> NPGSU -> CUPRI -> SBPOA -> ILUCA
-136
+Caminho de cidades é: 
+PIGUU -> GIODR -> OCUPA -> CCLRB -> LTVUG -> RUPLC -> ODCCA -> UALTU -> INADI -> SSLIE -> GRBED -> VRNCR -> OVNTU -> VGABI -> RITDU -> BLPNT
+438

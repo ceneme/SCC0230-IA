@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CURDO -> EDNDA -> ONPNN -> VNCUC
-161
+Caminho de cidades é: 
+UBOVR -> IBLUE -> ENVCL -> CSEAR -> EISLR -> BVGCN -> LOVEV -> GDGVB -> LGLCG -> UTOSN -> REOAT -> DTVIE -> NDLOT -> IDEND
+761

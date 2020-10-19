@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: UPUPD -> TTUEU -> TTCNL -> VDDSL -> CBBGV -> ETTRI -> DASUC -> NVORU -> TLPPL
-198
+Caminho de cidades é: 
+LVVCS -> EBURA -> ELEPC -> DSDCE -> TIAGP -> UCBDI -> STTDT -> NVOTA -> ISDVR -> GPASG -> SLTPA
+820

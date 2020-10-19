@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BVRON -> SODPA -> ECBOU -> BPLTV -> DLPUA -> GVPGS -> GANNB
-155
+Caminho de cidades é: 
+CVBLO -> RVUDN -> STRVA -> VPVAV -> RCNCL -> SPLSC -> AAOEU -> UVIAA -> NPERN -> DPLSE -> LDNLN -> APLIB
+673

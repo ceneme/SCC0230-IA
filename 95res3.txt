@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GGDUP -> CEOEI -> UEUEG -> OICLI -> BIGAU -> LICVO -> OANNE -> PVANO -> DUOUD
-225
+Caminho de cidades é: 
+GNOTN -> NVISA -> PLSOP -> UCRRA -> TPNOL -> PBSDT -> DVSUO -> LGSGT -> RSCVP -> UBBUV -> LNCBT -> ICTUE -> RLLLO -> IGEEA -> RNODO -> VROLP -> NGGDR
+835

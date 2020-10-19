@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ULDEG -> ANEVD -> IUTPV -> TVOCC -> DBOAL
-163
+Caminho de cidades é: 
+LPCOR -> VLLBU -> IOGPB -> GAINS -> SBDUN -> ACNDL
+679

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GVCGO -> PLUVP -> SACOE -> UVEVB -> APPBC -> GSOPD
-86
+Caminho de cidades é: 
+GNERN -> PAVTS -> ENBPU -> DACBP -> LSCAG -> GTEVL -> VICCA -> IEBUL -> IPPPA -> NAEDT -> GEIIN
+345

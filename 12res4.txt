@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ETSLN -> SIGCV -> AUDEC -> PSCDC -> VVSTE -> VPRVD
-29
+Caminho de cidades é: 
+GROEA -> GLGVS -> UPBED -> DVUNU -> UOTLB -> EBTPV -> IILNB -> SUDTU -> ROUEO
+90

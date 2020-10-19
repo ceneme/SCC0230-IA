@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BULTN -> SNDLV -> LNUDP -> ABDGR -> LUPBI -> POTII -> NSAVI
-45
+Caminho de cidades é: 
+LVINA -> CPBVA -> PNLAG -> EANGT -> EDDGO -> IPIIG -> TLCSL -> VDDBA -> RELBT -> LNONB
+166

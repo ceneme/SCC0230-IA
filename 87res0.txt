@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CULNB -> TTDIT -> ISEVC -> EUGNS -> CPNUV -> SEOUA -> SUBSD -> COTST
-166
+Caminho de cidades é: 
+DVIEO -> SSINT -> AUIGL -> LVCSV -> NOCLV -> OLOTS -> UBSUN
+726

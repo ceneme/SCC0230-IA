@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ROURV -> VDRDP -> EAULP -> EEUEB -> NVVUD
-24
+Caminho de cidades é: 
+UVIII -> VNBLA -> AANVO -> OIGEN -> GBPUO -> BDDPB
+77

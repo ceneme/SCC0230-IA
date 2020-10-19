@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: URLAN -> CSNUC -> IDUVB -> SOCTT -> AGGRP -> LSAIL
-60
+Caminho de cidades é: 
+CPRLI -> OVILE -> NLNCB -> NEANG -> IUEOA
+238

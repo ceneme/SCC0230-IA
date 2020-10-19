@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SUIVD -> VGCAB -> DUAEI -> NRITO -> BULSR -> IREVV -> AAEDI
-109
+Caminho de cidades é: 
+COGTT -> REVIB -> CBUGI -> BOLNS -> CICVD -> PUIRB -> PDSTR -> RCLSN
+466

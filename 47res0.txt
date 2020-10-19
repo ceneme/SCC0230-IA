@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EORCU -> SUCTL -> TRBVT -> GBRNA -> APBPR -> NRDPB -> ODNCN -> BNPBI
-95
+Caminho de cidades é: 
+AVRTA -> UIOLD -> DEASR -> DVDOD -> PTDVD -> CDOON -> PPEUE -> GCNSV -> NVNDA -> ITANA -> DLLVG -> SGCUU -> SPBED
+357

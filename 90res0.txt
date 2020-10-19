@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: OTLVI -> UCRTB -> TBCUT -> BPVVT -> GCOIV -> SLNUD -> IVOGE -> TDSVT
-172
+Caminho de cidades é: 
+SDAUV -> OBNTN -> GEDRI -> SSREP -> AVPPO -> DANAL -> DEAUV -> BATVO -> GONAA -> DLUNO
+818

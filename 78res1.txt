@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GTLTN -> OGESI -> GNDPB -> NSSPC -> GEPRB -> GVNLI
-173
+Caminho de cidades é: 
+USVIL -> VRLEE -> ASVUU -> BGLGG -> EVDND -> LRSPP -> SBTLB -> NNSRE -> BPRBP -> ESNBS -> CAUBO
+779

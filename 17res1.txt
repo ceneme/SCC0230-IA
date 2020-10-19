@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BNNSP -> TRETV -> DPSOR -> VUCOL -> BRNCV -> NCTPA
-33
+Caminho de cidades é: 
+NPOON -> DDBDE -> OUDAI -> VBLVP -> LBALA -> NOBNL -> LIEIL -> DLCOC -> DPECB -> ERRIG -> LLBUG
+122

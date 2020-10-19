@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DUTTU -> ILBUT -> ATSBR -> USLGN -> UOLDV -> LGDUN -> UEBAO -> EBRPS
-65
+Caminho de cidades é: 
+EIUNO -> LAAIP -> SEUNG -> NNACG
+331

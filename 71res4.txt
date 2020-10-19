@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CTADC -> PNAOL -> NICVO -> NEUUV -> SSUIO -> DBNBA
-221
+Caminho de cidades é: 
+EOLVB -> RDTVR -> VCPID -> EEAAB -> RRPCL -> EEGAE -> URGEV -> ENCRG -> NLBBI -> OUIVN -> ISPIE -> EECUE -> IPLAI
+643

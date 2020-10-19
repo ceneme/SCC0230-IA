@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: RCUOB -> RIPOC -> TUUTD -> ULURO -> EPGDU -> RNVRL -> APNRA
-206
+Caminho de cidades é: 
+OLDPT -> GSPBD -> VATEI -> NOPAP -> BSGCD -> UDBBD -> RNDVT -> VOBST -> VPDER -> DBUCC -> NECUN -> RTTEB
+839

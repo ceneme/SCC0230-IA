@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GLLBR -> NBVSC -> TTDDT -> NSCRN -> IDACU -> DSPRO -> BNTSA -> TPPSG
-156
+Caminho de cidades é: 
+OAOCI -> RNGLO -> VAUUN -> ISCRC -> RPNCB -> OGSSE -> OIDDU -> VRNLO -> RPLSD
+674

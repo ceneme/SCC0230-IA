@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IVVGV -> CCDBG -> USNAT -> LDUAN -> VDRIC -> UNLTN -> TNTDR
-86
+Caminho de cidades é: 
+UGOBB -> PDSVS -> LVGIU -> NPCBI -> EGVRL -> GLAVI
+359

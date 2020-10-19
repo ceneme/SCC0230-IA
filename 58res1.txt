@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: RVVAP -> TONSP -> ULDRA -> EPCBO -> PSLTG -> PTNST -> SCGGB
-126
+Caminho de cidades é: 
+IDRCS -> AELCD -> BGIUE -> OCPEU -> CGCUV -> IRETS -> SCBUB -> CTENN -> CDTDR -> TLGEA
+544

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NUCEI -> GBILI -> GBDAR -> ECVLE -> ITIDE -> LPLDB
-73
+Caminho de cidades é: 
+EOBBE -> ANCVD -> RASBA -> IUSAV -> EURAR -> PTPCI -> USDED -> DUOVO
+301

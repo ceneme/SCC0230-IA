@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ROPLL -> ANUDN -> GIGNO -> CTDTI -> ESELV -> IIPRB -> NDANN
-164
+Caminho de cidades é: 
+ESCTL -> GUBLG -> ALNTB -> EVPTS -> BTVVU -> EBSRV -> UTOIT -> NNEOB -> PLRRI -> TCLSO -> LIPCR -> RAORI
+684

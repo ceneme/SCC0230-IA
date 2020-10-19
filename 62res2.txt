@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SRTPI -> RETNA -> BALRO -> RCIAR -> BBUCS -> PBNRI -> GUIGT -> LNGUC -> UPRIA
-122
+Caminho de cidades é: 
+GBNIE -> NCIVD -> AOBUO -> GREBT -> PRDPO -> TNAEU -> RTSSG -> UPNUA
+504

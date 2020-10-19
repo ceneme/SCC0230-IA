@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GGGLB -> ONSCB -> VSLRE -> AUEBN -> PECVU -> BROTA -> VUBRE
-65
+Caminho de cidades é: 
+BIGLO -> SSGDC -> EDBTA -> DBDRE -> ESNBE -> UOPRO -> EITUP -> RNCAP
+145

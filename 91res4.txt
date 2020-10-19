@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: OTISN -> CACIE -> APDEE -> GISVG -> BTEUP -> NICUU -> APALE -> APCGP -> OBLVS
-220
+Caminho de cidades é: 
+LVOSB -> ECORO -> RETVB -> VCEAP -> OILLU -> ACNNV -> LAEER -> IVCIA -> BDALL
+869

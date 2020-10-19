@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SROBC -> EEOOB -> LCUBI -> LEIGI -> OUVRC -> RRNDG -> EUULA
-49
+Caminho de cidades é: 
+UNVPR -> DPUPT -> CATIL -> TPBPA -> PRPAS -> PLPIE -> PINIE -> LOICN -> ABESV -> ABGRI -> NDOER -> UGGTB
+172

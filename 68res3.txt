@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LEVIG -> ETGGU -> LSRLI -> LNLBL -> TLDVT -> RATIS
-149
+Caminho de cidades é: 
+IGUEB -> CBLNO -> DDBTO -> SBUGA -> REPNL
+572

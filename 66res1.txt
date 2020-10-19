@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: POART -> CPLGB -> CREDN -> NRCOI -> CTEEN
-126
+Caminho de cidades é: 
+GALIL -> AVNRA -> LRGPE -> LSPSE -> RTVGR -> GBEPU -> OGPUT -> RBOVR -> ERALU -> ILSLO
+730

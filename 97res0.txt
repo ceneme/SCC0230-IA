@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PSGRE -> TNORT -> EUSPB -> BUITS -> BPRIV -> DDSCN -> EGVOT -> NLGLL -> EUCUT
-192
+Caminho de cidades é: 
+PIIVN -> ERIUD -> SVAUV -> ARCGI -> TARUI -> BRCEV -> PELRI -> LSBGP -> BEPDO -> CLLDI -> OADEU -> NLDTU
+1044

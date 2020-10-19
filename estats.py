@@ -17,6 +17,9 @@ for i in range(100):
 	averages[i] = (avg/5)
 
 plt.plot(averages, ncidades, 'o')
+plt.xlabel("Tempo de execução (ms)")
+plt.ylabel("Número de cidades")
+
 plt.show()
 
 

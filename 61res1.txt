@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: POSTR -> CSNOT -> APPPO -> UVENT -> EPGAP -> NEIRT
-124
+Caminho de cidades é: 
+ACUPB -> IVSNC -> TAUTU -> ISBUL -> ICEIN -> CRSCE -> DGPRI -> DTUDU -> NPUGV
+483

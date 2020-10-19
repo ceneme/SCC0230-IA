@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DRUSC -> VTTRD -> CRIEV -> CIAII -> TIPGI -> DAPVD -> TVPDO
-273
+Caminho de cidades é: 
+PPVEV -> SNBBR -> RUEVI -> ICSTA -> SLETN -> LTRUS -> IUVEG -> AEVRN -> APBVP -> VVGCE -> PASAG -> GDOVC
+814

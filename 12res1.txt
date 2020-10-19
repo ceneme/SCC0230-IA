@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DSTAB -> VNCTR -> UNCIT -> DIGVT -> UCPGP -> GOPOC
-24
+Caminho de cidades é: 
+DVPCE -> RLGII -> DSACC -> ANPRO -> SLNDN -> CBRIO -> AUEBD -> NNCGA -> SEPOS -> AADUL
+85

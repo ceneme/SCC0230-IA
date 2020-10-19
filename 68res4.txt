@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BRVBN -> URLDB -> VUSBO -> PTBNV -> ROBLD -> AOGBR -> LENAO
-130
+Caminho de cidades é: 
+OCRNE -> AOLOP -> DNITL -> GECAS -> USNAR -> DUPLE -> RORTP
+591

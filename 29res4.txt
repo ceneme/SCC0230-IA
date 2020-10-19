@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GGAPO -> CPNRT -> ADGSB -> BRSEP -> SSDRP -> PGDPD
-55
+Caminho de cidades é: 
+OIEUL -> LPRAS -> CBLCU -> BABAE -> UIGSI -> SEDES -> IPVNU -> TPBIP
+220

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TROIC -> DICDD -> LPEON -> DEBNO -> TVCTG -> DBECR -> RVLGL
-58
+Caminho de cidades é: 
+UIDGE -> CVDGR -> VICST -> GCGVG -> ISING -> BUOSE -> BRSNP -> UBVNU
+256

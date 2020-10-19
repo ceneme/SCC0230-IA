@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EUELV -> RERAL -> SVSVT -> SOPRV -> DPOIB -> CUPEC -> LTBEO -> STADV -> GIBEV
-66
+Caminho de cidades é: 
+TCVSC -> CCOIU -> TBODU -> SGPGS -> PBBEA -> GIAVN -> SREDA -> VSNDR
+283

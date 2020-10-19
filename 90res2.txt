@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NOOUA -> ROLEB -> OTIUU -> GTGPV -> AVNAI -> SVVPN -> LSCPD -> CGISC -> CUSOE
-215
+Caminho de cidades é: 
+VETEA -> LOSBP -> PCADE -> NUAIB -> BEVLN -> PSAPD -> TNRIA -> PRLNN -> NNNSU
+880

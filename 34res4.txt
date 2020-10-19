@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IBIPB -> RVIAI -> PBBUS -> EIUBU -> OUDAB -> DLNDC
-68
+Caminho de cidades é: 
+RCVSS -> BLUCB -> CSOED -> GCPUD -> LRDVS -> COTBU -> NNAGV -> SROET
+259

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ARSUA -> BAPBE -> PROCV -> RDUTR -> TULAU -> OEDNP -> VGPLA
-170
+Caminho de cidades é: 
+IBEUT -> CNVAA -> CSGUS -> IUUER -> CDAGP -> NSNCN -> SLIOL -> BLSCD -> VVASO -> GUVOS -> TRIAI -> OSTDB -> BVIOD -> TPANG
+629

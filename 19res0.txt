@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EOSST -> SUPTE -> VCBGT -> SOCVC -> DNLBT -> ACVTS -> DIDVE
-49
+Caminho de cidades é: 
+LSGDE -> EUBSO -> EECAU -> SPCLR -> AUULL -> PGPSR -> OANAD -> SUVBD
+178

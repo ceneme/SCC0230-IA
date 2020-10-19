@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: APSDA -> EIUCC -> BGOTS -> PNSUU -> CGPSB -> OUABB -> BNTLO
-115
+Caminho de cidades é: 
+BTOBT -> IPVCU -> PUITR -> RITDL -> POCPR -> PULND -> LTCLE -> NLAGO -> RDNNC -> BGCOV -> BTNSC -> SEPAE -> CIGNT
+324

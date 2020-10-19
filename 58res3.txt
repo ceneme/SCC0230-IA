@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VEUIN -> LTNOV -> UBCID -> SEAAG -> NSITL -> INDUV -> ECIVE
-120
+Caminho de cidades é: 
+TBEPV -> TVUOA -> ERGTT -> RGNCL -> SIUSP -> PSLOC -> VGGNT -> IICEU -> IBLDI -> IBTAU -> EVDDT -> SETIL
+473

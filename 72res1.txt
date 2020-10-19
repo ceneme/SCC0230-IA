@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EDLOA -> UEVGD -> TODUA -> CIVEV -> PSDGE -> INUTT -> ODUGC -> SAURR
-173
+Caminho de cidades é: 
+OLIRA -> OGCLV -> SSCPO -> SOIEA -> LVLTS -> DRNBV -> NNVES -> SSUDP -> LTUDG -> LEAUE
+625

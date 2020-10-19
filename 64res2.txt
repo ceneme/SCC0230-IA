@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EESCR -> DASPT -> GPAAA -> AEGIS -> RSLGT -> DEVTV -> UNPOC -> TELCE
-132
+Caminho de cidades é: 
+EGBEL -> CPCUV -> NBRTU -> UGBOD -> SCPVD -> GDUCG -> RICTU -> RLTCB
+520

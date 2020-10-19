@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: OLSPP -> ALART -> RNRAI -> TOCPO -> OOARL -> PLPNE -> NCREV -> VEUDP -> OGITE
-110
+Caminho de cidades é: 
+PRLBI -> ICNEA -> UUABS -> VNIII -> GBGTA -> TIVAE -> IESBP -> OOSVV -> GLUIB -> GSVAU
+409

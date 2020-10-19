@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VNGOA -> EEUSB -> UNLGD -> ORPPC -> DVRRT -> SOEBV -> AANCB -> NGSSU -> OLTOP
-127
+Caminho de cidades é: 
+SUEDN -> TPORA -> NRCUD -> VTRSC -> PLIPI -> DIEDS -> LPDBG -> APGPT -> RVRIT
+503

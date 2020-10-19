@@ -1,0 +1,86 @@
+mapa_sp.txt
+0 31 52
+Presidente_Prudente
+Aracatuba
+Sao_Jose_do_Rio_Preto
+Assis
+Barretos
+Catanduva
+Marilia
+Ourinhos
+Ribeirao_Preto
+Franca
+Araraquara
+Bauru
+Jau
+Botucatu
+Tatui
+Sao_Carlos
+Leme
+Rio_Claro
+Piracicaba
+Sorocaba
+Sao_Paulo
+Campinas
+Itapetininga
+Jundiai
+Santos
+Sao_Jose_dos_Campos
+Mogi_Guacu
+Itanhaem
+Caraguatatuba
+Taubate
+Guaratingueta
+Presidente_Prudente Aracatuba 139
+Presidente_Prudente Sao_Jose_do_Rio_Preto 251
+Presidente_Prudente Assis 114
+Sao_Jose_do_Rio_Preto Barretos 88
+Sao_Jose_do_Rio_Preto Catanduva 54
+Assis Marilia 70
+Assis Ourinhos 66
+Barretos Ribeirao_Preto 104
+Barretos Franca 123
+Barretos Araraquara 146
+Catanduva Araraquara 110
+Catanduva Marilia 159
+Marilia Ourinhos 86
+Marilia Ribeirao_Preto 252
+Marilia Bauru 95
+Ourinhos Bauru 108
+Ourinhos Jau 153
+Ourinhos Botucatu 144
+Ourinhos Tatui 211
+Ribeirao_Preto Araraquara 79
+Ribeirao_Preto Sao_Carlos 95
+Ribeirao_Preto Leme 116
+Ribeirao_Preto Franca 83
+Araraquara Sao_Carlos 40
+Araraquara Jau 65
+Bauru Jau 54
+Bauru Botucatu 92
+Jau Rio_Claro 104
+Jau Sao_Carlos 77
+Botucatu Tatui 80
+Botucatu Piracicaba 84
+Tatui Itapetininga 34
+Tatui Sorocaba 43
+Tatui Sao_Paulo 126
+Sao_Carlos Rio_Claro 56
+Leme Piracicaba 67
+Leme Campinas 90
+Rio_Claro Campinas 76
+Piracicaba Campinas 65
+Itapetininga Sorocaba 60
+Sorocaba Campinas 78
+Sorocaba Jundiai 70
+Sorocaba Sao_Paulo 85
+Sao_Paulo Jundiai 47
+Sao_Paulo Sao_Jose_dos_Campos 88
+Campinas Jundiai 36
+Campinas Mogi_Guacu 62
+Santos Itanhaem 55
+Santos Caraguatatuba 99
+Sao_Jose_dos_Campos Taubate 38
+Sao_Jose_dos_Campos Caraguatatuba 69
+Taubate Guaratingueta 46
+Sao_Carlos Santos

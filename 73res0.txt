@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: AIPAN -> BPUDE -> TNLUN -> IRESE -> NCIIB -> INCBB -> DTPSG
-140
+Caminho de cidades é: 
+IDPCD -> VNLOA -> PIRBA -> NTRLV -> VLTGB -> BNIBU -> UOCGI -> CVBUL -> IPVCV -> IOAAL -> RACOD
+615

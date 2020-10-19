@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GDORB -> CSOSR -> ILTNR -> NUVCA -> LLCUD -> EIIRO -> AEBSG
-153
+Caminho de cidades é: 
+RLRAV -> SIDBE -> PBUID -> DSLLU -> TSAEL -> PBRND -> UTTCS -> DIOVP
+667

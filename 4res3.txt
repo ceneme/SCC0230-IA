@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NELEO -> INNLL -> SORUS -> CPAGI -> VLTIB
-9
+Caminho de cidades é: 
+BOCLD -> IGDOA -> VORDA -> NDGIN -> VATRT -> GSBCB -> PPSAB
+29

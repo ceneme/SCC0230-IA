@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VAPEU -> IGLRS -> LPOVB -> NEODP -> NLBNV -> OAPCE -> ALUTI
-139
+Caminho de cidades é: 
+EDUAI -> RLGNE -> POUDG -> VVPBV -> UAAIS -> BVEAU -> SDAOU -> LLOGB -> VAOBP -> BPRBS -> CDCCL
+611

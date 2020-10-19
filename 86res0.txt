@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LTGEI -> TVOVI -> AGSIB -> CBSNR -> TIDEE -> CNOIT -> BVALN
-164
+Caminho de cidades é: 
+OIDRL -> DSTEI -> CBUAR -> LREDE -> UISEN -> EAUAL -> GCSLG -> LLUSV -> RGSDN -> LRTLA -> VPVAT
+713

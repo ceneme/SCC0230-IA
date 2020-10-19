@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: OGNNC -> GTILD -> NNUEN -> PEPBU -> UOBLU -> GCSCU
-126
+Caminho de cidades é: 
+BCOAB -> BRUGU -> RSUVE -> UETED -> VDOED -> UIEAO -> TVCTI -> BGEBA -> TOADS -> CRRUP -> RLLEP -> DSDEA -> NVSUG -> SVIVE -> VLONL -> EPIVE
+668

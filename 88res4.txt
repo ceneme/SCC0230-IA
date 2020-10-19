@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: AUOEA -> NVRSP -> ANURT -> AAVAI -> BTVPV -> UDDPB -> GTLGB -> DBSEU
-174
+Caminho de cidades é: 
+UEUID -> SACIO -> LNULO -> PEUIT -> IBBCV -> GBDVB
+776

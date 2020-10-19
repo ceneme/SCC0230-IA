@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VASUO -> TRCLI -> PRIOP
-255
+Caminho de cidades é: 
+VVOUB -> ICOCA -> VVVTL -> SUECU -> CENBN -> TETRS -> BRGTL -> CEITV
+720

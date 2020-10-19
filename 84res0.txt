@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DACCV -> LSOPV -> BODPP -> PEDCL -> ERVBN -> PPUCR -> IBSPL
-164
+Caminho de cidades é: 
+OTERC -> UNSNG -> TRURR -> LSIVI -> DIAUR -> TEELP -> BTDDA -> LOVBT -> ELBUI
+680

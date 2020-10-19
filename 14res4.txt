@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ISIEL -> PCTNE -> IDLAC -> GGOST -> DDRIG -> TSNUU -> LGSVC
-32
+Caminho de cidades é: 
+BSPST -> SRVDC -> RNRGS -> CUUVC -> RLGOS -> UULIG -> UDGCN -> DICCE -> ALVPE
+103

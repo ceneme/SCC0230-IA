@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LSUUC -> NABES -> OAEIN -> DLGBU -> DDCIO -> RIRCE -> VRVNV
-75
+Caminho de cidades é: 
+OBATO -> TLIIP -> ONVCT -> NRAUP -> NEBIU -> IOACS -> OGAIO -> RRLUB -> RORIA -> IAITV
+297

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SLCEU -> CBPBP -> PCOGA -> EURLD -> DOVVC -> BTTPP -> TGRCD -> PLIRR
-186
+Caminho de cidades é: 
+AEUPS -> PVASG -> PUDSU -> IGGLC -> VDUEB -> UENEV -> DAPBC -> CLEGE -> DAOVG -> ALBOL
+786

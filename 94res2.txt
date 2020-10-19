@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ARLAT -> ASESL -> TOCSN -> ABAUA -> OTRLI -> GPLUN -> TASCU
-211
+Caminho de cidades é: 
+EIUPS -> OTIVB -> NLSPS -> OSUEV -> RAGTL -> TNOUA -> SRIIU -> LOSAE -> PLIVL
+916

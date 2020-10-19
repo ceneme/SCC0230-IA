@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CUSEL -> TVATS -> RRPTL -> TBLOU -> VDAEL -> NCOON -> NSRVP
-200
+Caminho de cidades é: 
+LOEOP -> COTBP -> BOUOV -> UELTP -> DNVSL -> AUBBE -> OCCUD -> AIBSR -> NSAUI -> TENOV -> CSDLD -> RGSRS -> SUOOD -> RUPIT -> TERAU
+826

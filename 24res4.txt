@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TULLS -> ALEIR -> RPCDD -> VOAPT -> NDONT -> VAADG -> IAGDV
-50
+Caminho de cidades é: 
+SEULE -> RSGTI -> USIAP -> TVEGP -> UUEBO -> SNNBE -> VLPDP -> NCTVA -> NLENI -> APCVB -> SIGCS -> GNDIL
+177

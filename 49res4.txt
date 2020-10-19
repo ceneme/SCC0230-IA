@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PLBEC -> ULCOB -> RDPUV -> DPVDO -> ENECA
-92
+Caminho de cidades é: 
+OAUSL -> UNIGI -> LBSEV -> CISDU -> DPPLP -> DTTVR -> ASATN -> CBOTL -> SLIVI -> IICNT
+387

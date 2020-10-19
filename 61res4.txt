@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SBSDI -> CLLPI -> ONTAE -> VRRDE -> PPTCT -> RSSPR -> ANVVT -> SNOBD
-122
+Caminho de cidades é: 
+LRGUR -> BACSC -> OUTPG -> DDLIC -> ARSVU -> CGILE -> RNPRC -> TLBCB
+594

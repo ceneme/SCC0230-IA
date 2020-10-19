@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ODGRI -> ONOEV -> LDICE -> DTRCN -> SOGCU -> UBCNV -> VGBDA
-137
+Caminho de cidades é: 
+VNLCP -> GCVOE -> PNIUE -> IEOCC -> PVDGU -> RGNDA -> ONOBP -> ASBVP -> UDTGA -> TESPN
+542

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ESSAL -> ICRUV -> VATLB -> VAURI -> IICVG -> ORNCD -> LGELG
-171
+Caminho de cidades é: 
+OUIAB -> VOTSD -> DLRVO -> BSVAL -> OTBLL -> IRDTU -> VRCGD -> UCRGT -> BPPVR -> OCEON
+738

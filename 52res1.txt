@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PCDCI -> BLCLO -> LEIRV -> EUVOV -> LOOEP -> TRCRC -> AUSPD -> TCLLO -> RSESN
-151
+Caminho de cidades é: 
+NRDLC -> VLTNP -> BAONA -> CIUUL -> OAVCE
+417

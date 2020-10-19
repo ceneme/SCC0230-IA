@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ASERN -> TVSRT -> BUVCT -> GNSLU -> BGVOC -> BTRAC -> GSSBO -> ENRRI
-101
+Caminho de cidades é: 
+GBVNL -> OTLDI -> UECRD -> GSTTV -> RDSAS -> UCTSV -> ELERV -> BOGTI -> GAIRD -> NOLLL -> ULLSO -> LSOBV -> ERNBI -> ABNVD
+389

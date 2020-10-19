@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PPADE -> IUOAI -> EUBSO -> APSVB -> DESLS -> OAIAT -> UCGCD -> PAUVU -> TPBUE
-219
+Caminho de cidades é: 
+IEBVU -> LISEL -> RCENR -> OGTRO -> ESEPI
+811

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PSPDV -> NNANC -> NTVID -> NGSTL -> BNGVT -> BRGUO -> ALURR -> NUBCU -> DISBO
-210
+Caminho de cidades é: 
+TCRPS -> SOLVA -> DOGOT -> RBDAV -> IRLSE -> LGVSA -> DGGNS -> EBPUO -> ANLVS -> NDDET -> AGOTA
+688

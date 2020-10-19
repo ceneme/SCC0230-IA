@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NITEC -> ENPOS -> OOSNR -> UDRAU -> IDABT -> RULBO
-35
+Caminho de cidades é: 
+CSDPE -> GPTVG -> BPDLT -> PULEV -> PTCAC -> BANEO -> PSTCT
+73

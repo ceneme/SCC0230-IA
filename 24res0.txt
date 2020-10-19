@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ARIDP -> BDARP -> GTRAN -> OTRVV -> DUOUB -> TEUEI
-42
+Caminho de cidades é: 
+OUTLV -> ICSGB -> SSGCN -> IIUGT -> NINAD -> PEESO -> VILBS -> ENRAN -> VLROD
+168

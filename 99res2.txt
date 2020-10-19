@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: RVEBB -> RGVGS -> VLROR -> EDCDP -> UEVOV -> VVUEC
-194
+Caminho de cidades é: 
+PPTAE -> RPIGP -> OSIAR -> RNTVC -> GONCT -> LNPTN -> RIVCI -> NOSEP -> TLPLG -> LRCEC -> GNELA
+804

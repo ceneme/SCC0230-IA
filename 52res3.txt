@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VABAN -> AURDB -> ELDCD -> RPSCB -> LEILD -> AOECE -> BPBOT -> SREDD
-123
+Caminho de cidades é: 
+NEBGD -> BLTUD -> AIRDS -> BPSCP -> VSPTU -> NBTDT -> IAICO -> RITIB
+441

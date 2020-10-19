@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: AIBTS -> LGPAU -> POUGR -> NCINS -> AUEDU -> VCRAN -> UBEUG -> REGUB
-122
+Caminho de cidades é: 
+ONLTV -> DPNSP -> IVGGC -> VEOTC -> OLIIA -> OEARC -> PNAVB -> AOIET -> LAAOS
+444

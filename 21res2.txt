@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PLIIG -> VNAEC -> UGUPS -> OOOOE -> RLBAV -> CEOOS
-42
+Caminho de cidades é: 
+UNCEC -> CLNSO -> ICIRU -> NVNVC -> DNECT -> BIGSL -> RCCAR -> VVEIR -> TCSOL -> OTLAT
+165

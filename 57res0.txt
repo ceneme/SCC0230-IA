@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: RVGTI -> VIBTC -> CRSPO -> GDIEN -> SLPAR -> GCSVD -> LBDDA
-100
+Caminho de cidades é: 
+LVAGT -> GUIBV -> UDRIP -> TGLRN -> LEPLV -> BVEPC -> NPPDT -> UPGBP -> RPLBC
+425

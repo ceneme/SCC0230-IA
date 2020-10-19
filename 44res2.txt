@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ESPUB -> IDIBI -> NSSGP -> AECAO -> RUVSR -> ONPDG -> EBLRA
-93
+Caminho de cidades é: 
+ESUCI -> NTVUN -> ESNBN -> ITOVD -> PGEGB
+347

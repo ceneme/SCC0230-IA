@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PEODV -> SROUL -> OCRVU -> IAVTD -> AGPED -> PURAR -> BBBUP -> CANTV
-105
+Caminho de cidades é: 
+ECNCV -> DVDPT -> DUIOV -> DDAGO -> EDSOG -> BBGDV -> UESSV -> ASEUL -> BCROA -> GRDCC -> SRNBU -> OPLNG -> NETGL -> TPPOI -> LLTCD -> OAVSL
+501

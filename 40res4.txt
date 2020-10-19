@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VCGNA -> UVESD -> BBSRB -> CGUIU -> AAVDU -> SRTEG -> DVEBD
-82
+Caminho de cidades é: 
+OSDEV -> ASSLL -> PVENG -> RATDA -> ELERS -> BUDSA -> COUAT -> PVTAA -> ISBBO -> LTAUD -> TCBRS
+308

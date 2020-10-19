@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ATLGN -> NLEOO -> ITGCD -> VLPIL -> UUOSG -> ITRPC -> BIABE -> AGURT -> NIUBL
-174
+Caminho de cidades é: 
+BCBDA -> AEOEV -> VUEEL -> RLTOD -> EBIRN -> AVICL -> OCNOR -> CGONP
+720

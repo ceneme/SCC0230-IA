@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BVDNG -> OSIGU -> PDVDG -> BDTPN -> DATCS -> SRLAD -> VURAB -> AGAIP
-154
+Caminho de cidades é: 
+DINTG -> ADRAN -> CONDG -> AESRB -> PVACS -> SLGUD -> UGCOE -> PUOEP -> CRRCI -> SCGRO
+660

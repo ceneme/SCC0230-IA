@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DGSLC -> IDPET -> VDISS -> RPGIG -> PLCPP -> SNNVR -> EVLOL -> RUUDO
-193
+Caminho de cidades é: 
+SBVRO -> PDTDU -> VVTUB -> BLDOC -> CEOES -> VBDSG -> TIOPL -> SDIAC -> DLTNG
+885

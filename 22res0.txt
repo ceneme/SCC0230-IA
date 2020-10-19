@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SNGRN -> CLVTI -> DDGBC -> ODGBS -> POLAC -> TAVAN -> TIERT
-74
+Caminho de cidades é: 
+GUGPB -> NGAVT -> UNCAV -> CGBLO -> CGOUC -> SVUGG -> OUATI -> RTOPC -> IUUTN
+171

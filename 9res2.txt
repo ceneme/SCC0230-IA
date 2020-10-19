@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NCUSV -> CDRLE -> CEEII -> PIGTI -> BRDUT -> DSEEP
-25
+Caminho de cidades é: 
+OGUIG -> DDPGR -> ITUTU -> SRLIR -> LVLGS -> NAUVR -> VOVDL -> PTOLS
+63

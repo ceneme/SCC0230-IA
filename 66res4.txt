@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BSORL -> VBUDL -> LDSID -> SIDUG -> CNSVT -> TSALU -> DEETB
-123
+Caminho de cidades é: 
+CVRLS -> VOIIO -> ITVGO -> RALBU -> LNDDR
+779

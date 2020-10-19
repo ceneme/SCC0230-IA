@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CCDAU -> DOCBB -> BPOOP -> TUOUR -> GCBEV -> BNEIP -> TNSBB -> OAVDD
-65
+Caminho de cidades é: 
+GICLD -> BORNR -> SDUTG -> GVPLS -> BNCOE -> NCGAB -> UGNRL -> PDLPN -> IBOLR -> INRIL -> BDGGU
+249

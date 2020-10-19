@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LTDDE -> NSGNS -> DANEB -> EPCVV -> UCUPP -> SSDUB -> PEEID
-55
+Caminho de cidades é: 
+LONGI -> GRPIG -> UPDDT -> INPGC -> OVPDN -> BASNI -> GOLIN -> GOOTA -> PLOCG -> EPEEB -> BGSRA -> ITBPE
+178

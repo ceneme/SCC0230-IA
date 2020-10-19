@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: UNICV -> CRCIN -> VVDUL -> PLVDL -> LEANV -> DUNDI -> TELAO
-201
+Caminho de cidades é: 
+IORAR -> PTBVV -> NSBAI -> OLGCU -> BDSSU -> NAGIT -> ACDBA -> GRSAE
+860

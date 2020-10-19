@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CVVBO -> AUNGV -> SDCOI -> CRISR -> BLPAT -> ADIVL -> IUTIS
-176
+Caminho de cidades é: 
+ETNTC -> LEIRR -> UAPEB -> OUTIA -> SNBBE -> RAOGO -> DLADP -> PTODV -> SPURV -> IIASB
+825

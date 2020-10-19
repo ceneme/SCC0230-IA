@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TOIPL -> IRRUC -> VTPDC -> ESLPV -> VVGVB -> VLBOC -> SDDBN -> ALBLA -> BVLVI
-193
+Caminho de cidades é: 
+SACOR -> LAVAD -> CIRSG -> SDVCU -> UDSTU -> GVVSG -> CROAP -> LLISB -> VCDLP -> AAGUP
+929

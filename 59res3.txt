@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TTDPU -> EBDDV -> CPBAA -> ATSTB -> IULUG -> CSTAA -> EVUCL -> EBSEC
-131
+Caminho de cidades é: 
+DAIAC -> AVPBP -> OLPBV -> CEUPU -> UGVSS -> RLURC
+527

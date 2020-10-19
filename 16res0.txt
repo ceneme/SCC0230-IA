@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LPPSP -> RULRD -> ADVCN -> CREBA -> CTBGC -> NDERU -> RCGDA
-31
+Caminho de cidades é: 
+VGOEO -> DSTPL -> COSRE -> OOPOT -> ULTUN
+108

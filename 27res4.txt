@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CGNGP -> VASOV -> PIAPB -> AOCVP -> IRPLO -> GPCOO -> NEANB -> IUIID -> SDVRG
-53
+Caminho de cidades é: 
+AOLTB -> ERCVG -> RGRPE -> NEINT -> BDGDB -> ULSGI -> RGNNL -> ELDOO -> VVAVL
+202

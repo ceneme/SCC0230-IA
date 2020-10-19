@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SIGEO -> NGIVN -> PSCVI -> ICCII -> TLTPC -> RCBSS -> SCLIN -> DVDET
-136
+Caminho de cidades é: 
+TTDSA -> IAERA -> AIAUS -> TDITO -> SAOTB -> RSPSU -> LSGTU -> NBPSO -> DOOSD -> ABBRG -> IGSEL -> PGORB
+771

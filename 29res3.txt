@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BPIVB -> DDDRL -> GRNNC -> OPCOO -> TLURB -> CPPGO
-59
+Caminho de cidades é: 
+UNORI -> IGGOO -> LUUTU -> GDLPG -> UCBIN -> UOSNU -> CDRDI -> LTCDU
+216

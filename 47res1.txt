@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SNVSI -> RCDPL -> BBPNU -> RTECO -> EGAOS -> NSPNR -> PGCAC
-86
+Caminho de cidades é: 
+TAOOB -> GDDRN -> GTOUT -> BRDCO -> GOLER -> AVEOI -> UDNBL -> GOBIC
+358

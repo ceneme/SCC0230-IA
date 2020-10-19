@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TTEAO -> NTPTS -> BLOBS -> PGAPO -> SCOAO -> LPUNG -> CLIAB
-221
+Caminho de cidades é: 
+TEERS -> OPNRB -> VGLPN -> CPBGC -> LERLR -> NNVCS -> TSSNP -> ICNON -> VDNTP
+845

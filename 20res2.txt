@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: INSLO -> IPTAU -> OGUTA -> BDLIP -> LCEGR -> TSSDT -> VSUNI
-43
+Caminho de cidades é: 
+LVRCO -> IGBTE -> SSRPP -> RSSUO -> SILPN -> GOOAR
+146

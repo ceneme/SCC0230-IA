@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NOANB -> OALVN -> UDBOC -> PGGPN -> GIROT -> CPOCR -> CEPSG -> ICRSE -> BCVUG
-144
+Caminho de cidades é: 
+IRADO -> GSPAO -> GSUCP -> CIUUT -> OCEAN -> PDOLN -> BPSUI -> PLRUG -> EBBTO -> BUBBO -> TBBST -> NSCBT
+613

@@ -3,6 +3,7 @@ compile:
 	g++ -O3 master_random.cpp -o rand
 
 rand_bfs:
+	python3 generate_inputs.py
 	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 \
 	17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 \
 	36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 \
@@ -16,7 +17,10 @@ rand_bfs:
 			./final < $$ncities-$$ntests.in;                 \
 		done                                                 \
 	done 
+	python3 estats.py
+	python3 desenha_grafo.py
 rand_dfs:
+	python3 generate_inputs.py
 	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 \
 	17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 \
 	36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 \
@@ -29,9 +33,12 @@ rand_dfs:
 		do                                                   \
 			./final < $$ncities-$$ntests.in;                 \
 		done                                                 \
-	done 
+	done
+	python3 estats.py
+	python3 desenha_grafo.py
 
 rand_dijkstra:
+	python3 generate_inputs.py
 	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 \
 	17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 \
 	36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 \
@@ -44,9 +51,12 @@ rand_dijkstra:
 		do                                                   \
 			./final < $$ncities-$$ntests.in;                 \
 		done                                                 \
-	done 
+	done
+	python3 estats.py
+	python3 desenha_grafo.py
 
 rand_ae:
+	python3 generate_inputs.py
 	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 \
 	17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 \
 	36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 \
@@ -59,9 +69,12 @@ rand_ae:
 		do                                                   \
 			./final < $$ncities-$$ntests.in;                 \
 		done                                                 \
-	done 
+	done
+	python3 estats.py
+	python3 desenha_grafo.py
 
 rand_idae:
+	python3 generate_inputs.py
 	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 \
 	17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 \
 	36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 \
@@ -74,4 +87,6 @@ rand_idae:
 		do                                                   \
 			./final < $$ncities-$$ntests.in;                 \
 		done                                                 \
-	done 
+	done
+	python3 estats.py
+	python3 desenha_grafo.py 

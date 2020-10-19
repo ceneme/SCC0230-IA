@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BTDUL -> TEEGU -> NPNOS -> ERLOA -> IUGAD -> UOUTC -> TBRNI -> PLCAR
-139
+Caminho de cidades é: 
+PARSL -> BGGUL -> DBSTD -> UREPR -> EUUEP -> RLRSO -> EONOE -> ECROV -> LEAPG -> PSGAL -> CPSNR
+461

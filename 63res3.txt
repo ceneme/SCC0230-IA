@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PALSN -> GLRVT -> IANLV -> UUIOA -> ICISU -> VADUU -> LBLGN -> BVPNU
-127
+Caminho de cidades é: 
+VOLBD -> GBUIS -> IECVL -> NPLOP -> VAPEP -> DENNN -> SNUCB -> GIURR -> GTCOA -> IUAPT
+523

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SVLBE -> OAVTP -> TRDCR -> AENNN -> PAONV -> UNBGP -> NOINA -> NBUCA
-128
+Caminho de cidades é: 
+EPEAE -> PRDNE -> EAIDO -> LAAVR -> VEAIG
+502

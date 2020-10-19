@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ELPTE -> ARAVP -> GTSIV -> ECDCT -> RNUII -> INORG -> ASSES
-94
+Caminho de cidades é: 
+NGPVB -> ITRSN -> GCURL -> VSECA -> OGGSI
+340

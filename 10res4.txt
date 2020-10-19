@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EPPIE -> DITNR -> UOGRE -> BNNRV -> ORVUP -> OEOSE
-28
+Caminho de cidades é: 
+VUNLO -> ALSRL -> VVEDB -> RSPES -> DCTLS -> NAPGU -> CCOLC -> SPSNS -> UCPSV -> BEESC -> ILSSG -> VVBUA -> UNCPR
+85

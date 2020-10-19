@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: UORCE -> BPTIV -> VOAUD -> NLAGT -> TOSLT -> RPSTD -> RACRN -> AISGN
-195
+Caminho de cidades é: 
+IOTIB -> OTRSC -> ECLII -> GGVER -> UGAUA -> EOSEO
+800

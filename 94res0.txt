@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ADLEP -> PDOCT -> ERLOO -> BLCUR -> NITDN -> EBVNO -> DAVLU -> ARPBV
-190
+Caminho de cidades é: 
+ITSSP -> OSGIR -> RPVPD -> RLBAA -> CDRPG -> ASNSN -> VTCAL -> BIOCC -> RCPDS
+775

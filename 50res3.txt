@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PGDGO -> ARLEN -> BBSCL -> VAVAI -> RBSUR -> IDLLB -> ANTIP -> AEVNS
-104
+Caminho de cidades é: 
+ENRVE -> EPBNN -> ALGUU -> DNAAE -> SETPO -> ACONT -> EIEDB -> RNONR
+415

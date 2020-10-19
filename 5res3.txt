@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PDLTO -> RVGAT -> UTACL -> UAGBR
-15
+Caminho de cidades é: 
+VAICR -> RSOTE -> ARVBB -> RLEVP -> DVAAA -> GONGI -> CRGBL
+38

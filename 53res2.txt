@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CATOB -> TGOUA -> NGLLV -> ROPPA -> LLVPA -> SSVIT -> PDIAT
-137
+Caminho de cidades é: 
+UTSIG -> TINBP -> CNBBU -> SUCUT -> DNCTC -> EPTPT -> RCOPB -> DPCSD
+441

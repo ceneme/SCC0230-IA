@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LTLAT -> BUNUA -> DLREB -> ACVOR -> ELGTC -> URTPU -> ONGNV
-165
+Caminho de cidades é: 
+NGLCD -> PGUTU -> IDLEU -> LCLTB -> RLSPL -> SSPCL -> EBPVB
+709

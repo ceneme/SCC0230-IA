@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: OPGGG -> EDCNL -> GDUAG -> DEABI -> USBRR
-88
+Caminho de cidades é: 
+DONCU -> RLSCS -> TACTA -> TGOES -> SNLIT -> RGBGD -> VOTDE -> SSCDU
+340

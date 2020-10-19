@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ISCSO -> NDDNN -> ACCGC -> DOBEV -> DRSNS -> RVCCA -> DVNUU -> AVAVP
-139
+Caminho de cidades é: 
+EGIVC -> ALCOV -> IDNRP -> LPRVT -> IESTO -> OOEIE -> USCUB -> SBTAD -> GURBV -> GIRIT -> NVARG
+684

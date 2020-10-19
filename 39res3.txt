@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SAIAU -> PNRVG -> BPTCA -> DOVSV -> EPOSI -> AOLEI
-81
+Caminho de cidades é: 
+TGVNO -> NDLSP -> ORRAR -> CSULT -> TRUSS -> RVTPO -> ODVOL
+299

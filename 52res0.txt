@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: APDPU -> GOBPR -> IUBTA -> BGSVL -> DELBI -> CAIPO
-147
+Caminho de cidades é: 
+RAABG -> NENTG -> APBCB -> SBVUP -> ILGAB -> OLAIV -> DIUEA
+417

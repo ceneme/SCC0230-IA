@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BAUID -> VUNVL -> DGNDV -> SCBVD -> VULUV -> SCUSR -> TNPGC -> LORNO
-195
+Caminho de cidades é: 
+RGDOG -> SCVNG -> UVNAU -> DIGGB -> NBLTT -> CGDCL -> NTRDE -> GICEO -> OCVRB -> BBPTL
+687

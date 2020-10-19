@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SUULP -> NOROG -> EPRNV -> SUVVN -> SDDEI -> TPDCC
-98
+Caminho de cidades é: 
+RCNCP -> DNERE -> NCUAA -> DGSBR -> CGRCU -> OOPPO -> ATEEL -> LPLII -> BSBSO -> RIRUP
+451

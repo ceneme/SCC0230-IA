@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: UECUT -> EICNO -> VNABU -> SLCUS -> RTGIL -> RGDVR
-157
+Caminho de cidades é: 
+RGVSV -> CBOBC -> NUOAR -> GCADA -> BEOTT -> GPRTV -> SOEBT -> APLOL
+895

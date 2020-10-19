@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VTEEV -> UUVLR -> TEERN -> LTCCS -> TEUDC
-51
+Caminho de cidades é: 
+BGPON -> NTGND -> GLNSA -> EUUOT -> OETPO -> NUGLI -> CRASD -> ULCII -> EGRBS -> EPVTR -> CEIOS -> EALDG -> GRSBT -> VBDVA
+207

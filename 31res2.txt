@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IGURA -> LLOVR -> SCGRV -> BOGEE -> SIANE -> TBRTL -> AGBTA
-63
+Caminho de cidades é: 
+DOCCO -> VTVVC -> BPPRD -> LITAT -> DCVRC -> CLNOG -> EILNA -> GAOSG -> SBNBD -> LULTT -> BPSUV
+227

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GCUCB -> EDINE -> PNBPC -> LPGPO -> ARATT -> TVICU -> LACOR
-97
+Caminho de cidades é: 
+OGUON -> RGEGA -> TSCUE -> ODRSO -> DSTVT -> BIIEC -> UPOBI -> TSTDA -> AONDR -> IURIL -> GBITT -> BAANB
+298

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IPECA -> SAUDG -> ICLPV -> BGSGU -> OLUBV -> DDLTE
-27
+Caminho de cidades é: 
+NNDEN -> SIDEE -> GCUSN -> EUGOG -> NSSOG -> EVSAD -> SDUNS -> SOBAT -> VGBDI -> LODPP -> ECENS -> TGNVE -> VVDDD
+101

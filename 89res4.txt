@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ISBSO -> RLCGD -> EBDBG -> OIGLI -> GGNUS -> DGODI
-172
+Caminho de cidades é: 
+ILSEE -> IDSTN -> GLGUG -> OALNU -> VRROI -> GDVPR -> ORVSN -> LVATR -> DIDLS -> BPRET -> LBEDO -> VDLEN -> EARTU -> UIPIV
+797

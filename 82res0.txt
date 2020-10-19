@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ABRSN -> TELUL -> VEOBE -> OROSR -> GPLGD -> SOCRU -> PRGSB -> TNVDA -> SAEPV
-159
+Caminho de cidades é: 
+GOBAB -> RPNII -> IOTTA -> ILOUT -> RSCGR -> DBUOR -> GTEGG -> IRBLB -> DPGDI -> IIBDN -> ADIDI
+712

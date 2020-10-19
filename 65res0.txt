@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: OCTEL -> LRPSG -> RLNGS -> ULUNC -> IVUNT -> AIIAV -> ALGTN
-120
+Caminho de cidades é: 
+SDOEI -> SABUE -> RGRIS -> VEEEE -> GUECO -> IUEON -> ADDRN -> SRLTI
+535

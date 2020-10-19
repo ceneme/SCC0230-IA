@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LDPLD -> BEUBC -> CAUOV -> GSDRE -> IROVS -> GGTAB -> IOEGP
-88
+Caminho de cidades é: 
+ROAUN -> SRIOO -> NCVOC -> GSSGS -> TLDBB -> GEEPE -> ANESL -> SAIUD -> DDCRR -> PIUTG -> SBIGT -> POEAA
+370

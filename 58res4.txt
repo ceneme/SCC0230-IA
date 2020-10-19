@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: USRTU -> RPRBG -> DLGLU -> TODED -> GTTDG -> DBEDC -> UDVEO -> COTER
-115
+Caminho de cidades é: 
+GDUOR -> ECBNB -> PULGL -> NODPG -> TPDBV -> SNTNN -> IDLAP -> DINRP -> CBTPL -> EVTGS -> USNGI
+475

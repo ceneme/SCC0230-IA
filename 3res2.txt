@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TNEVV -> CIIRG -> GEVCA -> VRTSU
-9
+Caminho de cidades é: 
+INOVP -> EIRNT -> EVPTU -> DVVVO -> CACIB -> CRSTT -> NDSAT -> STUAV -> OSLSC -> PGLSB -> EVTLT
+22

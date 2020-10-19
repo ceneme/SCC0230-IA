@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LICIV -> OIVGS -> LPERO -> NIGEE -> PITBN
-39
+Caminho de cidades é: 
+NSSCL -> BGRBS -> RODEU -> UNSNI -> UUESP -> GPNTC -> AOAEA -> VIEPR -> EOLTR -> DVENA
+155

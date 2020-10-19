@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GTLLG -> ILEDC -> LPBDD -> TPTNN -> DURIO -> PSASD -> ETAPU -> ODAID
-81
+Caminho de cidades é: 
+TTLBI -> IDTOB -> ADRDO -> IIOAB -> NUACA -> CAISD -> VUOPU -> NGRLA -> ONRVU -> IRLDD -> NARSS -> NPNDI
+321

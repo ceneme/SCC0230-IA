@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NNADT -> COIEB -> LLLGE -> DNRTS
-152
+Caminho de cidades é: 
+CLARC -> DSTLR -> NPEIC -> RLDBB -> IUEVO -> DAERS -> TAIGE -> PSVCL -> OPGNG
+610

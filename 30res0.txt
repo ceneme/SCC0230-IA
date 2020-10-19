@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: RBUOB -> AAREU -> GNOSE -> AVTAN -> LCNOB -> DSPBN -> AIAPE
-95
+Caminho de cidades é: 
+BVADT -> SDCNO -> ONPPD -> PASBV -> IEAEV -> LBDTG -> REVDI -> DOPEP
+222

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: URCRS -> VAECB -> RNALC -> LNVAD -> ORGRT
-9
+Caminho de cidades é: 
+BNAAU -> BIAUS -> CPIER -> RONNE -> GLLAA -> OECIE -> OLGAP -> AGGIL -> TPDDC
+27

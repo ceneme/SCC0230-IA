@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: RGGSA -> OVBVP -> SIUPE -> TVCEA -> ETTES -> IAACO
-89
+Caminho de cidades é: 
+VGDTU -> SCIBG -> SACVA -> UGBOL -> RCEVO -> GBNNL -> ABSUR
+362

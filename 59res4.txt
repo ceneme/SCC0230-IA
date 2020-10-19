@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BGOIU -> TGCSG -> NGTDL -> RVVUS -> ASOTV -> VISAC -> VUIDB
-163
+Caminho de cidades é: 
+DSOOI -> NALSL -> SOSID -> TVBBS -> VTNEL -> NUBAT -> AUOGD -> TAERR -> BERBI -> DTBAG
+526

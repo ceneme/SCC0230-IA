@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LATLL -> ISODT -> ADAEO -> GRISI -> RTNTN -> RDULS -> RCGLG
-53
+Caminho de cidades é: 
+UDLTV -> POAPD -> ELVUP -> OOCST -> ANLTO -> NOIOB -> VUSAE -> OVGVV -> CPABG
+194

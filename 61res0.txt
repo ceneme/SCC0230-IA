@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: PITGN -> PLDBG -> NNDDS -> OVEIL -> ONILR -> EAVOB -> BPCNI -> IVCLD -> TUVGV
-112
+Caminho de cidades é: 
+CTGIL -> UUADN -> TGAEO -> CRBAP -> TUDON -> CIVRR -> GOPUC -> TRCTD -> BGUDC -> BPVLV -> AVGLR
+466

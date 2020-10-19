@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ALRNT -> TDSPB -> APVLD -> LNDGI -> CDGCD
-196
+Caminho de cidades é: 
+VIANI -> GGLRA -> RBCSU -> TUGNC -> STENU -> AEVAT -> DBCEP -> ELVIT -> OBUEL -> RVUNB
+586

@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: USEGV -> PUGII -> PNICE -> NRSBG -> CNBIT -> BODGR -> LUOUS -> TBRPD -> IIGGN
-129
+Caminho de cidades é: 
+BEPPR -> TEANI -> GUVGS -> ORPVA -> CSIOE -> BCILL -> ERCRG -> DGDEO -> EVPPE -> CLGUE -> VORGA -> TLION -> REROD
+554

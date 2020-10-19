@@ -195,7 +195,7 @@ void printa_caminho(int root,int dest)
 	}
 	
 	reverse(caminho.begin(),caminho.end());
-	cout << "Caminho de cidades é: ";
+	cout << "Caminho de cidades é: \n";
 	for(int i=0;i<caminho.size();i++)
 	{
 		cout << cidades_id[caminho[i]]; 

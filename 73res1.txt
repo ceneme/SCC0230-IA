@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DGNUC -> OOIGN -> IRURN -> CCOVR -> PRATO -> UGBDL -> EEGBA -> BPNIS
-147
+Caminho de cidades é: 
+CEDVE -> CEICD -> LIGUO -> OCVSU -> AUCES -> CBSIG -> DLASD -> VRITI -> NUEVD -> GOVPE
+1060

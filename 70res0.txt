@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IIURB -> NNCSL -> RDCAE -> OVPLP -> NOTGN -> OEIOV -> NOOGD -> BGCTE -> SVECU -> ORDTI
-141
+Caminho de cidades é: 
+DUSIT -> VLTCL -> PECPV -> ODUAL -> ESNBC -> LEVRL -> UBNLS -> TRNBC -> NDUBL -> IVNTR -> DGLLS -> PENSN
+555

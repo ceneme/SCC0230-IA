@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DGIRV -> OVEUL -> PGPVI -> LINRO -> IEVSN -> PVVOT
-40
+Caminho de cidades é: 
+ECCNO -> LREDV -> CGTSL -> EPCPL -> UGIPG -> GRNAD -> ICTPG -> IPRET
+138

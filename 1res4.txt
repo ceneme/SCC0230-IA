@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BACBS -> BCGIL -> BPBCR
-3
+Caminho de cidades é: 
+RPPIG -> RTOEE -> IRUAT -> RPOOC -> LEOIV -> BNLDN -> TDSIG -> VCUNR
+10

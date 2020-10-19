@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SDPEC -> INTCG -> PGGBI -> EARGE -> ETENB -> CTTVV -> DBVIL
-218
+Caminho de cidades é: 
+TCNSV -> PNEIO -> NCCNC -> RGOLS -> ACRCP -> CGNNE -> BPPOO -> DEIOE -> NBPTI -> VRLLD
+592

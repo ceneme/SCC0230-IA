@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LADUS -> NTISN -> IDSGE -> ARNST -> RVTTO -> NGRTI -> DORNV
-104
+Caminho de cidades é: 
+VRTBB -> UCUTB -> LUORO -> UCCGO -> POPPN -> LBGGT -> CDDPC -> AVGCP -> GRUIG -> ITVSI
+536

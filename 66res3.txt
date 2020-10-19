@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LLDPT -> AELNC -> URPVE -> LLAPD -> VSAPE -> VUDDD -> GVTCS
-130
+Caminho de cidades é: 
+PRVCE -> LTBGB -> EIVLO -> ATTTS -> UELNI -> TEONR -> BDVRN -> AOPRN -> GTOST -> TDSUA -> VATAT -> NVTOS
+731
