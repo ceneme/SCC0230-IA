@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: STBRP -> AEGVB -> LTBLE -> EEDSS -> OUEVG -> CNGIR -> BLONE
-50
+Caminho de cidades é: CVBRR -> OVUUT -> VTDAB -> GGTBS -> ILSED -> OESDT -> SNTTI
+45

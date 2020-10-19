@@ -3,35 +3,75 @@ compile:
 	g++ -O3 master_random.cpp -o rand
 
 rand_bfs:
-	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 ;     \
-	do                                                                     \
-		./rand < 0rand$$ncities.in ;                                       \
-		for ntests in 0 1 2 3 4 ;                                          \
-		do                                                                 \
-			./final < $$ncities-$$ntests.in;                               \
-		done                                                               \
-	done                                                                   \
-
+	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 \
+	17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 \
+	36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 \
+	54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 \
+	73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 \
+	92 93 94 95 96 97 98 99 ; \
+	do                                                       \
+		./rand < 0rand$$ncities.in ;                         \
+		for ntests in 0 1 2 3 4 ;                            \
+		do                                                   \
+			./final < $$ncities-$$ntests.in;                 \
+		done                                                 \
+	done 
 rand_dfs:
-	./rand < r1.in
-	for number in 0 1 2 3 4 ; do \
-    	./final < $$number.in > 1res$$number.txt; \
-	done
+	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 \
+	17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 \
+	36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 \
+	54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 \
+	73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 \
+	92 93 94 95 96 97 98 99 ; \
+	do                                                       \
+		./rand < 1rand$$ncities.in ;                         \
+		for ntests in 0 1 2 3 4 ;                            \
+		do                                                   \
+			./final < $$ncities-$$ntests.in;                 \
+		done                                                 \
+	done 
 
 rand_dijkstra:
-	./rand < r2.in
-	for number in 0 1 2 3 4 ; do \
-    	./final < $$number.in > 2res$$number.txt; \
-	done
+	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 \
+	17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 \
+	36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 \
+	54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 \
+	73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 \
+	92 93 94 95 96 97 98 99 ; \
+	do                                                       \
+		./rand < 2rand$$ncities.in ;                         \
+		for ntests in 0 1 2 3 4 ;                            \
+		do                                                   \
+			./final < $$ncities-$$ntests.in;                 \
+		done                                                 \
+	done 
 
 rand_ae:
-	./rand < r3.in
-	for number in 0 1 2 3 4 ; do \
-    	./final < $$number.in > 3res$$number.txt; \
-	done
+	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 \
+	17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 \
+	36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 \
+	54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 \
+	73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 \
+	92 93 94 95 96 97 98 99 ; \
+	do                                                       \
+		./rand < 3rand$$ncities.in ;                         \
+		for ntests in 0 1 2 3 4 ;                            \
+		do                                                   \
+			./final < $$ncities-$$ntests.in;                 \
+		done                                                 \
+	done 
 
 rand_idae:
-	./rand < r4.in
-	for number in 0 1 2 3 4 ; do \
-    	./final < $$number.in > 4res$$number.txt; \
-	done
+	for ncities in 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 \
+	17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 \
+	36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 \
+	54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 \
+	73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 \
+	92 93 94 95 96 97 98 99 ; \
+	do                                                       \
+		./rand < 4rand$$ncities.in ;                         \
+		for ntests in 0 1 2 3 4 ;                            \
+		do                                                   \
+			./final < $$ncities-$$ntests.in;                 \
+		done                                                 \
+	done 

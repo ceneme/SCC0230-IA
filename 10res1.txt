@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TLPDO -> LACVG -> UOISB -> UGBRG -> GDVBC
-23
+Caminho de cidades é: ELVNN -> NTNPL -> UGUGT -> CTDTU -> OILPG -> ILEDG
+25

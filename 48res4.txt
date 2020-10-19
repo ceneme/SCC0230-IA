@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LRUOD -> GLCPP -> EPNDG -> EANBD -> IONCG -> DVICA -> EBCBR -> BGIEA
-174
+Caminho de cidades é: CGTOC -> EIAOD -> DOVSI -> DDBDL -> CLRNB -> SSDTS -> NITRD -> CLBOT
+137

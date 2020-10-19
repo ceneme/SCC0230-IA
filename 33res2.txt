@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GRDRI -> OAOSL -> IVTVI -> TDNRO -> EERVU -> EBNLP
-77
+Caminho de cidades é: CCDAU -> DOCBB -> BPOOP -> TUOUR -> GCBEV -> BNEIP -> TNSBB -> OAVDD
+65

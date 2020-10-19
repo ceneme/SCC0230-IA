@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IRSCU -> VBLUS -> CEAAD -> STGGP -> UNAVR -> VVVEU
-36
+Caminho de cidades é: BGTTO -> EALVV -> GIEAA -> UANBC -> RCPIV -> EERLD -> TEVSE -> OBRRT -> CDBCN
+34

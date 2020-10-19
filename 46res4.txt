@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: OCVCD -> BUCNU -> PUUSI -> UOPRL -> LRRIO
-104
+Caminho de cidades é: EGERC -> EANCR -> BOCAU -> CVAAS -> CCLDD
+96

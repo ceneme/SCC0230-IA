@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: UNBOO -> EBRRE -> UOEPD -> LNPSO -> RRDUO -> EADEG -> RCGIG
-46
+Caminho de cidades é: AGIAR -> SUTCV -> ATGTD -> GPUUI -> OPARS -> EROEN -> DNIIA
+48

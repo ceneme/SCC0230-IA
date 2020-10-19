@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CNTUI -> OIRNC -> DBCTS -> RTOCA -> AOTCC -> IDPSO -> PNDII
-81
+Caminho de cidades é: TTCEU -> BATVO -> BNSPN -> LGEDB -> RLDGE -> ESCER -> ADDPR -> APNAE
+67

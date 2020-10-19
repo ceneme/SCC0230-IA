@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: RILGN -> TGTNS -> TGIPS -> LSBBS -> ILACP -> DPUGR
-64
+Caminho de cidades é: TUOBB -> NRSPG -> INIUA -> VSRAA -> TOOLL -> PRNPD -> AATNU -> AVAIU
+62

@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VGUNS -> GGSRB -> UACEL -> NBOUI -> NGAVL -> LLGRU -> NUDIP
-34
+Caminho de cidades é: ISIEL -> PCTNE -> IDLAC -> GGOST -> DDRIG -> TSNUU -> LGSVC
+32

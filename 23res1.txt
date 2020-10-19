@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ULOBO -> PALUD -> SUNVV -> NRPSE -> LPGIN -> VRIIU -> LTASI
-58
+Caminho de cidades é: SECRB -> SUNCA -> PDLVC -> TVBNT -> ODGCV -> VUBGE
+44

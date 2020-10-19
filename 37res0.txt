@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: UPSTE -> RVAAB -> RURRU -> TVPAN -> ARGOV -> RVLAE
-76
+Caminho de cidades é: BPAIB -> NOTLI -> GAITC -> DCOCD -> RRLIG
+92

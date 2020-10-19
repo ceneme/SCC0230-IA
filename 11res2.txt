@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NTEOI -> LLOIT -> DOUET -> BGEID -> EEVGP -> SRDEO -> RDLGS
-31
+Caminho de cidades é: RUUCV -> RBAED -> RGGRA -> VSRTC
+26

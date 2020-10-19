@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: EPPIB -> DUIDR -> DTLUR -> SDOED -> IGAVE -> VPVGP
-39
+Caminho de cidades é: LACLR -> LABGO -> APPAA -> OABBT -> ODTVB -> LBUNU
+34

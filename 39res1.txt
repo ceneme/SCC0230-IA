@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ALGSL -> EDBCD -> RLGEE -> GOOGE -> RABGG -> VBOEU
-84
+Caminho de cidades é: LGBCE -> IAOCN -> DLVEL -> RRCDD
+70

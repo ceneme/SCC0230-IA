@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NCOOG -> OCEGI -> GUICO -> EPBUS -> VBCAN -> BERPE -> VBTAU
-24
+Caminho de cidades é: UBPEI -> SLBUP -> LGNPI -> DAOVG -> SSLVB -> BNSAL
+21

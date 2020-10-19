@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: UNSTA -> SPODG -> GBCBG -> BSTOO -> UPDRU -> NSGSN -> VIAVA -> RODUT
-31
+Caminho de cidades é: AVDSE -> CDTSU -> NVPRV -> LEASI -> VUSCR
+28

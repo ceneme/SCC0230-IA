@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: BSBGA -> IPSVV -> RDESR -> CEARR -> UCLNL -> OGEPN -> GBUOU
-74
+Caminho de cidades é: NTEIU -> VOBBU -> SUGDE -> GAVLB -> GEUIE -> ADDUP -> CTUGB -> PSDPT
+51

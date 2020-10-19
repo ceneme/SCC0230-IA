@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: REOAU -> GNSOV -> TUVGI -> IARRV -> AOSUO -> AGEDD -> CULTO -> PEGAA
-98
+Caminho de cidades é: EORCU -> SUCTL -> TRBVT -> GBRNA -> APBPR -> NRDPB -> ODNCN -> BNPBI
+95

@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CANLU -> APSCG -> PUSDT -> GBVLP -> SNTGU -> GADCD -> DVDDR
-84
+Caminho de cidades é: IBIPB -> RVIAI -> PBBUS -> EIUBU -> OUDAB -> DLNDC
+68

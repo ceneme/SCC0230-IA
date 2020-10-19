@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TDILU -> CGILU -> RLITC -> VLEUB -> UBEUT
-162
+Caminho de cidades é: CLOII -> DOOBV -> UGEEN -> ENCGN -> GVGLD -> CGNSD -> VBEBG
+135

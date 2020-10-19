@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: AODBL -> NPSGO -> OPCBB -> LEOPO -> LGGUL -> IEGRB -> LUDIP -> SSPGD
-86
+Caminho de cidades é: DUTTU -> ILBUT -> ATSBR -> USLGN -> UOLDV -> LGDUN -> UEBAO -> EBRPS
+65

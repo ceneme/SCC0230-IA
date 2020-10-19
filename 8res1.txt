@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ENGUP -> LDEIL -> RSEEU -> GTGCT -> OELNN -> VLENS
+Caminho de cidades é: NACII -> VTLBC -> PDCIR -> AGGLE -> VEOCU
 20

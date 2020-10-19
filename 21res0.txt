@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TTPSL -> NERNE -> CPTED -> TGGLV -> LVLDC -> OESAD
-43
+Caminho de cidades é: LICIV -> OIVGS -> LPERO -> NIGEE -> PITBN
+39

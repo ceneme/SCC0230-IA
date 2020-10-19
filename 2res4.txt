@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DTDCT -> OTLCR -> BDTCS -> IADSC
+Caminho de cidades é: ICECL -> DGDID -> OEBGB -> TIVSG
 6

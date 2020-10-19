@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LIPCG -> TSBSI -> EUTCS -> BIPAL -> TCOPT -> PUTBR -> USPTI
-65
+Caminho de cidades é: STVEN -> UUSNO -> VBIOP -> VIDEE -> IDGAU -> PODAB -> CVSPL -> TVDCR
+86

@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TUTOT -> EBNUC -> GTBSI -> SCIDP -> INDUE
-60
+Caminho de cidades é: RSLSO -> TNPIU -> TBTDP -> BOVAL -> SOTDU -> BTLTO -> SAOED
+52

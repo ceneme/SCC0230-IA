@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SRVPD -> LAVLE -> EIDUS -> SONNT -> VRDST -> CPIBP -> LCUSO
-78
+Caminho de cidades é: UGUEL -> PIVVG -> VBPOD -> ORRUR -> TOROE -> ULLVG -> ECCIN
+61

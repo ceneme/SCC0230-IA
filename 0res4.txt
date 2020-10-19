@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IVVSE -> ARSRC
+Caminho de cidades é: EPBCD -> GIUOL -> RSEPP
 2

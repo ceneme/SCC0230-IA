@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LEEBU -> ODCCS -> UPGBB -> EISUO -> NNROC
-98
+Caminho de cidades é: APSDA -> EIUCC -> BGOTS -> PNSUU -> CGPSB -> OUABB -> BNTLO
+115

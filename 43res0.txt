@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LUSBP -> IVGUG -> RDSCT -> OUOCB -> NNDLU -> SEPLV
-93
+Caminho de cidades é: CIIRN -> EPARG -> NSATV -> OPITP -> LDNPU -> EEUGB
+85

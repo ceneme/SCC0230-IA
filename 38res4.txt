@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VCASB -> BUECG -> BDOAP -> LCDCV -> LRTEC -> ATSGD
-84
+Caminho de cidades é: GCUCB -> EDINE -> PNBPC -> LPGPO -> ARATT -> TVICU -> LACOR
+97

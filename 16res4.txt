@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IGIUB -> UBPLG -> TCBUB -> NRULC -> ESRUA -> IUIOU
-41
+Caminho de cidades é: DAUBO -> GOTSU -> PLCPE -> EDVDO -> ENNVO -> BGAAI
+34

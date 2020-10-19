@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NPSVU -> NDENR -> AOPGU -> GCOGL -> DVNAL -> UASLT -> TRVRC -> VGRCV
-85
+Caminho de cidades é: IDBOS -> BIANP -> UCRRU -> BRSCG -> PVNEG -> UVROD -> LPBBG
+81

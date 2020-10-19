@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: NURRE -> GLCTV -> LDSUD -> PEBIU -> CESNP -> DPEGC -> UAUIG -> UDEBU
-43
+Caminho de cidades é: ASSER -> UBILS -> DBROL -> IOSLN -> BLEAU -> PVUGU -> TERPP
+36

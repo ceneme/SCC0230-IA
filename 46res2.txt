@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: SLCGI -> COSIG -> LNNCO -> LDBVU -> GGAOA -> RDASD -> UOTVA -> TPSIN -> CIADA -> LGTVU
-103
+Caminho de cidades é: OGEIR -> ATVUO -> PUEDL -> ISSDO -> IPTRV -> DCGOB -> NERTN
+93

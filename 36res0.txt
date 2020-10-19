@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DNANE -> LCPAN -> ERPIT -> USULD -> ITPOG -> AVREB -> EGGVO
-130
+Caminho de cidades é: NUEVV -> PGUVT -> TSDST -> UVDIV -> IINUB -> CDCVL
+66

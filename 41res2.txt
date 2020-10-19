@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TOSEL -> LCUSP -> CTBTB -> ITSDO -> BOBSV -> RTARG -> EROPC -> EPTDN
-90
+Caminho de cidades é: GTLLG -> ILEDC -> LPBDD -> TPTNN -> DURIO -> PSASD -> ETAPU -> ODAID
+81

@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DPUIC -> PVTUC -> URLGL -> URNTT -> DVPSB -> NNPBR -> RSOAN
-117
+Caminho de cidades é: IBSGS -> DNLBI -> OOPCN -> EBCLG -> LDDUO -> GUPAP -> BULRC -> CNTUL
+104

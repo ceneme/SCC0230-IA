@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: UTDDS -> RIVUB -> SOALP -> OGVII -> VSTCG -> DNCON -> PBVPO -> ESNUV
-55
+Caminho de cidades é: RLSSR -> LPGUB -> BUIRG -> AEEDP -> GLGBA -> AULAU -> IUDLB
+47

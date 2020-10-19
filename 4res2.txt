@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: POBGA -> IADNT -> PSBTG -> OTPCR -> OAOGD -> GOIGO
-14
+Caminho de cidades é: URCRS -> VAECB -> RNALC -> LNVAD -> ORGRT
+9

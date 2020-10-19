@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ANOOC -> IPLCD -> AEAIS -> DNOIP -> SRONN -> ARUBC -> COGVO -> BIDCG
-85
+Caminho de cidades é: UGPGB -> AAVCT -> GEURG -> NTABA -> VOLLO -> PURRC
+88

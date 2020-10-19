@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: GPOVB -> CSAET -> SBOVP
-85
+Caminho de cidades é: RCPGG -> LLLEP -> GAGBT -> TREPN -> UTNOU -> EPCNE -> CSOEB -> IDDVL
+103

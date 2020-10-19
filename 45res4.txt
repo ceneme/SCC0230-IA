@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TBOUP -> LBTII -> ILGAI -> TSIVL -> DTCDV -> NADAC -> NDVSE -> PDTBD
-130
+Caminho de cidades é: ISNIV -> GGLGC -> SIUTT -> VSTOT -> PTIGC -> RIRGA -> GCUBD -> OABPD
+89

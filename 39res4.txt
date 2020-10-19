@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: IIESC -> BVTGV -> INRDO -> RGDAI -> TNLOL -> DBCDI -> URROD
-93
+Caminho de cidades é: OVCNC -> LIGOT -> VIBLE -> NCVGU -> EGOVG -> DGPLI -> SRARD
+137

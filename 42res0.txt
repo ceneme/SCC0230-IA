@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: VPEPL -> BEVOA -> DEECU -> TPLCT -> CPBBR -> CDVLC -> GTGVS -> UNIRN
-94
+Caminho de cidades é: LDPTE -> LECAL -> GUUOL -> ASIGG -> VGUAI -> CISEC -> IUBVR
+97

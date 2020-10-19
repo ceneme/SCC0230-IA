@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: ESIVD -> UEASD -> CSSEE -> ETDOA -> PULUU -> OGLDU -> LOSBT
-87
+Caminho de cidades é: SAIAU -> PNRVG -> BPTCA -> DOVSV -> EPOSI -> AOLEI
+81

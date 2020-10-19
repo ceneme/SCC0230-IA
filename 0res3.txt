@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: CPELU -> TIVGO -> VTEIE -> BLCDS
+Caminho de cidades é: GADIU -> AGILT -> LDSPE
 2

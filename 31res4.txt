@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: OVSRO -> TAECU -> RTPOE -> RDSAD -> BSDCI
-74
+Caminho de cidades é: OIGBO -> TPIDD -> NEUBP -> EOUUN -> LCEVP -> COCTI -> TINRL
+63

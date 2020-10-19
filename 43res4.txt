@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: RSSEN -> RLSEV -> BCBUT -> RIERV -> NONRC -> BPBPO -> GBPTC -> GBRAS
-102
+Caminho de cidades é: GVCGO -> PLUVP -> SACOE -> UVEVB -> APPBC -> GSOPD
+86

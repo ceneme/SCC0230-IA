@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: RNDOP -> CSPPC -> OTVVT -> PONUD
-40
+Caminho de cidades é: EAVAT -> LCSBI -> IGLNO -> NUTLG -> VAADU -> RBIAC -> SPPPV
+35

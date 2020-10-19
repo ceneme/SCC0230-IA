@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: DRIRR -> AOBNS -> ECBRD -> EPITN -> INGBU -> BDIGO -> EULRN
-90
+Caminho de cidades é: NUCEI -> GBILI -> GBDAR -> ECVLE -> ITIDE -> LPLDB
+73

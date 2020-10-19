@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TLSEG -> RETPB -> GVIUS -> LCBOC -> EDIRD -> GBATC -> ATBIE
-60
+Caminho de cidades é: OPICO -> IRCRP -> LVGUG -> RSEAV -> VBRVA -> DRPUG -> AUBGC -> TBUNE
+54

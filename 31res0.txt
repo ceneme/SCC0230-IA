@@ -4,5 +4,5 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: LOANL -> RUCGA -> EUVPN -> TLDCN -> TSDBA -> COATO
-62
+Caminho de cidades é: DCPAC -> RTNTS -> LVBRG -> DPACL -> VIBAI -> NCAPP -> TAPGE
+55
