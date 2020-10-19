@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ONTBI -> EGRUT -> USSCC -> OINDL -> TEBBC -> RDTTT -> BCRUT -> VLEOE
-443
+505

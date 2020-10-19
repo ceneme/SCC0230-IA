@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NPBNR -> VCCER -> BPOOR -> TSCLG -> ATTGC -> ESTSO -> GOOEC -> NBRRC -> PLDPP -> EASPO -> STROB -> ODPBT
-795
+894

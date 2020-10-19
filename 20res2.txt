@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PRRSD -> ARGLL -> BDLAR -> DDSDN -> LINVP -> CESAR
-74
+75

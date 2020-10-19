@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 IGGDI -> DCSED -> STBRN -> SOANV
-79
+81

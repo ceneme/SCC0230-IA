@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TLNTO -> CVVOU -> SIGUG -> AOTPS -> LUNVB -> VCPUT -> RUBUN -> DTINS -> LVRIT -> RRLDV
-358
+462

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VAGTT -> CSRIE -> ULSTA -> SETRT -> ICGTB -> AAVPR -> TBPGL -> RATCS -> VCDRP -> LSTSR -> BCDTE -> TBISS
-257
+273

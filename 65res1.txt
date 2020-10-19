@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LLPIU -> IUDPR -> UDVEB -> LDNVS -> SRNEI -> CPPVV -> RRIGG
-156
+169

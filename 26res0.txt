@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PGDDN -> SIVGB -> NPGDA -> EBLEE -> VPLUT -> TSTCC -> BIBCV
-213
+309

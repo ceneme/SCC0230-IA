@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LVEAE -> GOVOD -> CBOIO -> VETRE -> EGTLT -> GCBTB -> TIIGC -> UIBOP -> NBUSS
-275
+293

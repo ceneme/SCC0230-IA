@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CBPNT -> EIRSS -> BPTOG -> CGNTL -> VGOOP -> BLSAE -> AUACC -> CTIPR
-294
+313

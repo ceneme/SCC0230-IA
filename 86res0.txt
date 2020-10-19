@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EUBEI -> BGPUL -> GDNTG -> LGSSI -> RPCVO -> VUOUT -> OVDDL -> IEUVS -> ATNLD -> NIDIU
-802
+951

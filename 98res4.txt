@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 USESC -> PDUBU -> SOCNE -> NOLVA -> PPAUB -> SBOVD -> UNNTL -> TSCUB
-301
+325

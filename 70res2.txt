@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 AGNEG -> AGPLN -> DPOLC -> OBLUA -> LPTSA -> VTTPA -> UCNTT -> CABOV -> CCGGR -> VTICS
-360
+342

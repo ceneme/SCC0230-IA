@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ILRTB -> DDTPS -> RNALU -> NULIR -> UTVLN -> SAVGT -> DLDRD
-325
+379

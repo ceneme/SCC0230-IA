@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ODBIN -> UPBCC -> LAVSS -> EUNEP -> PBVGB -> UBCCU -> UODRS -> ROOAC -> OADLC -> DDPTG -> COLBD -> BCNNG -> IDSSS
-852
+920

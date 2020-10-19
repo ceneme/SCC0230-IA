@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PGRLN -> AAUOL -> STOGB -> GSBPS -> UEGPR
-220
+186

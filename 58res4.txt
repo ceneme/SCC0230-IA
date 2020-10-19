@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SUPDE -> VSNPE -> PSTPU -> UCOUT -> TSTRP -> VPVVI -> UUDTC -> DRNNP -> VEDGC -> NVSGL -> CADRC
-155
+181

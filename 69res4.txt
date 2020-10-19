@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DBRSI -> LDDCS -> PPPTV -> UDLRR -> PSULD -> PONUU -> TOONE -> CUDTN -> IEVDG -> AVUBA -> TLUVC
-397
+414

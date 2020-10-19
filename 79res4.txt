@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TPAIP -> BBODC -> NOILD -> LSUCC -> NGIOE -> PBELC -> SPLON -> TVOOP -> PRCRU -> LIPUD -> IROCP -> URLGI -> AVULV
-485
+470

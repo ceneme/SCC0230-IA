@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 AUGCS -> DABIO -> ANCCR -> LEGPS -> DTALS -> EOBIO -> RGAII
-343
+359

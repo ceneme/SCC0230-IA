@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EVIUP -> SAECO -> RGPAP -> PPCLN -> OPNIO -> EBRVN -> RDABI -> ICBTB -> LLENG -> BCLUU -> DCCEU -> LVNTS
-379
+413

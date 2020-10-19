@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 USOGO -> EGCNV -> SPODU -> DLGRL -> NIUGB -> DSNIO -> VOUIR
-731
+823

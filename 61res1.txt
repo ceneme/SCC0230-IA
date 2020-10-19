@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GBANC -> NDNGI -> NRRVV -> GNPRU -> VIVUD -> CCSCA -> LBIEA -> TBAUU
-153
+163

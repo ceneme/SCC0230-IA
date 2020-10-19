@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OGLSU -> ONSSD -> ATVRV -> INDRP -> GGCTL -> IRCOA -> GIIOD -> SSSGO -> LDLLE -> PUEIC -> UCECO
-287
+321

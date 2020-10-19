@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GITBB -> EAROP -> IEBBC -> NECRD -> NIPGT -> LDDVP -> GETDN -> INARI -> NNITB -> BTVOO -> RIDCL -> CROST
-663
+679

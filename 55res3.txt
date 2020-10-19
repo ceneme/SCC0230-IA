@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VBUCE -> OBICU -> IOVVD -> LNOSU -> DDIII -> TNBOC -> CLOVD -> VCLCT -> PGONP -> NRSSS
-486
+526

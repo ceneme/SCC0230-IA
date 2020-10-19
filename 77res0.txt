@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ISAPL -> LSBEA -> RTLEU -> SDTDO -> PDTSA -> TLNDP -> RBDLL -> IVLVS
-259
+277

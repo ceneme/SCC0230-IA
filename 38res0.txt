@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RVVOE -> IILRE -> UIDNN -> TOORI -> TLGCP -> DTTEE
-240
+272

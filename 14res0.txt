@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UPUOO -> PSPTO -> NTSET -> SNUPU -> TROAE -> BNCEP
-141
+99

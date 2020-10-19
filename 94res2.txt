@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CNVNS -> BBRPA -> LAAUC -> NRGCL -> TORAP -> IDVGB -> IRCLC -> GENIL
-720
+739

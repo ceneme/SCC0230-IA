@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PNGVI -> DNGUR -> AUCAC -> OICCT -> CSVUO -> BBBGP -> IUUAV -> VTITV -> TUUSO -> RIRUR -> UBDEO -> CSLSC
-585
+609

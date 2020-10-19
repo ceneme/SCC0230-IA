@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ODSDO -> DOOUC -> IEPDU -> CEELA -> LSEVV -> DLRNA -> TGEAG -> OOILB
-347
+404

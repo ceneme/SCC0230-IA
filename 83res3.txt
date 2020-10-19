@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PDGED -> CRLAA -> OECLG -> NRGCT -> LBRCO -> TVRAG
-205
+215

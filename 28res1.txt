@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 IAUNB -> OPNGO -> RNIRO -> UINLD -> NDRRG -> VDBTB -> TLSTU -> IDILU -> DINCU -> NEEIG -> ETIAE
-361
+260

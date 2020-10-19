@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BGBLD -> CBBCG -> CEALV -> IPPUP -> DTADO -> ICGAG -> EPRER -> GSIUE -> OBRVR -> NPNNV
-199
+232

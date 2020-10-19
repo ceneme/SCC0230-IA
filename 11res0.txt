@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DNRRB -> UNTCN -> DCDCI -> CEDDC -> TLGTL -> ELNTO -> LOUIP -> TTLPU -> TEGVL -> PSITO
-107
+80

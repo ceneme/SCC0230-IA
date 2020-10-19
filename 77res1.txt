@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 STCRD -> IRETU -> DUEUD -> GGSBT -> UOBIV -> GPELR -> UCPVG -> UPDUD -> APSDA -> SPVEC
-911
+741

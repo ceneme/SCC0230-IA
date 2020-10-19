@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OUPBV -> TBTCR -> EUAVE -> ELSPD -> ACNGR -> BSAUN -> ELTBD -> EURLO -> UALBT
-329
+362

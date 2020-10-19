@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SBBNE -> NATCU -> AGVSI -> ILTLA -> COTLU -> CCDCR -> ISDUB -> ORAIP -> VDDBT -> RVESL -> DINAP -> OEARE -> OUDLU -> POCBV -> GATIO
-573
+611

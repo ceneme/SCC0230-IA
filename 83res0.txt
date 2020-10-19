@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CAGUN -> TGCNR -> SEBNA -> SSVDU -> RBEVN -> BNISI -> TTBEE -> ALIAD
-202
+214

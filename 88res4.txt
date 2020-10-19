@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SIOSL -> DCIRD -> GILTT -> TTRLB -> DSBLI -> VPRAU -> ROCBP -> IUROI -> SNVPP -> ODGOB -> EAADG
-1191
+935

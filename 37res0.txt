@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 URTIB -> STLLA -> GLCLI -> EBSVV -> DCDCP -> PPVDV -> OPGRP -> UUGLL -> UGUDN
-218
+258

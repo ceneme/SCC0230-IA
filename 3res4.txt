@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ODUSI -> BRGSV -> IVPRB -> SCRDI -> CVBAC -> TCEGG -> GDCDP
-14
+16

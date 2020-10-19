@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GPODR -> TIUGI -> OCAVN -> VLEBA -> GGPOR -> BOVLT -> NVNAI -> NTSTT -> DEDOR
-226
+259

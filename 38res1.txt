@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EETUA -> NRVDI -> GVDEG -> AIGRE -> INLPP -> SLBVT -> ETRAP -> TADBS
-162
+188

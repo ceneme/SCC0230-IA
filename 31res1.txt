@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CALTD -> IVSAD -> BCSRS -> VICVD -> AARAV -> UDUBL -> UUCGI -> DGDAR
-271
+381

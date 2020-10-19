@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 COESI -> DLRBR -> DVVSE -> SCRLP -> VGNNA -> TABRA
-177
+201

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ABAAL -> LSUOG -> RSANI -> RVPEO -> IARRA -> ESOLE -> AVGTU -> LEEVG -> UBGDI -> DDBOE -> BACNP -> TACEP -> GDVVP
-1024
+1083

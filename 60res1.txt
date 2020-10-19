@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RUOOU -> AVSGN -> SUIUR -> TOUVD -> SPLTE -> LRUVR -> UPBES -> NDPSP -> LISGG
-314
+353

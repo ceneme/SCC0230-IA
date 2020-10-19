@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BRLPS -> PICTE -> VONRU -> ISGSR -> GPVDD -> TRSUD -> LTEGC -> EALSR -> AGNDG -> TLLOR
-331
+346

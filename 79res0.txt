@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DPITB -> PBNGV -> RNRDG -> VVVOC -> VVTCN -> IDUSS -> IUBCA -> UCGUP -> SGADA -> OUPTR
-557
+575

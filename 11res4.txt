@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UIEAN -> EONBD -> VIBTI -> LLVRL -> LIBUL -> IITPS -> NPDDB -> PSOVP
-39
+43

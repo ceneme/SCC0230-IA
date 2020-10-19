@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PANGG -> LAVEL -> BESRD -> ROCPU -> DNCIT -> AORBA -> AASEB -> VAPVI
-258
+284

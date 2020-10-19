@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SUURU -> DVCUD -> SGSTP -> BPTUA -> IVPBO -> ORTCB -> NEUCD -> TULVD
-67
+100

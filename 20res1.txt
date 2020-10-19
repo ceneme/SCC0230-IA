@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 IPLID -> BNTIP -> IDPNT -> GNUNR -> DECGU -> SLUBT -> VANIG -> PLOCE -> DSLSL -> PDPOU -> CEPAL
-177
+184

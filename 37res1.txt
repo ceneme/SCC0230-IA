@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SDLCB -> TOUNE -> LCONL -> UOPLA -> TVBUL -> NCGND -> EPIUU
-155
+199

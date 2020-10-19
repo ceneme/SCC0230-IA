@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PDASS -> IUVPI -> AARAA -> SOVAR -> DVSBA -> DTSCG -> CNCBP -> VNEBD -> UEPOS -> LESAN
-227
+250

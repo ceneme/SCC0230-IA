@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 IODUR -> SEVII -> RSCGC -> LNACD -> VDGIP -> ACGPO -> GRNSU -> CRBGB -> UGSTN
-304
+234

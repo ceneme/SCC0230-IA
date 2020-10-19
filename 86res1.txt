@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SVEVG -> LOGUR -> STGCL -> SRDCV -> ARULC -> UUIAA -> ODRPI -> CCRPB
-166
+171

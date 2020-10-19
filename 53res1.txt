@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PCIGR -> COBNP -> ENVCB -> CSGER -> IULLL -> ASLVB -> IENPN -> TOSUI -> PUTNL -> GCVAN -> DRREU -> CIGDV
-544
+409

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RVUBL -> NBSLL -> VPAGN -> ULGCC -> ERVEG -> GSVDI -> SUSAC
-112
+118

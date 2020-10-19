@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ALDLB -> OUSGO -> GISAE -> PEROS -> UBAIA -> OTUUU -> SVVAP
-158
+177

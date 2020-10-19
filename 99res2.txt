@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ONRAG -> BRABU -> DNACB -> PBLSC -> CNPBR -> LTBCE -> PACOT -> GDUTO -> TTUIE -> NVOON
-436
+497

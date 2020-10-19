@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EPBAD -> NAGTD -> PSNOT -> SUNGP -> NABVE -> BALCA -> UUPGC -> VPCNG -> GIDNT -> BUDGI -> LNNDD
-422
+483

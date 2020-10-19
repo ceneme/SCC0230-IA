@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ALPLV -> CNUNT -> PGLLO -> USARP -> ULDSR -> CREIC -> EALSV -> BDAPA -> VUEGE
-250
+268

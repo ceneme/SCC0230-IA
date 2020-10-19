@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ASVAI -> DGBEB -> RRALB -> PDBTU -> NNNLL -> DBERB -> SBRPT -> IDPUU -> BOBIT
-290
+306

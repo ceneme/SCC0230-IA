@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 URBGB -> LEPBI -> VILCS -> SBIEN -> PCRDR -> LTVTN -> DELPS -> ULEAO
-233
+263

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UVLSO -> IGLEA -> GBRUP -> ADPII -> BIGIG -> SNOGR -> DSITG -> IATRS -> ITTTP
-660
+661

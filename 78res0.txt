@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RPUPI -> UOUTT -> ALUTG -> RGPID -> PTAVL -> CLUNS -> UNRSC -> TDVIC -> CARNS -> EBNBU
-534
+570

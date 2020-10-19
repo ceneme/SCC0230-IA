@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OEORS -> RLPUU -> EADBI -> SOUES -> NLBIR -> VNLNU
-35
+37

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PGOAA -> CGNVR -> SINAS -> IPPDU -> SRSNT -> VORRO -> PCNGR -> NPAIP -> VGCDN -> OBGNR -> RTVCG -> CRLVU -> PTPCB
-274
+285

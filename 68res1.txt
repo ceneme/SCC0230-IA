@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NUEOU -> DLDTG -> VCNCR -> LBPLT -> VTPLT -> SOBSA -> UPESL -> ENNIN -> RAITT
-237
+263

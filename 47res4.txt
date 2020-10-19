@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GAOIB -> TIDGV -> DVAVS -> ORSST -> BPDVU -> RBRLA -> BOIEA -> RDDGR
-153
+151

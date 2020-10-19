@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VEAIV -> NPPCU -> DRITN -> OROBA -> GOVLV
-33
+34

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NETSC -> PUEAD -> NLECS -> LSILR -> PICAN -> EGLNB -> NOORI -> DSRPP -> VEVBT -> GEBUP
-374
+390

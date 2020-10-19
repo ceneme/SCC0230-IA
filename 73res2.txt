@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BVRTU -> PCVRS -> GUSLR -> NCILT -> UUSIB -> DVVUS -> BDAUV -> AUPRV -> SAVAL -> BVCEB
-608
+780

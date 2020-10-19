@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RURCG -> SCBUR -> PSLVG -> BUSIG -> DSNNI -> AABIP -> CRPLD -> TOAVN -> SBGNL
-336
+362

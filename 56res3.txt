@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CGBAV -> VRDPD -> PNVUN -> ESUEL -> NBDTP -> ENTDU -> OVGTS -> CONUG -> ONLLT
-348
+370

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VIAGG -> BPBIP -> UCRAS -> UEVGR -> URLAT -> PIRAS
-24
+26

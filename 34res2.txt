@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ITPBA -> DIABB -> NNECV -> GGSLI -> SAGDV -> GDSOS -> AOPES -> DCLUP
-280
+362

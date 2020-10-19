@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DDVAI -> NGNPB -> BSAIL -> GPGPP -> ROUCS -> OIGCP -> IEPUI
-296
+328

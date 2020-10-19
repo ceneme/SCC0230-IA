@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DTPTO -> VBVBB -> CSLGD -> NUDLB -> SNPTB -> IPUOD -> BOIIA -> CBBTN -> AODSG -> TNOBE -> LSDGR -> SCUOP -> VNISA -> GOSNI
-794
+911

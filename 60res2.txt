@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BGCRR -> VAVTG -> COPPE -> TUCVD -> GUTUL -> ULBPC -> VLGTO -> ELGBI
-442
+474

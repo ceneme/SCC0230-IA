@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UGPLT -> INPVG -> RVDEI -> BSPGU -> COETB -> OVDAU -> SPPGP -> GVONB
-57
+67

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 AVITC -> AOUCI -> ULDIL -> IGUIP -> GNGGE -> LGPTT -> LDEPS -> TNAEU -> UEOIG
-241
+256

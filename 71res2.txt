@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UVGBO -> ETUVO -> CUPBP -> NTPBN -> INOCV -> RDLPC -> ECNVI -> BGUCG
-472
+505

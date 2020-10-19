@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LPUIT -> OCBGU -> LDORV -> ECOTA -> PCOSI -> TDUSO -> GVAEV -> TTNRL -> SAOBO -> ECPCT -> LEADG
-148
+198

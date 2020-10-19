@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 USUNO -> AUABG -> ILNAC -> NDRRD -> UDIRP -> OGPGG -> BCIDN -> ELPVL
-305
+326

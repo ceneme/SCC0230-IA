@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CGPUA -> EOPIV -> DVORP -> VOEDI -> UOOBV -> PVCSD
-116
+131

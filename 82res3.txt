@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NAVVA -> RLOTR -> LLGUT -> LLVOA -> OUIVA -> SIDSA -> TVCDP -> NOVOC -> IRUCC -> VALST -> RUULD
-560
+607

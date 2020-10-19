@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CILSG -> GBSLV -> NRNSN -> IPDVN -> CSPCB -> RGDSS -> CDDTI -> RASBN
-253
+285

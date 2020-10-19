@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VDSPO -> IPVUR -> TCISE -> VCSVO -> CAVNP -> EOORE -> OENRB -> LEONN -> UOESL -> CVPNL -> IISLG -> BABNS
-795
+854

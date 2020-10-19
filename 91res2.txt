@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SPCAV -> TOVGE -> BPDNB -> EEPIT -> RPCUN -> RACED
-228
+262

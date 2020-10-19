@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CSUSE -> VICEG -> UIDND -> OLLLG -> CUEIU -> UNUDI -> OSEET -> RARCG
-139
+168

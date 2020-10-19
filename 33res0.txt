@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GELUS -> ENVPN -> EBDON -> UNGPO -> BOITD -> PPIIR
-82
+86

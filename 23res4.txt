@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 IPBGL -> NULOE -> CLEBA -> IUNSR -> UTODO -> NSPDO -> OVDCC
-134
+136

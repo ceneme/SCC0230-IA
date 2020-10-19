@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BSDLT -> OVSSV -> RBEUG -> ESRUT -> CPSRV
-106
+74

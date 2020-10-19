@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VPDBS -> CASBN -> UOBET -> DECEG -> PRDED -> AUEDC -> ULDNR -> POVTB -> OBSUV
-630
+756

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CNDRI -> AOVDV -> GNLDS -> RORID -> LCPLE -> UIOSC -> GORDD -> AEBSS -> DULRG -> TGGSE
-369
+384

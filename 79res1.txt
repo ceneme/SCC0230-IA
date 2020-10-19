@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GRRPI -> STSIO -> TASBN -> LVBRL -> TVAVD -> DIAAL -> EOUEE -> ALDBE
-421
+384

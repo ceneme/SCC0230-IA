@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EBBCU -> BGNTN -> DSPUC -> STPVS -> NPDVU -> GUDAD -> DVGNE -> ESABL -> UUEIN -> VNVLO -> LGTPE
-186
+192

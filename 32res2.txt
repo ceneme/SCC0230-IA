@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RRSUE -> OGOLA -> IADOA -> UEUEE -> TNRUA -> CITID -> GIAVD -> SVGIU -> ELEGN
-115
+174

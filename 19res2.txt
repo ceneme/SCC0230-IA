@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 IGNBL -> ATSCL -> ADGVU -> SLGPB -> CUOOC -> BBRSI -> PPAIB
-127
+135

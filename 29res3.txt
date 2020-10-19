@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DDNVO -> LAPTS -> IASUC -> BNDCD -> TTDIT -> BSEEB -> EPUUA -> LNVUT -> CITRS -> VTBBB -> BIVPV -> LOBDP -> BTVOC
-247
+250

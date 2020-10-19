@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SOODL -> GUOIL -> NNNDV -> SDOCN -> APPPD -> VESIL -> VNNIS -> TIUSV
-299
+314

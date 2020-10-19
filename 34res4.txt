@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ELABB -> EDOAA -> ROLSI -> OBRVS -> PUDII -> VGRGN -> GEEVD -> ULTUS -> VTOBD -> OANEL -> SUGIG -> PUNIP
-254
+340

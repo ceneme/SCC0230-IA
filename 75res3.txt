@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 IRVDC -> ATSEE -> GVEIG -> OCREV -> EBISD -> UDGLE -> PSSEB -> OATPR -> RCVVA -> USALN -> TEIAN -> NEECE -> OVAPA
-608
+666

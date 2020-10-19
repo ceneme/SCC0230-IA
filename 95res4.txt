@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CAGVV -> UBPGT -> VSUPA -> SSUEG -> GLNGL -> ICSAI -> PTCCL -> LUILS -> SNDCT -> RRCAI -> RLLOD -> BRSSC -> AAODA
-1104
+852

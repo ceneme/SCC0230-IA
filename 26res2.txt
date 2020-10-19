@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UIACL -> ADVLG -> GELBR -> NBSDE -> OAEEP -> EOEUP -> ULBIT
-167
+182

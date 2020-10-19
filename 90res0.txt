@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SEULV -> ABLUV -> CVCTS -> GCGEL -> TCVPI -> IOOBB -> NTUGD -> VPVOC -> ILPNU
-276
+207

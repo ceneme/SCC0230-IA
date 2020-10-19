@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ICDBG -> VBSSU -> BUSCT -> TIDLT -> ICUGC -> EBUPV -> ARNSE -> USRDU -> DNDTV -> EVOEA
-193
+216

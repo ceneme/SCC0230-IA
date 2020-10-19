@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GIGDS -> NNVAP -> DNVAA -> VVRAV -> GIABS -> RUEUN -> AIDPA -> IPCRU -> TVSIO -> SSRNR -> PEORL -> TSOOD -> LONCD
-372
+381

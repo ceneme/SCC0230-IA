@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DNVBE -> UCSNU -> IOTLU -> GGTCN -> GINGA -> VBOSA -> TSGBI -> VTDOU -> OCRNR -> VEIBA -> SPARO
-462
+487

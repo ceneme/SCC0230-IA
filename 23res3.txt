@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VUNEA -> PEVDV -> EVRVN -> RCTID -> BGTGL -> LBRBL -> ELOLA
-133
+202

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RTEVL -> GEPRG -> TSBIR -> NPVCU -> NOABA -> BOSUT -> STRCS -> IEPBB
-285
+384

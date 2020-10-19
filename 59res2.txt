@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NBVBO -> PNOGA -> ASCGB -> ISRDA -> GORCB -> UOIIB -> RAVOA -> ISDSU -> UGOEI
-323
+333

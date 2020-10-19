@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VTBOG -> BTAEU -> RPTAP -> ATUGI -> ALCRV -> IBCGD -> GDIVR -> BACPG -> TLCSE
-234
+247

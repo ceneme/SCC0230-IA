@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ELALE -> EVAVG -> BTDTC -> ECVNN -> UUTLV -> INNPE -> PEBUS -> TSNRU -> UDCIG -> VVLDT -> BDIGL
-443
+473

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TONCS -> DLSUI -> TATCB -> CABCU -> BDCOT -> SSRPO -> UBLUB -> SCIBN
-388
+414

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NAACL -> PNNNT -> NNTEC -> OCDGN -> PAIEU -> IGCNO -> AUCOI
-69
+55

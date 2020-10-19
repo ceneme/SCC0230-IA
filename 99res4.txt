@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RIITO -> AESUS -> DGRNP -> ARDCB -> VECOS -> CVPEC -> PNLLN
-322
+260

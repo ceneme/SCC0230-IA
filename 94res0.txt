@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TBNNU -> IUESV -> OVRPO -> GPIIE -> PLPSI -> ERAOA -> DUTVD -> SNVED -> SDBUN -> LOCBN
-810
+1065

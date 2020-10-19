@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TDUIR -> DGSDS -> EUEIS -> USSBR -> BPULN -> CCEEO -> DAELP -> DDTVL -> LRSNR
-745
+762

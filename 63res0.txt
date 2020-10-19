@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RBCBE -> SIROT -> GULPD -> EUAGV -> UENGR -> DLDAB -> SUVGN -> TNSST -> VNSBG -> RTITG -> IIUND -> LIPOE -> GRAGU -> GDANR
-511
+539

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 IISTC -> UOSNS -> GGPET -> ENDGE -> GNBSO -> BGVAT -> PRPON -> PDIAU -> TUVLT -> UEVDG -> TPALN -> PAIUN
-157
+152

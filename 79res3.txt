@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SPBVI -> SRUCE -> DDTEP -> CAGNU -> AATPB -> CSTLS -> DCOUU -> TAAVE -> CUNGD -> PICEG -> CEGGT -> OSTDU
-496
+517

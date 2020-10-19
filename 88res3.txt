@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BGOVO -> VBDPO -> LRITI -> DNGVC -> IOUIB -> DGOTP -> LBGSV
-241
+216

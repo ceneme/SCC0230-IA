@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 INVLP -> EERTS -> UIBRU -> SEDPV -> SSRSI -> DBPDI -> PSNLG -> EUOEU -> RCDIC -> GTOGT -> GSACR -> BCGUN -> UOVUU
-863
+845

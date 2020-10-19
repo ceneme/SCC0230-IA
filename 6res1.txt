@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NNIDE -> ISEEO -> LUNUL -> GSSBP -> BSBLN -> ICURA -> ATRPE
-45
+47

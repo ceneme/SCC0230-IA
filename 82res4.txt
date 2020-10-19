@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CAOSL -> APBNL -> TLDIE -> LGODU -> VENTA -> AACNS -> NEVRG -> OLNVI -> NPCBS -> GBPAE -> TNELC -> VENUE
-196
+204

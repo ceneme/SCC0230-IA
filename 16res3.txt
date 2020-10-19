@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VVISS -> RURAT -> NDICR -> BSBCA -> DLUBN -> OVITB -> NTSOP -> LUSBL -> UAPGC -> BORAC -> OUNPD -> DGCRG -> NTCGL
-118
+123

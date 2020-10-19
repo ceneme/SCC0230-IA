@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UVGSA -> CPVGV -> TIVBN -> ETDUG -> VPBSB -> UGUVB -> IBECA -> DCNBC -> POINT -> ONVUO
-257
+176

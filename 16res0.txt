@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EOOPE -> UPUUA -> UOSVU -> PLGOE -> RPTBP -> BNEIL -> DBDAO -> NIGIT
-55
+64

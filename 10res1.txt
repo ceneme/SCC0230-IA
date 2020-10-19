@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LALPP -> CGBDU -> ICVEP -> RACBO -> SBPSA -> UEELG -> GAITP -> TAIIL -> VOPNN
-79
+99

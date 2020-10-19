@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RPTDL -> SACRP -> VDTBA -> UBOLD -> BSSDR -> DDNRA -> IVVUI -> LRRPP -> DROUE
-470
+556

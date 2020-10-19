@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GVAOE -> EGRTS -> BPSUE -> AUPCD -> PTINC -> PPGBS -> SNNTR
-72
+77

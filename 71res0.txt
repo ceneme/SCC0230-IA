@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EUUCR -> CDRTT -> RLRLI -> TAOSU -> PTRTD -> OCSTL -> VSSTL -> IBRBG -> ONIST -> SPVVG -> AALDS
-582
+623

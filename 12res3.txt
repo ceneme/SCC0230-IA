@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NINLB -> VOPRR -> ATBBB -> IBGTP -> GCVTR -> EAOUN -> RARTO
-109
+110

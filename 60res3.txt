@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BBIGC -> NGRBA -> TALBE -> DCBLR -> BUNUT
-187
+216

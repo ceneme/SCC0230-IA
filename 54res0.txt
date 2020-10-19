@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LPRES -> NAIVP -> TEIOV -> DUUCD -> ALDRR -> ILLVA -> DPVVE -> NGAGN
-169
+170

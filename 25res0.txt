@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TNICS -> LEBRV -> GSNOD -> PNIAD -> UUSSE -> DTCLU -> COPDN -> NUPSP
-118
+120

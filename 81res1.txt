@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SALAA -> OGDLT -> IEPRA -> EURNT -> VGPRP -> CVRRR -> UUUUS -> RTNEC -> UENBD -> SVEVB
-341
+391

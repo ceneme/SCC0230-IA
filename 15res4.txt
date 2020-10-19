@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DUDNI -> RUBET -> UTPUG -> BRCNT -> RSCRS -> ULOIG -> PTOEP -> ILSAR
-93
+105

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RGTTR -> DOBSC -> RRSUO -> VBIOE -> AIGAL -> UVCUC -> DITGB -> AEGLR -> LDLTB -> OVGAG -> CTLSB
-385
+447

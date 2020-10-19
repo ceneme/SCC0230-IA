@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 AOVAP -> AOTPA -> OGRDD -> ROVST -> DBSAS -> PRTDN -> RPVEG -> OTEVN -> CGPDI -> BEERO
-413
+477

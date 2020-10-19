@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RSNAG -> TUSUU -> OVPCS -> PLCNU -> BUNDV -> NUTTD -> UURLN -> RIOCV -> OIGRG -> DCISL
-336
+368

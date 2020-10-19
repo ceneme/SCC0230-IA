@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UAIBS -> BDOLB -> NLSBB -> VOETI -> CIVGG -> SGTED -> GTGIC -> TEOGS -> OTGBO -> PCNRN -> OCTRT
-260
+342

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LLALA -> GBVNU -> BUECI -> GBLTB -> ITGPU -> LARIL -> VCUUR -> CTEAS
-191
+194

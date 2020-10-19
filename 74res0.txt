@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LNBCD -> ADOTV -> NDNRR -> DEADI -> NNNIS -> GLBTE
-193
+211

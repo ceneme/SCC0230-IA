@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RACOI -> UGDTN -> RVNNE -> BDBBI -> LGBAB -> NSIRB -> DDLGD -> TIOVG -> APRTG -> CSONE
-488
+529

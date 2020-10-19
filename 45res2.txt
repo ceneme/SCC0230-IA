@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PCLEU -> GAALE -> ADAGL -> UOEOD -> APODT -> DTODO -> SBCPD
-220
+232

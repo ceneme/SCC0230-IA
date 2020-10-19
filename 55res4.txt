@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 COORI -> VSPLU -> IEUNO -> DRLIC -> NNNBL -> GVVBP
-128
+126

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SVRVG -> BGCRG -> NVEBN
-4
+5

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PLEAO -> DGPNR -> TBBNB -> DURRN -> EBCDL -> SIROU -> NTAPP
-416
+442

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UEBII -> SOVBP -> USOTG -> VBRTO -> VULAE -> CPLLV -> BLCPN -> NBELO
-213
+222

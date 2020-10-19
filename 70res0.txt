@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RNDOL -> PANTP -> TLDBL -> CVGET -> AOTRG -> CEVST -> BPRPR
-183
+192

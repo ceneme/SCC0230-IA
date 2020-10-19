@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NAUBG -> RILOA -> TNRVI -> IVGGS -> DPISS -> AVPOC -> NOCIT
-490
+544

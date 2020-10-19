@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GPSIN -> CUTIG -> SSRDA -> LVLBE -> OVSNR -> RTRTN -> UGGCI -> RBDIT
-479
+410

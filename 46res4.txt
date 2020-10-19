@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OLDVS -> AUNPP -> SLNED -> TVAPC -> DAIEI -> TOVGN -> PSUVE -> PLSPC -> CBSTG -> CETOA -> SGTVT
-162
+292

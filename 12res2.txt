@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LVLDO -> DAGRS -> ARLIS -> VIBCI -> NTRVP -> BAETR -> ORPLP -> EAIPV
-66
+86

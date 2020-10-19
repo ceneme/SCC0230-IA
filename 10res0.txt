@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CCADC -> OEAUU -> IVOTD -> CROIL -> RASCP -> ALIIP -> PINND
-69
+84

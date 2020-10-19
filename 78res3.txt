@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UVNBC -> TAVAU -> LCOSL -> NBANC -> ICLDL -> EPCVI -> NUOCB
-350
+373

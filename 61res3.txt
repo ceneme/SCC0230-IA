@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BTERO -> TISBU -> NGPVO -> GNDEU -> BGGNU -> GPUCI -> RSUVA -> GONTA -> RCBIC -> UUTBR -> IRRGC -> BLNVG
-291
+319

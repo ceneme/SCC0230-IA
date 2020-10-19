@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GOVEI -> BCBEA -> TTBSC -> PAVDE -> VNSAA -> SSSCO -> TNRTT -> LVRAL -> GOVPR -> RTRSE -> DCEIU -> ITGNR
-349
+368

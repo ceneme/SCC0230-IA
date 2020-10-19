@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GVNPD -> AUPRV -> CECVN -> ERVUP -> BOTAD -> TSGAB -> PEVDV -> EOOGS -> BSELA -> VDUUU
-403
+429

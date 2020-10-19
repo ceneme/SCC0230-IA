@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CRUUO -> ICOLR -> ANDCG -> DPIOI -> IVVPB -> BOGCI -> ENOIR -> AURCB -> GTIIU -> PUSLP
-748
+769

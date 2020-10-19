@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 URDPB -> LLUAN -> ILENE -> UGLNU -> SUISD -> VCOLN -> ISCRL -> GPVRC -> DPETI -> IVDRU -> LUEEB
-247
+269

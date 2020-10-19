@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PEDEC -> SURUA -> AORAA -> TNAUS -> UVBPI -> IEIGT -> SRTUC -> SNRIT -> AVDSA -> TOVEN -> VCDSO -> DPTOS
-280
+290

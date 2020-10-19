@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VEORU -> ORTRE -> DALUV -> GUEGE -> AGRUP -> UASUV -> GSSBR -> LSRLN -> NURVA
-245
+255

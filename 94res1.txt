@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PIPAL -> ONAPA -> RRLUN -> ATNCS -> AUEOG
-168
+232

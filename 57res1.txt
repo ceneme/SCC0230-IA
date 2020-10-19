@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 INRCU -> GRTRN -> SRBGI -> TAARL -> NDLRC -> OOPPI -> TVNAR -> GVLOL -> VGLAN -> SCPVD
-198
+301

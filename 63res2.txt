@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LPCDC -> LVRLU -> EOCEL -> BNEEP -> TSGNB -> LPIUP -> CTBSL -> TSTII -> EDCAP -> AROBS -> NAVPB
-363
+390

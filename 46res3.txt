@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VNSNC -> CSCIA -> CRNRN -> BPOBV -> SRREL -> NOPUU -> PGORU -> CVPOS -> AUGCS
-324
+430

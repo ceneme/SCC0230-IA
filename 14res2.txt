@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LCIRS -> ODLIO -> ARUPT -> VUOTU -> ECDDA -> BILTP -> CTGEN -> NSVSS
-71
+75

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LLGAR -> GPDUN -> NTIRT -> OCUVT -> SLCBI -> TEBEN -> VTGRG -> ULTLN -> NLAPO
-425
+505

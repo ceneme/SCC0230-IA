@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GBROI -> AACER -> GABIE -> LGTAR -> DOILN -> IAPOC -> RBLVE -> VCABB -> BSGUP -> NDNOO -> AAEDP -> BODDN -> LTULI -> RTRPR -> BCERC -> NCOIU
-258
+278

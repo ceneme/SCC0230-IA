@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 AUDOG -> CLPVE -> UGSIU -> VONSR -> NDUAP -> VGNAD -> OPOEL -> RTVBI
-177
+197

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PAEIP -> NDASP -> IVVBC -> NPBVV -> OGRAL -> ACUTS -> ONPRN -> CRACO -> TGPIB
-511
+518

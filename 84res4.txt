@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ITTOB -> TOBNS -> IPALR -> VNSEO -> NRTDV -> SVTBU -> DCDOP -> TTBPS -> GPNLD -> IDVEI -> OGCOV
-633
+648

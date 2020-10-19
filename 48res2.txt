@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OSEBR -> CDTDE -> VUOUO -> BVARG -> DGALA -> GPOGT -> IUETR -> ELBEP -> LVUDL -> UPSSL -> UVNTC -> UCSGA -> BPPEI
-428
+492

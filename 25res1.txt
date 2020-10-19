@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 AVCDA -> GCGVI -> ITIAN -> RLRRV -> VBIBU -> LCLTL -> SAASL -> BCTIS -> RPVDD -> OTINO -> BGING -> NCETT -> NGBEA -> EPOBB
-151
+154

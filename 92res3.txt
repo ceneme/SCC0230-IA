@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DBAVD -> CISRV -> VCRTE -> TNVVR -> OIGTL -> GRGON
-188
+202

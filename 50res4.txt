@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BCRIA -> ERNSU -> DNOGP -> PBERI -> ELAOD -> EPIBO -> EURGC -> GSTER -> GSVLL -> UGLEI -> CVITG -> ELNLV -> CRCCR
-477
+493

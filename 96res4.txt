@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TGLAU -> UIODL -> SACAC -> ADPBB -> VAICI -> ISIEB -> GCVAI
-341
+380

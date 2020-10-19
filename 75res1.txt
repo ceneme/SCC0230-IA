@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UGPCC -> ESDAG -> BCIGS -> TGBBL -> POIIB -> DCNEN -> SUVEV -> RALES -> ICLVO -> CLSCT -> ICORS -> BTISU -> AAINC
-389
+413

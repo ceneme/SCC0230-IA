@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NUTSG -> UBBRO -> GNOAB -> ETLUG -> PDCTB -> CEELG -> GTBTI -> AOVRB -> LCLUS
-425
+421

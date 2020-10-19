@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TDLGG -> CVTRN -> TORSE -> NPDLA -> IVPPR -> TSNPS -> ILNDI -> VTLOG
-137
+120

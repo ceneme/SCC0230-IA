@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SRUVU -> ICISR -> RECTS -> LDSDR -> CEOOR -> CPLEE
-130
+187

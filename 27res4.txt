@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NNDUV -> RDOLN -> LOIPG -> VDOOP -> BDEUA -> VPNUR -> IBCSI -> VVANU -> NESVU -> DRIPP -> DBISI -> TBVIS -> TDGVG
-238
+244

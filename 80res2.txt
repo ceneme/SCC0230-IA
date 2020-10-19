@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EABUR -> ILBIC -> UVINB -> BLBRP -> CLSUL -> BISGI
-156
+167

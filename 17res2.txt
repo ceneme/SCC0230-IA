@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ASRTR -> LEPGO -> GTOPA -> CDOBO -> TOCSG -> IVEEP -> OIGED
-104
+133

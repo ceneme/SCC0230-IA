@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OAUOP -> SOCEN -> LBUIV -> DGCGR -> BLUEG -> PBLTR -> UNRTP -> VOTSN -> INSSO -> DONRG
-592
+631

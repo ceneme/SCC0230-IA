@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BNBII -> TRRUD -> NCRPB -> LUADU -> NOURA -> TVNNV -> RVRNI -> GOBTU -> OIIOE
-693
+724

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LUENI -> TLLTT -> VCSDL -> RTERT -> GATCC -> RVDVP -> ARLBS
-9
+10

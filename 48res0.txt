@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TETAB -> ILRGU -> LCACT -> GETUA -> DOVIB -> PINEA -> SDRGV -> PVTSB -> PEPPS -> RPLTG
-405
+440

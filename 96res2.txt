@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EECLN -> CBRGV -> LDAOT -> BTPUT -> TOUAS -> BASEL -> VEVBL -> VBGPO -> OOILT -> IPLLP -> CGVBO
-1108
+931

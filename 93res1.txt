@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PONCU -> LTBPC -> ICTBD -> VVRTP -> EGIGR -> TBLTI -> UVNCU -> VCSRS -> VGRSU -> SBUDI -> SNROL -> POOPP -> CDGLT -> UOSSG -> AEEUR
-443
+477

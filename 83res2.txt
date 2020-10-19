@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GENCC -> EBUBB -> TCDSS -> CITTN -> BPAGP -> GTSLU -> BONIG -> DDSBB -> GPULC -> VDDBC -> COLOO -> BBNPB -> IIRAA -> CLDII -> GNSIE
-684
+695

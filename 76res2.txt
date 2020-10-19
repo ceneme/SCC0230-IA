@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EAGRN -> UDEUO -> NOAAR -> EPDDA -> ESUUS -> PONRT -> ADVRE -> AVLDG -> IITVG
-399
+417

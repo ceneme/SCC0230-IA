@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GLUDC -> CRSCB -> TNDBO -> PSDPA
-45
+49

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DERVG -> DDUES -> UEBLT -> TGRGP -> GIIVE -> TVGCI -> DTEGL -> VEGPL
-139
+231

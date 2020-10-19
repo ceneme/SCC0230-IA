@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TNATI -> RRVGN -> GBRDR -> VPDTD -> EDOTL -> EACPU -> LPNNI -> NUUBT
-80
+90

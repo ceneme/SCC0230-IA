@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TOPTT -> RVBPG -> RVCLP -> DBRIS -> UBOBE -> PRNSL -> ANCGT -> REOOE
-384
+525

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CVULN -> VLEDE -> LPVLS -> EETSL -> UITCU -> LTRDT -> NADED -> VBGSB -> TLPVD -> RPROG -> GCBVT -> GACPP -> ULOSD -> CCGUB -> IGBLU -> AINRB -> LVSSR -> APDCN
-758
+776

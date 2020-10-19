@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DLVIC -> LOOCN -> LPGVS -> TSLNA -> NOBGU -> PPRIC -> OTGEO -> POOUS -> SELCU -> GNRTC
-202
+222

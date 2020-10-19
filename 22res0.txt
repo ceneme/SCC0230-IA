@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SLDLU -> OVDIV -> DSGSA -> UUOSR -> PAAVL -> ERBOB -> IUAGD
-82
+94

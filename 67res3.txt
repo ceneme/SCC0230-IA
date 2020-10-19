@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PIADE -> IAAVD -> VVGUA -> ESOBN -> ICNIR -> TAGGP -> SRNBA -> ITTRB -> TIPAC -> ORLET
-245
+261

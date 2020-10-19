@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OUTAP -> ATISI -> ILNVR -> VIPVI -> LOTTT -> BTERV -> ROCPU -> VGGGP -> LBOSS -> UPLOS
-478
+512

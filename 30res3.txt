@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TPLUI -> INBLB -> SICCV -> CRSUP -> NIGRI -> CTVVB -> DASPU -> CGBSN -> GEDRT -> PPPCI -> DLAVI -> LTLOS -> TGLVR
-275
+287

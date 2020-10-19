@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PPGOB -> UUOND -> OGPDP -> AIVUP -> CESSL -> ANEBT -> CPOEN -> OTOTB -> VTTAE -> UPTLE -> UVEIR
-361
+414

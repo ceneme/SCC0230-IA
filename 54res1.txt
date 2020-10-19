@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 USTON -> TTDUT -> ENPRR -> ITGTL -> SPRAB -> OOPTU -> PNBAL
-283
+296

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UVPSB -> VLRET -> NRNSN -> PPREA -> AOCGS -> PPENS -> BDEBS -> OTVDI -> OGTUL -> NSNPR -> ITGCT
-403
+428

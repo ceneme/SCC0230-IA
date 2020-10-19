@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SPCSV -> ETTBC -> UDIGP -> NRECA -> EIEDC -> ESSVV -> OSCVR -> DBSRS -> SDLDP -> PURBS -> SUBLO -> UVUCR
-192
+212

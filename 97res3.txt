@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VRIBD -> IUAOE -> LGGIO -> LBRNR -> ORDVB -> UDRRI -> UNOUO -> NEUBG -> CNDTR -> GCIRG
-928
+969

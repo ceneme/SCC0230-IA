@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SEGGN -> VPTPG -> OVVGL -> SLUNP -> EGULR -> ENRCS -> TLIAT -> BICOU
-659
+919

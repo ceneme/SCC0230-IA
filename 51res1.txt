@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CGRLS -> TVAOI -> LPSRN -> UNEVC -> DLPTB -> TCACT -> ERUNT
-308
+380

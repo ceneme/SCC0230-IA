@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SLRUI -> BPSSC -> UESOR -> ELCPS -> PUCLA -> UTEGC -> RCRED -> RTOLI -> DSBCG -> PEUDS
-1116
+780

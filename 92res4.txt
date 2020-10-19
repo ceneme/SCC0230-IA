@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BBSTS -> POTGE -> LGGCG -> BPBTV -> SDSRE -> VIOVE -> VGOID -> BIGNT -> PUIDE -> ELGLV -> BBGUT
-409
+418

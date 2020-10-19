@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 URVPI -> UGBUP -> SRBDS -> PNVTP -> REGOS -> INSPP -> BGELR
-237
+265

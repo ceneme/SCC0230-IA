@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UGTLN -> LNCRI -> TUAAI -> EEINL -> EVCDL -> NTOAU -> RLGLB -> VPEPC -> NVOVS -> BPSGE
-353
+362

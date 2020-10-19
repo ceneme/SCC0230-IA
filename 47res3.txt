@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BIOLS -> NTUCN -> DBIOR -> LUBVP -> AALSL -> UTNGA
-364
+377

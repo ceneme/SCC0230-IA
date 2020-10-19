@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 IBVDV -> REPSV -> ECVDD -> AUIAA -> LIOGV -> ONOGR -> GDSBG -> BNIRP -> PTAOP -> UUPAE
-512
+553

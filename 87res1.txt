@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ILVBR -> TVUII -> GUECT -> IBBUA -> AEDTS -> UGUTV
-483
+506

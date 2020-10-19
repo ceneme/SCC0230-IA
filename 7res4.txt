@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PLBVE -> BCATC -> ONBDC -> VAGLE -> NCTOR -> OVTDR -> UGLCA -> PAPLG -> LALII
-49
+55

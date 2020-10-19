@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EGIRE -> DPIDP -> IBVRE -> CNTRL -> GAAAD -> DTVLG -> VOVDN
-415
+443

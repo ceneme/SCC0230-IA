@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LUUOO -> PPNGU -> ADLEU -> GDTNI -> GRAUC -> DANEA -> OOGAE -> GCGSR -> VCOSR
-427
+506

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LBVTU -> NOGTO -> RUCPR -> AAGOR -> NUVIV -> GCEDB -> OCGNI -> TICRU -> UVRPB -> CRNND
-172
+191

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ELSIC -> UBTRS -> NDRLT -> AATGS -> UPCSN -> BNEGP -> NRCGG -> AVSBT -> GINNU -> IGOLV -> DNBIN -> ELPSA
-305
+366

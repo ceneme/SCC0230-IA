@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VPVDS -> REUDT -> SLLDA -> RTINT -> PLBCD -> UCROP -> BNSAD -> NLDUN -> RPGVN -> BUVGN
-221
+214

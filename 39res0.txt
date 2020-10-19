@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CVNPV -> UOPUP -> RLICS -> PNARN -> CDORE -> ASCON -> VSILA -> BDRLD -> IRVDD
-301
+323

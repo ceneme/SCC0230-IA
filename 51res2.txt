@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DAOAP -> LECVU -> BOINL -> PGEOG -> VSERD -> EICRG -> GCAIR -> AGEIE
-286
+420

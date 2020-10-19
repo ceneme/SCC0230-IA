@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LCIDI -> OSIEN -> IIIGR -> ARILV -> EPAEE -> VOUVS
-23
+22

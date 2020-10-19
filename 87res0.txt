@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GTBGL -> ENRCV -> VNEUG -> EIOBV -> CCBEE -> NILSB -> SDDAB -> PPINR -> CRVTS -> PDIIU -> PEVOV
-647
+719

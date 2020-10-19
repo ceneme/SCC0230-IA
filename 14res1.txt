@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DIAGL -> CNDIP -> EPBNV -> OGPSR -> IBRGE -> DOSGS -> VSTSE -> COPGL -> LPCRV
-73
+88

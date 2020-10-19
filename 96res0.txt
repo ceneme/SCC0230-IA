@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UBNRA -> ETGRD -> LVEBI -> OVEUR -> LUSDS -> ILCAU -> ITPPT -> CDRNO -> AISIO
-430
+491

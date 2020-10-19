@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 AUIVU -> RTVVO -> TRPDE -> ISLSL -> URPLS -> GOVLU -> PTUOP -> PLPDB -> BNULB -> LATVO -> LTLBU -> ASOUV -> SAVCC -> BGCBA
-497
+523

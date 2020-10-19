@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EVORB -> GNBNP -> EPOUC -> TDRCS -> ENPGA -> NTCRC -> IALBO -> VNRUB -> APSNB
-96
+115

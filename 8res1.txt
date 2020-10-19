@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 UVUOA -> GUOES -> DSLDU -> LCNUB -> ESGVV
-60
+101

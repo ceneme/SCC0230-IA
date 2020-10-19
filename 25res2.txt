@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 IIDVD -> TOLSA -> VBBDB -> SRRBP -> GGABV -> UNTSD -> ORLPA -> LCEPN -> BPLUS
-69
+75

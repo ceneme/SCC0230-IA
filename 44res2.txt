@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OVLGP -> SPGVV -> RIVPL -> ACVNB -> VVUEG -> CUTRB -> EESUI -> ONRUR
-271
+316

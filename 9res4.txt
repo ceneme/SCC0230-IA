@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BEIBG -> UOBNS -> GPIBT -> IBCOS -> CRCUV -> TURDN
-51
+57

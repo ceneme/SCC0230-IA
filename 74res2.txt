@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OOOLL -> GULTG -> ELEOE -> LVTBA -> OBGAD -> GVCDV -> PODAD -> UNLSG
-223
+306

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LIOEP -> ANIGT -> SALOU -> IBUTV -> PUVRN -> DVDNR -> PPDBP -> CPUEA -> IVVNC
-505
+507

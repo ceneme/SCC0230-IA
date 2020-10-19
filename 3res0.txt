@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LENPI -> IPBES -> PVPIE -> UBRGR -> VVGAL -> UEARU
-23
+25

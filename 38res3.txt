@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RBDCG -> SORVL -> TSPVD -> APCRN -> BRDRG -> OPTGC -> SOCBP -> ROTUU -> BPVBS -> AAOPB -> DUTVL
-216
+234

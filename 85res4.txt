@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EBGAI -> ONVLA -> UIUGR -> LVGBV -> DLSTE -> RLOPB -> RREPE -> VCATR -> RRVSE -> LIIRL -> GCSCU -> PILON
-594
+624

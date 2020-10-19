@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DRUUC -> GAUSO -> EDDCE -> TTOUL -> LREEG -> PPVIO -> DSVTG -> LGLIU
-459
+492

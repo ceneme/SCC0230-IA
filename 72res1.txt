@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ALTTE -> NBRIB -> NPVOT -> PABIC -> ITLSB -> CCNEU -> BLCUU -> VGPPN -> VDDVB
-190
+203

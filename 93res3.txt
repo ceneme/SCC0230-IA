@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OGLII -> TVUIA -> TUGAD -> RNCAD -> ICARN -> IGDTA -> TVPOG -> OOSCT -> DNSVS -> AINRP
-678
+694

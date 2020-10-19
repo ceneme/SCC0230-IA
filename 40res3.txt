@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 RSRBA -> VTSGR -> ATTGB -> GVURV -> NLOCB
-88
+137

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NIACD -> DUSVP -> UBAOC -> EPLEL -> SEODO -> LSUDB -> INGRV -> BEVVI -> PNVCO
-413
+404

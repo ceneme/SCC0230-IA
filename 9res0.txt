@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 SNGSU -> NAONI -> LBGLS -> TVDAA -> IABTS -> ARSVU -> LRIVU -> GTGSE -> BRLEN
-29
+69

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OUUBL -> GPCSN -> CPCVP -> NBLLO -> COULT -> BNDBO -> IDBIS -> BALTE
-199
+213

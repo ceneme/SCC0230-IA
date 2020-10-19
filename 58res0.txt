@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VBROI -> OBPVC -> LDCSU -> EGCTS -> CECDO -> DAGCI -> PSSBP -> ROTVE -> DDNOG -> CNLTT -> IANCT
-382
+535

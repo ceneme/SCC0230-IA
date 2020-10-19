@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NEEGN -> AOUUP -> TGVIL -> OLRTU -> TPDBT -> ERDBE -> PNVEU -> GRCLL -> UUDOV -> ATTPE -> DRNPE
-410
+464

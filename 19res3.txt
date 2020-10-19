@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BBEER -> IPBLN -> DRUBO -> OIGIE -> GGTBC -> OLUGT -> LSUPT -> GTGRO -> LRVEU
-67
+66

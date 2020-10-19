@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PGBBP -> BPLLV -> IRDNA -> ULCOG -> ICVNA -> DRECR -> VLGOR -> NVCGR
-128
+147

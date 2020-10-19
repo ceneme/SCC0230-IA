@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 PVBCA -> LVOOB -> CEGUA -> RALTA -> AOCVG -> CEEOP -> RGAEU -> CSCPC -> CIIRP -> AEBER -> LIBUG
-500
+567

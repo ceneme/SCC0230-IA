@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LDSNG -> OUISN -> UEDNC -> CIDPB -> IEBCL -> RUVVT -> GLCVI -> SNBEC -> OPPAL -> AIANN
-600
+736

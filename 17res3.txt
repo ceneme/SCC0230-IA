@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ESSRN -> OUENA -> ULRTC -> PERND -> ICSPB -> ATCBT -> LAIUU -> OACRD -> UDTVE -> LBGLT -> PNIOB -> VNLDL
-141
+159

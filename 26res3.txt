@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 AVTOC -> BTCUG -> CLGCO -> RADVS -> APSIB -> LRLVI -> EOCUD -> REIUV -> BECTS
-210
+231

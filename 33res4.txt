@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ATVLL -> CUERT -> LANEN -> INVPI -> NAOEP -> NLOUI -> STGTN -> EUTTV -> CBNGU -> ICURP -> VLLIE -> DGIVV
-291
+292

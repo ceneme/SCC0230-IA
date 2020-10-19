@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TAABV -> EIALR -> VICNE -> BGVDU -> RLDCC -> TDTDC -> NLSPE -> OTVSD -> ATLIV -> SSVNG -> CDTCE -> UIPTG -> CASVT
-330
+324

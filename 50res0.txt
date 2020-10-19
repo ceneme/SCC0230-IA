@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EVIRI -> BSEUS -> DPLNR -> TOVTO -> PVAUC -> CSOOR -> VCEUV -> VVRDR -> ILACO -> TESNT
-373
+402

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 NPIRO -> RVTOL -> LCLGA -> RAPLL -> DNSVO -> DEACO
-33
+34

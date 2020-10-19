@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 LAGIP -> DBICI -> BPARL -> RNLDL -> TLRCA -> NUADA -> UVVOI -> IVVEB
-95
+98

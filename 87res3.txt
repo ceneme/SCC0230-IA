@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ISRIU -> RCTVP -> AIVRL -> TPNGN -> OULDO -> VUSVE -> VIEID -> GSPAG -> ILSUN -> UDUGT
-430
+479

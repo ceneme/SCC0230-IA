@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TBODV -> BRCPG -> GSRRP -> IBPCP -> LTRVT -> UPNPG -> STEUN -> TIDGC -> VSUOA -> IABAD -> IDGPL
-320
+385

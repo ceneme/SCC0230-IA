@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 AOBOC -> SPVII -> IVLOC -> TLLRI -> DTEUB -> NGABP -> OBGAU -> UGBGT -> VVDSS
-166
+171

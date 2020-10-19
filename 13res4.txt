@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GLTPN -> UVBOU -> DTGTN -> RAROB -> RABBV -> CTIUB -> BRDOE
-110
+119

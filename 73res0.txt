@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 ROIBD -> ETRLR -> DBCBL -> BTAIP -> DOALC -> GDIOC
-143
+153

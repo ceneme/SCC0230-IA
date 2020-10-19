@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 OGVCI -> LTDCL -> TAENB -> RPTAB -> EBTDV -> CEURU -> VRUNL -> RGPTA
-132
+143

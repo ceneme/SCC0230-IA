@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BNOTT -> USNDD -> TVUNA -> VGIOP -> IDLCI -> BLNPL -> PONLN -> DROSP -> CVSVA
-48
+50

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VNIEA -> ESGTL -> UISSA -> SRGNS -> NTLBA -> NRUUT -> ANETP -> VLNUN -> SPPBO -> ANNRA -> CBEEC -> OCOTU -> TCVVV -> SPDPG
-303
+320

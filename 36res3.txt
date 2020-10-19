@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CISIA -> ISAVL -> TBGPT -> PNBVO -> EOOCO -> TNBDI -> SLLTL -> APTAN
-374
+319

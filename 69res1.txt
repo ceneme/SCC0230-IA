@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 TDCOE -> BBEIE -> IOBPA -> UENVI -> NGSAO -> UCGNV -> RITUG -> EEBEN -> ELCBC -> NVSLB
-326
+347

@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 BDBAC -> IPNEE -> CNIGB -> DUUVL -> DPCTT -> NIPAL -> IOURS
-179
+187

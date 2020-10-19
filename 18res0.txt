@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CTBAO -> UILVV -> SVPAI -> RRCNV
-48
+56

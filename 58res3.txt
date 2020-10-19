@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 CONNB -> DNPBG -> RPNPC -> ASVBE -> DIVOO -> DDIIS -> CPBOT -> VIBBU
-155
+169

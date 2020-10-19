@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 VUCTN -> GUTPS -> LVAAT -> ISADS -> GVURP -> ANITT -> IVNCB -> PNVVL -> GVCNR -> ERATO -> BURTA -> UVULI
-521
+547

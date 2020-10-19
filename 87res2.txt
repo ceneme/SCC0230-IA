@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EASUA -> OUBCC -> GSEBS -> UNNSL -> OGBVI -> RBVSD -> ARUBP -> UEUCO -> DDNRG -> CUNIS -> NRDBC -> VRTUT
-380
+434

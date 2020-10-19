@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 EBSST -> GGUEU -> UDSVA -> VURNL -> EUCGN -> EODIL -> VDTGU -> AGATT -> RROEE -> UTAEV
-381
+406

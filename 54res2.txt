@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 GNROE -> VENEB -> DSDBO -> PNUVB -> CNANV -> IIOSU -> BGSUA -> CGROI -> URIND -> ELGUO -> SGPPU -> EPTRS -> ELROP -> BRCGG
-500
+531

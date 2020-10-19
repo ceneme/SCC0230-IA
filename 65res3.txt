@@ -6,4 +6,4 @@ Início da execução
 Fim da execução
 Caminho de cidades é: 
 DETEP -> TTRNV -> IIBVT -> SATVO -> TUPNB -> ESGVV -> SCNCG -> TBLOO -> RDEOO -> TCUVT
-512
+538
