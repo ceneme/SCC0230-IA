@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GADER -> BEDPG -> CAAVT -> LPGDA -> DCDPI -> LLACA -> GTAUT -> ITVND -> OIOOL
-552
+AVRRG -> OVDOT -> ULNED -> PELIO -> SAVPA -> GUOOG -> UCCSA -> TGGDC -> UVEOR -> AUOBN -> LLBVT
+616

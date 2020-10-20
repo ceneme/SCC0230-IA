@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PVBCA -> LVOOB -> CEGUA -> RALTA -> AOCVG -> CEEOP -> RGAEU -> CSCPC -> CIIRP -> AEBER -> LIBUG
-567
+CILPD -> NBREE -> SLBCT -> BAGBS -> DTSOB -> PVDUT -> IDCOU -> GGIVI
+311

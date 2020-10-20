@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ALDLB -> OUSGO -> GISAE -> PEROS -> UBAIA -> OTUUU -> SVVAP
-177
+RCPOV -> UIORN -> VANSO -> BAITB -> LOPLT -> LVODP -> DPPGV -> TPBOC -> TLAVP
+68

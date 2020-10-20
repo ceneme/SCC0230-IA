@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CSAAB -> AOLBV -> REAVB -> PTTAA -> SCECC -> POOBP -> GPOBS
-200
+GBDOI -> ODNAA -> NVNGP -> RSLIC -> TRUIC -> DGAEG -> DVAEO -> IEBEI -> RCPDU -> BSRGC -> COTCE -> VCCII -> SSANA
+101

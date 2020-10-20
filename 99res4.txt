@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RIITO -> AESUS -> DGRNP -> ARDCB -> VECOS -> CVPEC -> PNLLN
-260
+BCUDE -> BRRCU -> URITT -> PIDNP -> BBTDC -> RGITD -> SLSRA -> VTAAC -> USCGC -> ETUCL -> EAONA -> ASCSR -> SDIBA -> VTLIL -> OPIEA
+597

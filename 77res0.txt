@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ISAPL -> LSBEA -> RTLEU -> SDTDO -> PDTSA -> TLNDP -> RBDLL -> IVLVS
-277
+ONTPA -> TSLRC -> BVCEB -> OBAOC -> OSLUD -> CEVAG -> LVORB -> IURPC -> CDRVU -> EGTOU -> GRTUV -> TOLUV
+172

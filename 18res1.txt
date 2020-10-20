@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LLLLL -> CLUAR -> PUEND -> IVBTG -> LLNIC
-48
+INIEI -> UGGDC -> SRRUI -> TRLRP -> INNRR -> CCBAT -> UAASA -> SCEED -> NPIGP
+117

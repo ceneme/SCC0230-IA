@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ANADD -> EOEIT -> BACEE -> TDETI -> TNGSU -> NTAOR
-240
+DVEUA -> NEPOS -> EIVAD -> SPGIB -> BPVLS -> RVNGG -> AAOUU -> OICVS -> TCVTP -> VLIPR -> GTLSU -> GICEB -> LLPCR
+333

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CGRLS -> TVAOI -> LPSRN -> UNEVC -> DLPTB -> TCACT -> ERUNT
-380
+GOSET -> AITTT -> ASRID -> TNUIG -> IIUES -> RUVSE -> OEIDO
+126

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-OCUVG -> TVOPS -> AENGI -> PVRPT -> CCTUV
-7
+PUTRI -> CIOPE -> RPOGO -> LETVO -> GLABT -> GVUVR -> GGSNP -> DUNBU -> UVESI -> EUUTP
+10

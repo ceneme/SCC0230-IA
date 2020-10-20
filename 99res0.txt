@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SBBNE -> NATCU -> AGVSI -> ILTLA -> COTLU -> CCDCR -> ISDUB -> ORAIP -> VDDBT -> RVESL -> DINAP -> OEARE -> OUDLU -> POCBV -> GATIO
-611
+SNCVR -> ILBED -> IOEAG -> NCIUB -> CVSIC -> RIVLU -> ASDNA -> VGIEO
+233

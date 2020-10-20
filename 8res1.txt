@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UVUOA -> GUOES -> DSLDU -> LCNUB -> ESGVV
-101
+PAPNE -> OETPN -> ASOON -> TPSPE -> TLTNV -> OOGBO -> ATGPI -> PPTID -> VOECR -> BILAN -> DULRD
+41

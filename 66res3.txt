@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-COOVG -> GVNII -> GOUVT -> REBCL -> DVADP -> IPEOP -> SLIAU -> DUSLI -> OGOBB -> ARSPI
-370
+DTPII -> UGDVG -> NAIEA -> GSTAN -> ETGOA -> IVSCV -> PNNUL -> UTPCT -> UDDUN -> ENTEC -> SOPRN -> BBTUV -> LGSVC -> RPEVT
+453

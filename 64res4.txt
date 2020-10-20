@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-TRAOG -> ODUVA -> NTTLE -> RIULC -> VDAVG -> GGICU -> UPRNR -> NOSTV -> IAERC -> APPBA -> TGSAA
-450
+OBGGP -> OGVAC -> RAAAP -> EUODS -> BRLOT -> TPRRD -> CSLCA -> OURVP -> CIRSD
+248

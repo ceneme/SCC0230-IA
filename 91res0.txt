@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GTNNN -> EULTD -> OGUCE -> ISSIS -> NDAUC -> ONTEU -> AVUOR -> EBLTC
-655
+EAEAV -> LNRBO -> RODOL -> SRISV -> NEEBP -> NTUBU -> DGIBE -> ENSIR -> PCTPA -> NGAPA -> NGLGP
+235

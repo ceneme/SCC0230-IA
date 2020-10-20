@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PIPAL -> ONAPA -> RRLUN -> ATNCS -> AUEOG
-232
+AGEAD -> PVVAU -> IDLPP -> TODRL -> NADVL -> EUESR -> BSSNI -> BPCRL -> CADGP -> EEROE -> CLBCS -> GBENG -> DNCUU -> PPRND -> VINGT -> ECNBD -> ADPOD -> BRBOC -> DVTEU -> AVOTO -> GNUIA
+813

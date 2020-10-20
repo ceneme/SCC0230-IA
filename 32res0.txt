@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DCNEC -> SOVLD -> BBNDD -> BGCSL -> LUCOL -> NTNSO -> NRLUB -> SVUUV -> TCDOU
-254
+LNAIU -> IVPEU -> UTLUN -> DEGNI -> SENOG -> ROEST -> BCGLP -> ELCLV -> BCTGO -> TTOGA -> CITAP -> VNRND -> CRUAC -> RVSRP -> VUEGO
+191

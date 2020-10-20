@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UILCD -> GRIRS -> EACBC -> LCSNO -> DCODG -> SBSUR -> CTVGL -> DIIET
-160
+LBNTG -> GBUUD -> IUUBN -> TCBRL -> AENSC -> UIBTA -> CUDUU
+85

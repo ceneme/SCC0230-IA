@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NPIRO -> RVTOL -> LCLGA -> RAPLL -> DNSVO -> DEACO
-34
+STDOT -> CCDSI -> TREGA -> DROSP -> BSLRL -> OPLTN -> TISSO -> TSDCG -> EBUPP
+27

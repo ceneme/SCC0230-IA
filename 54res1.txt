@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-USTON -> TTDUT -> ENPRR -> ITGTL -> SPRAB -> OOPTU -> PNBAL
-296
+RNSPV -> LIARP -> AEBAS -> OEOGS -> IIOGC -> GPEGG -> ICTSL -> RLATN -> BSVPS -> UBNGU -> ILVGO -> DSDCD
+122

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-BBSTS -> POTGE -> LGGCG -> BPBTV -> SDSRE -> VIOVE -> VGOID -> BIGNT -> PUIDE -> ELGLV -> BBGUT
-418
+GBAED -> ITAAI -> IOSBR -> PSEVN -> DTVOL -> LSNRT -> TSSCG -> RTBRL -> DVIVP -> CETDP -> TSLOV -> ADDIT -> UBPLC -> CGLBG
+550

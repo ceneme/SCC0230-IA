@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VRIEN -> GCASS -> ACEGO -> IBCOB -> LCOCA -> DVVTL -> UOVGI -> VAVVG
-186
+GOGNI -> CRGNB -> CAILI -> IADPI -> UPDRI -> IVANA -> DNAEP -> NAAPS -> ROICL -> BNGOP
+86

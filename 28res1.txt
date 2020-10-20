@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-IAUNB -> OPNGO -> RNIRO -> UINLD -> NDRRG -> VDBTB -> TLSTU -> IDILU -> DINCU -> NEEIG -> ETIAE
-260
+IUCNE -> LGORN -> EUPRO -> AIGBD -> PATUD -> ALUON -> ISAUD -> TUBOT -> SALIT -> SNPVR -> IPNTL
+155

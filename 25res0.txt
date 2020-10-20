@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-TNICS -> LEBRV -> GSNOD -> PNIAD -> UUSSE -> DTCLU -> COPDN -> NUPSP
-120
+PUNBL -> TGNOB -> TSVEL -> SUNOU -> DBDPP -> PLTPA -> CVGLS -> BUDLE -> DTVLB -> TNDAS -> TPPUO -> IAINO
+193

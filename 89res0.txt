@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NIACD -> DUSVP -> UBAOC -> EPLEL -> SEODO -> LSUDB -> INGRV -> BEVVI -> PNVCO
-404
+DVCIR -> IALVN -> SGSTO -> DACIA -> UEREN -> VEANE -> VECNG -> VGLRB -> GLNNL -> REVPT -> GOCRL -> PEUVU -> SPTSA -> IETND -> IDTUA -> UEOLV
+587

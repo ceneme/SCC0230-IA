@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LALPP -> CGBDU -> ICVEP -> RACBO -> SBPSA -> UEELG -> GAITP -> TAIIL -> VOPNN
-99
+BESOE -> NCAGC -> LIGTD -> BISNS -> SVNCU -> GAGCS -> TTSBT
+41

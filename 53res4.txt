@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ONTBI -> EGRUT -> USSCC -> OINDL -> TEBBC -> RDTTT -> BCRUT -> VLEOE
-505
+SBCRR -> DSVRN -> GADVV -> GEGUT -> ONNNG -> EPTBE -> UTLED -> EVREL -> LSLAO -> ITLDS -> UNLCI
+241

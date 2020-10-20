@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-INRED -> PVGTG -> BPIEE -> UITBP -> NSGTU -> EIDBV -> CGPEU -> VSUNB -> SISOA -> LPTET -> LTPDV
-519
+DOVCR -> LVTNS -> SAELL -> ANDTT -> APTAD -> RPNGL -> ADSIS -> NOCBP -> PLEPC -> SOIOO -> EDUBU -> GTDOE
+239

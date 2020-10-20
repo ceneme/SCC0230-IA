@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-BLBEN -> CSAVD -> OETTR -> INEGN -> LICND -> ADUBU -> TOARU -> SGOAN -> OSEDE
-24
+REARA -> GNGOB -> UNSNT -> NPRSR -> GALVB -> LTSAP -> EDLGG -> GRRUD -> TRDTC -> GBOLO
+33

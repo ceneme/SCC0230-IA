@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RBIDO -> NULAA -> SRLLN -> PPOSD -> BASEC -> OOTSE
-76
+TOCOI -> ACSBG -> UTSGV -> RRDCG -> UCNDG -> NPAOR -> CURIU -> IADCG
+79

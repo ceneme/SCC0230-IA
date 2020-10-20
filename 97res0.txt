@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DNLNN -> ENDTU -> OGOGP -> IOSET -> SOAGG -> OOUDL -> IPAAS -> TGCDU -> SGEII -> IUEPA -> DBBGI
-631
+LSBAT -> IABLB -> RBGDR -> VECOD -> DLBDV -> TICSR -> LIEED -> SIRTS -> GAGRA -> NGVAS -> VCSGR
+465

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GPAPV -> ASGEP -> RUPEB -> CSLDG -> IVTLT
-21
+BDEDC -> AESUA -> RTRGR -> COLGU -> BDDDT -> NPRBD -> CAOTU -> DDIVT -> SRVBL -> RIOSI
+34

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NPSIS -> VOREO -> EGLUA -> UPVDI -> ANUCP
-114
+NSUPB -> ICOPC -> RTVEA -> BTEAI -> PREOP -> RLTCN -> TCONR -> CIEOC -> EVUDO -> TAEVU -> TOBGL -> CBANG
+134

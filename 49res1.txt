@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GIGDS -> NNVAP -> DNVAA -> VVRAV -> GIABS -> RUEUN -> AIDPA -> IPCRU -> TVSIO -> SSRNR -> PEORL -> TSOOD -> LONCD
-381
+TPSGL -> PPPGG -> VPINR -> OAGDP -> OOSUG -> AESRV -> TCTDE -> GVUBS -> NOPPB -> TLIVG -> TODBR -> PIBSS -> SUBGG -> RILPS -> OERTE -> OVIAU -> NDSDE
+272

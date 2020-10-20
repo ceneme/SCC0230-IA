@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RSRBA -> VTSGR -> ATTGB -> GVURV -> NLOCB
-137
+UVTSL -> SAVUP -> ANNCC -> SDCGR -> PRUES -> VAPCV -> DUPUR -> RLORA
+127

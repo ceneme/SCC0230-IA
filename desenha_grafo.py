@@ -23,7 +23,7 @@ for line in Lines:
 			G.add_edge(n1, n2, color='black', weight=1) 
 		else:
 			w = line.split()[2]
-			G.add_edge(n1, n2, color='black', weight=int(w)/200)
+			G.add_edge(n1, n2, color='black', weight=int(w)/400)
 	count = count + 1
 
 f = open('1res2.txt', 'r') 

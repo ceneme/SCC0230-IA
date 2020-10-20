@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NAVVA -> RLOTR -> LLGUT -> LLVOA -> OUIVA -> SIDSA -> TVCDP -> NOVOC -> IRUCC -> VALST -> RUULD
-607
+URSGD -> GNSAR -> PNDCN -> CADIB -> LTICD -> RCEUI -> SSAUL -> TENPG -> AOVRT -> ADPCE -> TPSEG -> AORLN
+335

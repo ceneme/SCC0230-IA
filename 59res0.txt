@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UGTLN -> LNCRI -> TUAAI -> EEINL -> EVCDL -> NTOAU -> RLGLB -> VPEPC -> NVOVS -> BPSGE
-362
+EEDEV -> ISCOG -> LGCSV -> BLNRL -> BURUR -> TOREN -> TRILO
+85

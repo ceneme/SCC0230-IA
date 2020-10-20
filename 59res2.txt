@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NBVBO -> PNOGA -> ASCGB -> ISRDA -> GORCB -> UOIIB -> RAVOA -> ISDSU -> UGOEI
-333
+SBEVT -> LPDVC -> AVETV -> BOPAB -> TDSSS -> SAAIU -> CCDRP -> VEBEB -> BOTGU -> OSPOO
+123

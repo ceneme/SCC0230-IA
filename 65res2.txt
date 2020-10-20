@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CNABR -> EOBIC -> ELEUS -> GTVAS -> BOOLV -> UBTUS -> CNARA
-189
+PUAUS -> EIVEU -> CROLV -> BVRNC -> EACLR -> TSPBN -> NPCAR -> SILGS -> SAALT -> TIUOC -> VCIVV -> BDSEA -> BRUSD -> NPCGV -> TCRPV
+510

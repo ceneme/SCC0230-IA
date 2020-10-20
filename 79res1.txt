@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GRRPI -> STSIO -> TASBN -> LVBRL -> TVAVD -> DIAAL -> EOUEE -> ALDBE
-384
+PVPDG -> TAGLN -> DVGPN -> NTBEO -> BAEBP -> OLASD -> TAUNV -> OICPV -> PCLVN -> IIROS -> RCTSL
+370

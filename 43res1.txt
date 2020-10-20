@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-EVORB -> GNBNP -> EPOUC -> TDRCS -> ENPGA -> NTCRC -> IALBO -> VNRUB -> APSNB
-115
+UBOCS -> DSGSP -> VINSN -> BODOT -> ABEEU -> ETCUA -> GBAVE
+128

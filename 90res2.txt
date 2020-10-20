@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ABAAL -> LSUOG -> RSANI -> RVPEO -> IARRA -> ESOLE -> AVGTU -> LEEVG -> UBGDI -> DDBOE -> BACNP -> TACEP -> GDVVP
-1083
+RADUO -> BANRD -> CAAEU -> DUBNT -> GPTLE -> VUSAA -> UDCGP -> EAPTC -> RSPNN -> CLUDN -> RNITS
+271

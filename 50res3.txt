@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-OCIAR -> CTSER -> VRAVI -> BRSSN -> ADUIU -> CNAOO
-116
+LGCAL -> NLOBL -> CLDDI -> TCNPC -> SDDIT -> UGDPN -> SCTUC -> EIOTL -> AVVEC -> PIRBG -> OTISU -> RIOVL -> ESSCN -> BTAIP -> BSOGP -> PNGNT
+270

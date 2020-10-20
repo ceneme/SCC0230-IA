@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VEORU -> ORTRE -> DALUV -> GUEGE -> AGRUP -> UASUV -> GSSBR -> LSRLN -> NURVA
-255
+VNDBD -> BRUDU -> IAIGA -> ASIDS -> SVNET -> BCSPE -> ARRDR -> PTRSU -> TSRBN -> NATPL -> LARTL -> NLIGI -> NPODA
+282

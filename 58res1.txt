@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NEEGN -> AOUUP -> TGVIL -> OLRTU -> TPDBT -> ERDBE -> PNVEU -> GRCLL -> UUDOV -> ATTPE -> DRNPE
-464
+NGCAS -> ASNSR -> TIUGO -> BOOOE -> LNEPN -> RTGID -> OINIA -> LUSVA -> SONDC
+181

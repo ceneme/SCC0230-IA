@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VGLOA -> DVTIG -> ERNGS -> CLUOV -> PSABU -> NBOGR -> VRUOD
-443
+NVTAI -> INIRA -> VDTIB -> UGSCP -> NBBNG -> BOCEO -> SBTOE -> ECAPA -> LGBOI -> UEOGV -> ORRDC
+964

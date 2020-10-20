@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UNGVV -> LUGTD -> UTUPA -> PNLPE -> CDPRA -> RGTUL -> AGDDR -> GVNEE
-228
+NTULG -> NNVDV -> VEVSD
+68

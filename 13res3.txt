@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-IOLBP -> TCART -> LLSPN
-23
+RBPNV -> AIBRN -> LGPBS -> LVGLG -> PBBAN -> RDOOO -> UDUIU -> AGACS -> BNTTT -> TSTSP -> NTCON -> OPBVC
+55

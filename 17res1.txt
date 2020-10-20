@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VACUV -> LSRRB -> VGUTR -> CLEEP -> LRGII -> COBVV -> DVNTV -> OPCSS
-120
+DDSGC -> VSRUP -> TLTCB -> CSTBE -> GOALR -> CASRG
+51

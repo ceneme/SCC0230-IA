@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ODSDO -> DOOUC -> IEPDU -> CEELA -> LSEVV -> DLRNA -> TGEAG -> OOILB
-404
+PENUR -> PIVLP -> CDGDG -> OALLC -> UTBES -> LAADR -> IEVEO -> CNIVB -> STASL -> IUSPI
+171

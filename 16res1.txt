@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PUARR -> UIDTB -> BLISL -> LSGOC -> CICEL -> RSPVG -> GEOVP
-140
+LGDPA -> BIEVV -> GNCNA -> GLPVR -> UPLCS -> RBATI -> GOEAB -> DTLDO -> GRSOR -> OAART
+38

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VDSPO -> IPVUR -> TCISE -> VCSVO -> CAVNP -> EOORE -> OENRB -> LEONN -> UOESL -> CVPNL -> IISLG -> BABNS
-854
+ESERA -> LUPUR -> PPPPI -> NDCPG -> LDSTC -> GVAPP -> RDOEV
+366

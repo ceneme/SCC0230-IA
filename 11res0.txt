@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DNRRB -> UNTCN -> DCDCI -> CEDDC -> TLGTL -> ELNTO -> LOUIP -> TTLPU -> TEGVL -> PSITO
-80
+IGLPP -> VSBVB -> ARBPP -> AESAB -> RRCCL -> AUDVV -> RDBSU -> ENUBE -> RIUOI -> PULBI -> PGAGI -> SNBSP
+59

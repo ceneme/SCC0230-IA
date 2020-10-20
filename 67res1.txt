@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VTBOG -> BTAEU -> RPTAP -> ATUGI -> ALCRV -> IBCGD -> GDIVR -> BACPG -> TLCSE
-247
+NEELI -> PIGCS -> NUUOA -> LPCSE -> VDPVO -> NVBUT -> TIOGE -> VIAAP -> NRVUL -> RSRLA -> RRRGC
+211

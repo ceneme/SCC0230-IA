@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GSGAA -> GSNSE -> NSODI -> GBOND -> UEITC -> ECPGT -> NUUTL
-62
+PSLLI -> NRELS -> SSSNG -> DBGGI -> OULRD -> BSLDI -> ABGOO -> PALTO -> BPTLI
+83

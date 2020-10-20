@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GLOGE -> BVTBN -> COCAN -> GSLIT -> SRCES -> PBSSI -> CRVIV -> PGIIA
-88
+STNIR -> RCOOL -> UEDOD -> NRATR -> EIRNB -> OIRVS -> LOEAE -> GNTLD -> VTIDU
+71

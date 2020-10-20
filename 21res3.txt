@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-STNNR -> DOTTT -> IVONA -> NPTIA -> TANUO
-80
+ARTRB -> VDOPD -> SDNOA -> VNUOR -> SLCVT -> IDASP -> NCVNP
+96

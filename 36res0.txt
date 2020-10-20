@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VOLDV -> TCNVC -> GBETE -> CGOBD -> CBBSC -> INBSD
-159
+GEACO -> LIOSA -> ABSPT -> SGCLN -> EITBS -> ODLBC -> TABBS -> CLLTN -> ARVAR -> ATPPV
+142

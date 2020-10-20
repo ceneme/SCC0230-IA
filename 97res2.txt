@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NSBNE -> DNSSG -> ELISD -> BNVDT -> OPRUS -> ECTUG -> AUSAN -> ELIAS -> PTNID -> GGAIO -> PVCGP
-741
+OOPDU -> GTCAO -> DTTIS -> PVEAG -> NBLVV -> DOLUO -> RLDGR -> OONRV -> DOGGP -> OOBTA -> USGAS -> BLVPU -> EAVEU -> VUVCA -> UCARV
+1064

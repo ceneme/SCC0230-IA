@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-TONCS -> DLSUI -> TATCB -> CABCU -> BDCOT -> SSRPO -> UBLUB -> SCIBN
-414
+ASUVU -> NNRAV -> VTBCN -> BTLBC -> UTADI -> SBAGE -> SPOLD -> TTDSD -> BASCG -> RPUVD
+300

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GBANC -> NDNGI -> NRRVV -> GNPRU -> VIVUD -> CCSCA -> LBIEA -> TBAUU
-163
+VSPAU -> EPVCU -> CDOTO -> DDTOU -> CSSOO -> IDSTE -> ATTRP -> OUUCE -> NUPLB -> COETR
+213

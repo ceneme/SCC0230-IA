@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DBUGT -> ELVPU -> NATBO -> GPTIV -> NNOND -> GOOUV
-246
+RDBPE -> PTREE -> NCANG -> NBOUP -> INRRA -> AAVLA -> TAPCS -> BEBSE -> UDCRU -> GRSGG -> BTALS -> OIUTR -> VAEUO -> BRIDB
+670

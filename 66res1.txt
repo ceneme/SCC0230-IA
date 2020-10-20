@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-AVITC -> AOUCI -> ULDIL -> IGUIP -> GNGGE -> LGPTT -> LDEPS -> TNAEU -> UEOIG
-256
+IBLGR -> TLENC -> AUGPR -> UUDPE -> BDLIV -> GOGRI -> CBCST -> LCLSD -> BCIED -> PEAEB -> ECLRT -> BGRTA -> CNILC -> EOCLB
+447

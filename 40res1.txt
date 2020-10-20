@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RTEVL -> GEPRG -> TSBIR -> NPVCU -> NOABA -> BOSUT -> STRCS -> IEPBB
-384
+GVSCE -> BIAOL -> LUTRO -> PCUOI -> RLEAG -> OVIVS -> PTDLS -> DIPLD -> CVENV -> EORBE
+226

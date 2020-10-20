@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-USOGO -> EGCNV -> SPODU -> DLGRL -> NIUGB -> DSNIO -> VOUIR
-823
+LNRBA -> VIELL -> CIRVD -> NANLB -> LUROG -> CBTRN -> TTITS -> LOTEN -> NCEPC -> LTAUC -> LCIIC -> UERNG
+342

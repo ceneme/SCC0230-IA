@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ULSSG -> IIVNE -> TVVNN -> CORPE -> AANBR -> DPSSE -> DBNTL -> LTDPB
-571
+OUIUE -> PEUNT -> RUIVN -> GUGLO -> CLBIS -> DAACP -> GGRPR -> EARCC -> NNCON -> CTUCO -> NTCAA -> NINVD -> IVNVV
+279

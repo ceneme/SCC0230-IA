@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PDULN -> PSNID -> BNETI -> LDLST -> UUSAR -> DGOTE -> EVPOL -> UDOBL -> DPPAG
-107
+ICNUR -> ROITC -> ARERS -> UBRUV -> EGRPA -> UTUOV -> PAECO -> GVAUO -> CSRBP -> SRSVR -> AUSDO
+97

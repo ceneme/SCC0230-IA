@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DETEP -> TTRNV -> IIBVT -> SATVO -> TUPNB -> ESGVV -> SCNCG -> TBLOO -> RDEOO -> TCUVT
-538
+ARBAR -> NNLPV -> GEITR -> OIGOG -> SIOTN -> ATETC -> TGPBV -> GTVIG -> CCVCI -> IDRCD -> TVNDC -> PNTOV
+469

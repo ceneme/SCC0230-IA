@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PBTOG -> GBORR -> DTGBP -> TSBPV -> OANAA -> SRDSN -> RCONV
-128
+BBTRB -> PPRER -> SDVTV -> CDBOB -> LAGCB -> PGUNS -> CBRVN -> PPPBV -> ORVGV -> DNEDC -> GDPRG
+138

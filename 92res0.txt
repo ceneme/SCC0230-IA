@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NGIEI -> VBLOC -> LRAIN -> LIGRV -> EGABA -> NIBLO -> CGERB
-625
+RORAI -> OBEUA -> TVTVB -> NCTDI -> OSTOC -> LCIVA -> RBOGT -> RRDUO -> NVDRD -> TOIPS -> STSPR -> OPSTV
+267

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SPBVI -> SRUCE -> DDTEP -> CAGNU -> AATPB -> CSTLS -> DCOUU -> TAAVE -> CUNGD -> PICEG -> CEGGT -> OSTDU
-517
+VCCTL -> RUOBO -> APRAL -> IDRRV -> GEGBC -> ALACO -> PETCU -> AOAGE -> DCEGA -> RDBRL -> NTRTL -> UESAR -> UOGBT
+314

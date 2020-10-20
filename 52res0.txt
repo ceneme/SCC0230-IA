@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ICUSN -> URARI -> IOPTB -> RPCDG -> BBRLU -> TAUBU -> IRVCI
-192
+PTUEG -> ORATU -> SLBOI -> ASTVG -> UIVLS -> ACBVU -> BVNVB -> BDBCD -> ESIUV -> OBNTR -> CBUPV -> GBVDG -> PDRCS -> TDERI
+347

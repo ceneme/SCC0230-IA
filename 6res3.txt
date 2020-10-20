@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NAACL -> PNNNT -> NNTEC -> OCDGN -> PAIEU -> IGCNO -> AUCOI
-55
+CTTDA -> BUOSN -> NVSAT -> VORTP -> LPLED -> IBABD
+25

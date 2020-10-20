@@ -7,7 +7,7 @@ using namespace std;
 #define fi first
 #define se second
 #define MAXIMO 1000006
-#define fator_limitante 3
+#define fator_limitante 10000
 #define INF 999999999
 
 /*

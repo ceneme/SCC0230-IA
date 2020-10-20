@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LBNIV -> REVCP -> BUODG -> ALLIP -> ARPEE -> LIELG -> RVVAP
-272
+EIIOL -> IACGD -> SOVLG -> CDVCV -> SSNNL -> UGVCP -> PPNNE -> SOCCI -> BGESU -> PUTUT -> ISGIE -> ISPOL -> RGIAC -> NCSRE
+388

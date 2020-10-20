@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-AVTOC -> BTCUG -> CLGCO -> RADVS -> APSIB -> LRLVI -> EOCUD -> REIUV -> BECTS
-231
+CTLPT -> SCGED -> UUPTT -> BDCIA -> DNLAT -> LTSBT -> DUVIR -> UDLIT -> DSRBB -> LOSBA -> PEDVB
+139

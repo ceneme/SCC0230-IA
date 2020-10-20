@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GNTVN -> AIGEB -> LILCB -> TTOUL
-213
+UNLIL -> EEAAI -> GSUAN -> BLLTN -> DBCSI -> IVDCE -> NIIRN -> RTEAU -> UOAOI
+190

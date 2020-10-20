@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PGPBC -> VLSUS -> NICIV -> RRPBN -> AGDOD
-326
+PTUGG -> LTLAS -> PELDP -> AVVSI -> TLLIT -> EVCNT -> ASABN -> IGLLO
+267

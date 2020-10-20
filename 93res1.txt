@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PONCU -> LTBPC -> ICTBD -> VVRTP -> EGIGR -> TBLTI -> UVNCU -> VCSRS -> VGRSU -> SBUDI -> SNROL -> POOPP -> CDGLT -> UOSSG -> AEEUR
-477
+LLCUU -> EAGED -> VOIDR -> PABRN -> UCGOG -> ISPTS -> PDTBR
+187

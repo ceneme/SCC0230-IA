@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-AVTSE -> BIBDT -> VTICO -> CVPVV -> UDRUS -> DCELP -> RDETN -> GIBCP -> VSSAG -> NNUGL
-324
+EIBVA -> CVPSE -> NUBVT -> OVACT -> IOGRC -> EIBTO -> EDOPV -> DIEUV -> RIPGV -> BGIIT -> CRCNI
+307

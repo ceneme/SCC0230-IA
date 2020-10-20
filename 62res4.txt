@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-BDBAC -> IPNEE -> CNIGB -> DUUVL -> DPCTT -> NIPAL -> IOURS
-187
+ITGRP -> BSEND -> PDECI -> VNSNL -> LPPOD -> REVDI -> VILII -> TTGIU -> SCGCC
+189

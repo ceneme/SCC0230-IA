@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VEBET -> ILDVE -> BPPOL -> VIDAP -> CPVUB -> UIGPE -> TDPUU -> TOVDT -> VOVBA
-779
+BNCGV -> LOEEB -> BGSOI -> DUANL -> ODBEL -> TIAEB -> SBGRL -> ASLUU -> RBLVA -> IPIBT -> GLTSE -> DDSCI -> BONDG
+582

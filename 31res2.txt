@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-IGGDI -> DCSED -> STBRN -> SOANV
-81
+CCVCR -> RGTDA -> BNOEO -> GTDTN -> GNUVA -> CNTLO -> PSAUN -> IGLVT
+101

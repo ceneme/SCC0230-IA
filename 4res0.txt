@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-IOERT -> CDECU -> CAAVC -> APRLR -> EEOVR -> LRLID -> PBPLD -> ASCNL
-23
+VBPLP -> TVTGG -> OENDA -> GOARU -> OEEAL -> EALBD -> STEDE -> NCBUD -> OOBTT -> IVEEA -> VVPOC -> TBROE
+30

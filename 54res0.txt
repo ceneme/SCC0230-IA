@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LPRES -> NAIVP -> TEIOV -> DUUCD -> ALDRR -> ILLVA -> DPVVE -> NGAGN
-170
+STVTV -> BGTIC -> DCPOD -> GPPUL -> VIOIE -> NPBAU -> OCRIP -> EVSLP -> DBPBA -> LPACV -> DCBTI
+249

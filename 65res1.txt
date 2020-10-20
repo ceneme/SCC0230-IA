@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LLPIU -> IUDPR -> UDVEB -> LDNVS -> SRNEI -> CPPVV -> RRIGG
-169
+RPDLO -> PPVLE -> TIDLR -> UABLP -> UGGLI -> PATCR -> EAIOT -> ISVPV
+389

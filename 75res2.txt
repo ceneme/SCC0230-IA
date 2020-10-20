@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-OUUBL -> GPCSN -> CPCVP -> NBLLO -> COULT -> BNDBO -> IDBIS -> BALTE
-213
+OTIGB -> NVGBI -> AUDEG -> UORII -> BCAUO -> PBGOD -> ACLBA -> OIPUL -> DLLLA -> LGAPL -> REUTV -> VGGEO
+226

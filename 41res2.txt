@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DDORT -> DBGVV -> AADDR -> OUSAB -> ENDOO -> IOBGB -> RTNTV
-171
+DBBEC -> UTEVG -> TGEDS -> CTDNE -> TPEID -> LVBVU -> NNGOC -> NNOOO -> EDLSC -> ROIPR -> OTGDL -> UGVAL -> IBBEU
+255

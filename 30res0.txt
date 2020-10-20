@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ELBGP -> EIDUU -> SORTO -> VDCTE -> OBNAS -> CUANL -> NCICP -> DPNRB
-256
+BERBN -> IGURC -> RGLPU -> UCNOL -> ERTSU -> TLDTV -> EOGPO -> GPPGD -> LUBRE -> ECUIV -> TIUIB
+142

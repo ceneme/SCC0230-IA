@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-EETUA -> NRVDI -> GVDEG -> AIGRE -> INLPP -> SLBVT -> ETRAP -> TADBS
-188
+LVDRB -> DNSAT -> PVLUO -> AELPB -> SNCCG -> BGLOB -> PLGNU -> GIUCR -> CTNAG -> VSORB -> NNCTB -> NCLOA -> GUELV
+257

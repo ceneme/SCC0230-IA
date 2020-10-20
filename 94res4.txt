@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-IEUNE -> VCGNL -> VIEOE -> ULAGP -> OBRLD -> RIPNS -> RVOSN -> RENEA
-238
+GENES -> UGLLV -> ESTVA -> PSOVR -> PUIIL -> ACULD -> OBBTN -> DPATI -> VPNER -> PCDNP -> VSUEV -> VORVE -> TPBPR
+236

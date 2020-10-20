@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-BCRIA -> ERNSU -> DNOGP -> PBERI -> ELAOD -> EPIBO -> EURGC -> GSTER -> GSVLL -> UGLEI -> CVITG -> ELNLV -> CRCCR
-493
+EIADS -> OGLDO -> IGENU -> ORGTB -> ANCIV -> INRLD -> PNBVU -> PIGVU -> BUSEU -> PTCES
+241

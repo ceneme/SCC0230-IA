@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-VIAGG -> BPBIP -> UCRAS -> UEVGR -> URLAT -> PIRAS
-26
+PGTSS -> RSAUC -> ADUOA -> GNBSL -> SSUOU -> DNEIB -> ONVOO -> CAOIP -> ITRIP -> EPURO
+20

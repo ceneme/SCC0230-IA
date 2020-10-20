@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GVNPD -> AUPRV -> CECVN -> ERVUP -> BOTAD -> TSGAB -> PEVDV -> EOOGS -> BSELA -> VDUUU
-429
+SCETS -> OGNOG -> EUTLP -> PPBUT -> ANLPC -> SDDIP -> NLNGC -> LSTEU -> RSPLU -> GPLIC -> DPVUO -> ONTTP
+201

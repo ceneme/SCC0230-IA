@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-EGIRE -> DPIDP -> IBVRE -> CNTRL -> GAAAD -> DTVLG -> VOVDN
-443
+SPVUR -> RBENV -> DUULP -> VEENT -> OPNET -> LITST -> NOBVA -> SEEAI -> VDBVL -> UNBTI -> SCCCR -> NEPVI -> SNPUD -> LPRES -> TSSSO
+376

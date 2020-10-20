@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-RNDOL -> PANTP -> TLDBL -> CVGET -> AOTRG -> CEVST -> BPRPR
-192
+RETED -> EOELE -> AIVOL -> RLETT -> POPVU -> OACOD -> CBDNN -> NEDNV -> NGBTL -> LBUDC -> TSDUC -> LRRNA -> EGSLU -> SLVAO -> DNROS
+405

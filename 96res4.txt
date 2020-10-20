@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-TGLAU -> UIODL -> SACAC -> ADPBB -> VAICI -> ISIEB -> GCVAI
-380
+BLIOV -> PEIRU -> TICVS -> RELPL -> GESBP -> EUTNN -> ECIVV -> TIANL -> ORCUS -> CDDIV -> SUBRD -> TULNI -> DGTPG
+884

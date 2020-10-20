@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PAPTB -> CUDDA -> GEECN -> VPBRI -> EGTCA -> TCBIP
-12
+RBACP -> SCPLT -> CVUCG -> UBBBB
+8

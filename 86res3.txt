@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-INVLP -> EERTS -> UIBRU -> SEDPV -> SSRSI -> DBPDI -> PSNLG -> EUOEU -> RCDIC -> GTOGT -> GSACR -> BCGUN -> UOVUU
-845
+LGIEP -> RVULN -> PCRCE -> PODCT -> GUCDI -> CDCLS -> AIBSS -> GRUUA -> CSPTU -> LDCBB -> RVECB -> DGNGR -> RDDPL -> NPPDV
+562

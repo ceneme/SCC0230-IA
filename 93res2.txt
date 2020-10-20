@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-IUOUA -> ANSIO -> CAIDT -> LTAIA -> NSIOP -> OGVBC -> TTISC -> VCDCO -> LOLIB -> NDURO -> NLOLU -> LAEPB -> DVCBO -> VGOEA
-729
+LGVEO -> SPVED -> AGOIV -> NPENL -> DGNAN -> PDPLG -> TOUES -> LECLL -> PADBB -> EDVRS -> DBBOG
+273

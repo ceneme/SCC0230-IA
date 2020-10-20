@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-EUUCR -> CDRTT -> RLRLI -> TAOSU -> PTRTD -> OCSTL -> VSSTL -> IBRBG -> ONIST -> SPVVG -> AALDS
-623
+PIUSL -> IASPE -> BSEEP -> TSRCC -> GRBSR -> ORSGO -> BCTPS -> CSDAU -> RIVVE -> UABOB -> PADVV -> VEILN
+523

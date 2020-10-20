@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DUDNI -> RUBET -> UTPUG -> BRCNT -> RSCRS -> ULOIG -> PTOEP -> ILSAR
-105
+AGCVE -> CCUVR -> CDPGC -> AABPO -> CGVOC -> LLTIP -> BRSVL -> VTPGR -> LAGIV -> NLNLB -> GITIN
+101

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DLNRS -> LLAVD -> GETPI -> BATEO -> RESOR -> NCOSB
-276
+LGDVA -> TGCSI -> TGRGG -> VCVVO -> BGGRA -> BTVNO -> NTRAP -> CLRTV -> ARNDG -> PAUPU -> EVPGA
+216

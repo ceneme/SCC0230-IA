@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-URVPI -> UGBUP -> SRBDS -> PNVTP -> REGOS -> INSPP -> BGELR
-265
+OBTRL -> RDRIC -> PNEET -> DBAPN -> RICEN -> NGAAP -> ORDIA -> STCGV -> GGVTD
+161

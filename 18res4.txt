@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-GNDUL -> RILIC -> OVICG -> LVLIS -> GVVTD -> ISVVL -> DOLPS
-109
+CVTEO -> SLCVU -> IBVOA -> PALTS -> NRPGT -> PTETT -> UTNCL
+78

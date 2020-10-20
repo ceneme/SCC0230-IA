@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-UBNRA -> ETGRD -> LVEBI -> OVEUR -> LUSDS -> ILCAU -> ITPPT -> CDRNO -> AISIO
-491
+ESCTL -> TBGTP -> VLSLL -> SGVNC -> BLSCD -> USOIE -> NBRTO -> OONOD -> ENRLO -> BULGE -> BCAAS -> LENGC -> TULPN -> CLLGU -> SUIBE
+720

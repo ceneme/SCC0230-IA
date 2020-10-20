@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CPOGL -> SUSSO -> SDTNC -> NSRLB -> BGPGB -> EAEVN
-161
+UOAAO -> OBCVT -> NLPGV -> PNCRI -> UOSIN -> OAACE -> TEGPG -> TULRB -> PGEUP -> RGBBP -> GCNGS
+234

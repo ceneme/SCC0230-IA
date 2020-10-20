@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-EVSAP -> ALOPL -> AOVTD -> IPUSL -> BIRCN -> CARTO -> DNLRI
-231
+SAUEL -> ETGAI -> IVOIE -> LVSUR -> GBTDB -> OVPII -> LDRTV -> LNSLG -> VGBDA -> AARIV -> DIAOC
+192

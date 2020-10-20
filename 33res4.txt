@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ATVLL -> CUERT -> LANEN -> INVPI -> NAOEP -> NLOUI -> STGTN -> EUTTV -> CBNGU -> ICURP -> VLLIE -> DGIVV
-292
+ITEIN -> CELTS -> DEOTP -> CEPIO -> NBSGT -> ARUBG -> SVSCO -> ALGGL -> BUAGU -> GPBRV -> EUAOI -> USABB
+105

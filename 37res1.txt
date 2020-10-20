@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-SDLCB -> TOUNE -> LCONL -> UOPLA -> TVBUL -> NCGND -> EPIUU
-199
+TSBTC -> ALITU -> EBVVV -> OVBCI -> UIBSA -> VGEBL -> NCLLB -> VIIIE -> STNCL -> NEGBA -> OTUIV -> VVEER -> ESUTP -> STODL -> RPPVE
+270

@@ -21,7 +21,6 @@ string random_string(const int len) { // função que gera strings aleatórias
     return random_string;
 }
 
-
 int main (int argc, char*argv[]){
 
     srand((unsigned) time(NULL) * getpid()); //gera seed para números aleatórios

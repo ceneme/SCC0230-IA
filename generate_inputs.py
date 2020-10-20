@@ -15,6 +15,6 @@ for i in range(5):
 		f.write(str(j) + "\n")
 		f.write(str(i) + "\n")
 		f.write(str(ncidades[j]) + "\n")
-		f.write(str(2*ncidades[j]) + "\n")
+		f.write(str(int(1.5*ncidades[j])) + "\n")
 		f.write("5\n")
 		f.close()

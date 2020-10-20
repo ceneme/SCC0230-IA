@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ROIBD -> ETRLR -> DBCBL -> BTAIP -> DOALC -> GDIOC
-153
+NBCCO -> IRBRL -> UVORA -> TRGLB -> NBTPE -> PESOA -> EASBG -> TPCRV -> AETGO
+398

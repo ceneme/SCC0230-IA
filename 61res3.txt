@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-BTERO -> TISBU -> NGPVO -> GNDEU -> BGGNU -> GPUCI -> RSUVA -> GONTA -> RCBIC -> UUTBR -> IRRGC -> BLNVG
-319
+VEITC -> OVLOP -> GBGUI -> DNTLR -> CGDST -> IASTN -> RIVTO -> DBEBG -> IBILU -> PADAS -> RSVTE
+340

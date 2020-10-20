@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-ULCCE -> DVDPO -> TDBRG -> TUICS -> RBGNN
-34
+UDLDA -> AGEUI -> RBCEI -> VTEOC -> GIELE -> SPVNS -> RARTS -> CCRUB -> SUBAA -> GRTAC -> CURES -> TSAOC -> ICSRT
+50

@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-CCLND -> UNENT -> CVARS -> TBBLO -> LBTTG -> VGIIR -> RUICO -> SCDDB -> CSDSD -> NUNUE -> LDEVE
-686
+NTGAR -> EIDRO -> SNAGB -> RLUIE -> TDRGC -> SGLVE -> STVRV -> NOTLC -> RBTBN -> TTPUP
+220

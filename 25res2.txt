@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-IIDVD -> TOLSA -> VBBDB -> SRRBP -> GGABV -> UNTSD -> ORLPA -> LCEPN -> BPLUS
-75
+DLGNG -> NROSU -> NLDGV -> BCLDR -> PUSBG -> EVCBI -> GLTLA
+129

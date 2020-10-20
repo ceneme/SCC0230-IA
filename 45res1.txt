@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-PGOAA -> CGNVR -> SINAS -> IPPDU -> SRSNT -> VORRO -> PCNGR -> NPAIP -> VGCDN -> OBGNR -> RTVCG -> CRLVU -> PTPCB
-285
+LNLBS -> VEUBI -> IRUEP -> DSNOO -> CDDEV -> UTLCA -> GDBVU -> EAVLC -> NUNDG -> GPUOU -> DVLDL -> UAVPT -> CSEGT
+164

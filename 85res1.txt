@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-NVAVI -> PENRA -> PARAB -> LGDBI -> SVLIO -> IIOSC -> SPLPC -> VPGLU -> TNDDV
-368
+LTCBS -> CRGVB -> USUST -> NURCL -> UIUUR -> PNLGC -> DEENT
+173

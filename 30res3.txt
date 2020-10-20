@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-TPLUI -> INBLB -> SICCV -> CRSUP -> NIGRI -> CTVVB -> DASPU -> CGBSN -> GEDRT -> PPPCI -> DLAVI -> LTLOS -> TGLVR
-287
+UUPOO -> RIBIA -> UTGLV -> UABGE -> NGBBD -> BIULA
+106

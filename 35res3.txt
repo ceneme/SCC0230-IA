@@ -4,5 +4,6 @@ insira as arestas
 Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
-Caminho de cidades é: TGECL -> TVRDP -> CLUIT -> ETUTI -> RTADU -> VLUGR -> PTNGE
-91
+Caminho de cidades é: 
+UDOAE -> VOSBL -> RELGB -> GAOTR -> LOGOP -> VVCBB -> EULED -> GIRGT -> GGSBG -> UCINB -> DAACB
+129

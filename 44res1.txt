@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-LBVTU -> NOGTO -> RUCPR -> AAGOR -> NUVIV -> GCEDB -> OCGNI -> TICRU -> UVRPB -> CRNND
-191
+VNPEI -> RVROU -> UVEBU -> ETSSL -> ALUBL -> CROTP -> SUSRP -> LIALV -> BCCEC
+99

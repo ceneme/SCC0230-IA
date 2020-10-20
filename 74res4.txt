@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-BEBCG -> DLDLU -> GGPBR -> TUDDT -> BNOPT -> VAUIG -> IOCLV
-281
+NIPLB -> LGPDL -> VGUAG -> NRSRC -> UVIEA -> TRRVC -> IPIAT -> LVDUT -> BTLRE -> EPENS
+176

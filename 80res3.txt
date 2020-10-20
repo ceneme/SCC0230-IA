@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-DBSPB -> DPGRP -> RGPGN -> ICBUN -> OBITE -> TBULA
-200
+DNTUO -> GPCON -> PDNCS -> ANLUV -> TUASO -> UCGLB -> NGPPB -> NIEEA -> DPUII -> OGLDI -> SSREB -> ISTBB -> OUACT -> BARRB
+580

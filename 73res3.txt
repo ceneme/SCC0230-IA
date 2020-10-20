@@ -5,5 +5,5 @@ Qual o nome da cidade de origem e de destino?
 Início da execução
 Fim da execução
 Caminho de cidades é: 
-OUTAP -> ATISI -> ILNVR -> VIPVI -> LOTTT -> BTERV -> ROCPU -> VGGGP -> LBOSS -> UPLOS
-512
+VCOOS -> PTCCI -> EGSPU -> UOEPI -> DRANT -> LGBVA -> VLPRD -> APNCR -> VBSSC -> EUSUS -> PUGTC -> GATVL -> UONLU -> BGTTP -> TDPCI -> ENIUE -> OLTSP
+287
